@@ -13,16 +13,48 @@ typedef struct record2 {
   int next; // sig posicion dentro de A2
 } record2;
 
+typedef struct {
+  record1* array;  // will store pointers to record1 structs
+  size_t used;
+  size_t size;
+} Array;
+
+void initArray(Array*, size_t);
+void insertArray(Array* , record1);
+void freeArray(Array*);
+
+void testArray(){
+  Array a;
+  initArray(&a, 5);  // initially 5 elements
+  for (int i = 0; i < 10; i++) {
+    record1* r = (record1 *) malloc(sizeof(record1));
+    r->ptr = i;
+    insertArray(&a, *r);  // automatically resizes as necessary
+  }
+  printf("1st elem: %d\n", a.array[0].ptr);
+  printf("10th elem: %d\n", a.array[9].ptr);  // print 10th element
+  printf("# records: %d\n", (int)a.used);  // print number of elements
+  freeArray(&a);
+}
+
+int compareUser(const void *v1, const void *v2)
+{
+    const struct record1* r1 = v1;
+    const struct record1* r2 = v2;
+    return strcmp(r1->word, r2->word);
+}
+
+record1 rec1Arr [4];
 
 int traverseArchivo1(FILE* ar, char* target) {
-  // busca secuencialmente la palabra target en archivo 1
+  // busca secuencialmente el target string dentro de archivo 1
+  // devuelve la posición donde se encontró, -1 si no está.
   int i=0;
   while (fseek(ar, sizeof(record1)*i, SEEK_SET) == 0){
     record1 r1;
     fread(&r1, sizeof(record1), 1, ar);
     if(strcmp(r1.word, target)==0){
-     // printf("Duplicated %s\n", target);
-      return i; //Repetido entonces no escribimos
+      return i;
     }
     if (feof(ar)) {
       // Indica si tratamos de escribir más allá de EOF
@@ -65,6 +97,49 @@ int imprimirArchivo2(FILE* ar) {
   return 0;
 }
 
+int pruebaSort() {
+  printf("Inicia main prueba\n");
+  Array a;
+  initArray(&a, 6);  // initially 5 elements
+  printf("Creando elems\n");
+  record1* r = (record1 *) malloc(sizeof(record1));
+  r->ptr = 1;
+  strcpy(r->word, "wonderLand");
+
+  record1* r1 = (record1 *) malloc(sizeof(record1));
+  r->ptr = 1;
+  strcpy(r1->word, "alice");
+  
+  record1* r2 = (record1 *) malloc(sizeof(record1));
+  r2->ptr = 1;
+  strcpy(r2->word, "bunny");
+  
+  record1* r3 = (record1 *) malloc(sizeof(record1));
+  r3->ptr = 1;
+  strcpy(r3->word, "end");
+  
+  record1* r4 = (record1 *) malloc(sizeof(record1));
+  r4->ptr = 1;  
+  strcpy(r4->word, "hat");
+  
+  printf("Insertando elems\n");
+  insertArray(&a, *r);  // automatically resizes as necessary
+  insertArray(&a, *r1);
+  insertArray(&a, *r2);
+  insertArray(&a, *r3);
+  insertArray(&a, *r4);
+
+  printf("Before SORT\n");
+   for(int i=0; i<a.used; i++){
+       printf("%s\t", a.array[i].word);
+   }
+  qsort(a.array, a.used, sizeof(record1), compareUser);
+  printf("AFTER SORT\n");
+  for(int i=0; i<a.used; i++) {
+    printf("%s\t", a.array[i].word);
+  }
+  return 0;
+}
 
 /*  MAIN  */
 int main(void) {
@@ -76,6 +151,8 @@ int main(void) {
   ssize_t getline(char **lineptr, size_t *n, FILE *stream);
 
   int posA2 = 0;
+  Array a;
+  initArray(&a, 50);  // initially 50 elements
   
   // LEER LÍNEA POR LÍNEA
   char* line;
@@ -83,15 +160,13 @@ int main(void) {
   line = (char *) malloc(size);
   int line_index = 1;
   while( getline(&line, &size, file) != -1 ) {
-    //printf("Line: %d", line_index);
-    //printf("%s\n", line);
     const char s[2] = " ";
     char *token;
     /* get the first token */
     token = strtok(line, s);
    /* walk through other tokens */
-   while( token != NULL ) {
-      // printf( " %s\n", token );
+    while( token != NULL ) {
+        // printf( " %s\n", token );
       char clean[50];
       int j = 0;
       for (int i=0; token[i]!='\0'; i++) {
@@ -119,6 +194,7 @@ int main(void) {
           strcpy(r1.word, clean);
           r1.ptr = posA2;  
           fwrite(&r1, sizeof(record1), 1, archivo1);
+          insertArray(&a, r1);
           // TODO: CREAR PRIMER ENTRADA EN ARCHIVO 2
           // 1. Tomar la línea actual (line_index)
           // 2. Tomar la posA2 actual
@@ -128,6 +204,7 @@ int main(void) {
           r2.next = -1;
           fseek(archivo2, sizeof(record2)*posA2, SEEK_SET);
           fwrite(&r2, sizeof(record2), 1, archivo2);
+          
           // 4. Incrementar posA2.
           posA2++;
         } else { 
@@ -173,6 +250,16 @@ int main(void) {
   imprimirArchivo1(archivo1);
   printf("===============\n");
   imprimirArchivo2(archivo2);
+  putchar('\n');
+  printf("Before SORT\n");
+   for(int i=0; i<a.used; i++){
+       printf("%s\t", a.array[i].word);
+  }
+  qsort(a.array, a.used, sizeof(record1), compareUser);
+  printf("AFTER SORT\n");
+  for(int i=0; i<a.used; i++) {
+    printf("%s\t", a.array[i].word);
+  }
   fclose(archivo1);
 
   // for(int i= 0; i<20; i++){
@@ -189,15 +276,50 @@ int main(void) {
   printf("Tamaño record2 %zu", sizeof(record2));
   fclose(ar);
 */
+ 
+    //  strcpy(rec1Arr[0].word, "WonderLand");
+    //  rec1Arr[0].ptr=-1;
+    //  strcpy(rec1Arr[1].word, "Alice");
+    //  rec1Arr[1].ptr=-1;
+    //  strcpy(rec1Arr[0].word, "Hat");
+    //  rec1Arr[0].ptr=-1;
+    //  strcpy(rec1Arr[1].word, "Bunny");
+    //  rec1Arr[1].ptr=-1;
+    //  printf("Before sort: %s", rec1Arr[0].word);
+    //  printf("%s", rec1Arr[1].word);
+    //  printf("%s", rec1Arr[2].word);
+    //  printf("%s\n", rec1Arr[3].word);
+    //  qsort(rec1Arr, 2, sizeof(record1), compareUser);
+    //  printf("After sort: %s", rec1Arr[0].word);
+    //  printf("%s", rec1Arr[1].word);
+    //  printf("%s", rec1Arr[2].word);
+    //  printf("%s\n", rec1Arr[3].word);
+
   return 0;
 }
 
-/*/
+/* DYNAMIC ARRAY METHODS */
 
-size_t fpread(void *buffer, size_t size, size_t mitems, size_t offset, FILE *fp)
-{
-     if (fseek(fp, offset, SEEK_SET) != 0)
-         return 0;
-     return fread(buffer, size, nitems, fp);
+// initialize an array of record1 pointers
+void initArray(Array* a, size_t initialSize) {
+  a->array = malloc(initialSize * sizeof(record1));
+  a->used = 0;
+  a->size = initialSize;
 }
-/*/
+
+/* insert a record1 pointer to the array, if number of used elements
+   is equal to array size, double the size of the array. */
+void insertArray(Array *a, record1 element) {
+  // Syntax a->array[a->used++] updates a->used only *after* the array has been accessed.
+  if (a->used == a->size) {
+    a->size *= 2;
+    a->array = realloc(a->array, a->size * sizeof(record1));
+  }
+  a->array[a->used++] = element;
+}
+
+void freeArray(Array *a) {
+  free(a->array);
+  a->array = NULL;
+  a->used = a->size = 0;
+}
