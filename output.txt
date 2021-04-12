@@ -1,5064 +1,5066 @@
-R1 Word:alice
- R1 ptr: 0
-R1 Word:adventures
- R1 ptr: 1
-R1 Word:in
- R1 ptr: 2
-R1 Word:wonderland
- R1 ptr: 3
-R1 Word:lewis
- R1 ptr: 8
-R1 Word:carroll
- R1 ptr: 9
-R1 Word:the
- R1 ptr: 10
-R1 Word:millennium
- R1 ptr: 11
-R1 Word:fulcrum
- R1 ptr: 12
-R1 Word:edition
- R1 ptr: 13
-R1 Word:chapter
- R1 ptr: 14
-R1 Word:i
- R1 ptr: 15
-R1 Word:down
- R1 ptr: 16
-R1 Word:rabbit
- R1 ptr: 18
-R1 Word:was
- R1 ptr: 20
-R1 Word:beginning
- R1 ptr: 21
-R1 Word:to
- R1 ptr: 22
-R1 Word:get
- R1 ptr: 23
-R1 Word:very
- R1 ptr: 24
-R1 Word:tired
- R1 ptr: 25
-R1 Word:of
- R1 ptr: 26
-R1 Word:sitting
- R1 ptr: 27
-R1 Word:by
- R1 ptr: 28
-R1 Word:her
- R1 ptr: 29
-R1 Word:sister
- R1 ptr: 30
-R1 Word:on
- R1 ptr: 31
-R1 Word:bank
- R1 ptr: 33
-R1 Word:and
- R1 ptr: 34
-R1 Word:having
- R1 ptr: 36
-R1 Word:nothing
- R1 ptr: 37
-R1 Word:do
- R1 ptr: 39
-R1 Word:once
- R1 ptr: 40
-R1 Word:or
- R1 ptr: 41
-R1 Word:twice
- R1 ptr: 42
-R1 Word:she
- R1 ptr: 43
-R1 Word:had
- R1 ptr: 44
-R1 Word:peeped
- R1 ptr: 45
-R1 Word:into
- R1 ptr: 46
-R1 Word:book
- R1 ptr: 48
-R1 Word:reading
- R1 ptr: 52
-R1 Word:but
- R1 ptr: 53
-R1 Word:it
- R1 ptr: 54
-R1 Word:no
- R1 ptr: 56
-R1 Word:pictures
- R1 ptr: 57
-R1 Word:conversations
- R1 ptr: 59
-R1 Word:what
- R1 ptr: 63
-R1 Word:is
- R1 ptr: 64
-R1 Word:use
- R1 ptr: 66
+===============Imprimiendo Archivo 1
 R1 Word:a
  R1 ptr: 68
-R1 Word:thought
- R1 ptr: 70
-R1 Word:without
- R1 ptr: 72
-R1 Word:conversation
- R1 ptr: 75
-R1 Word:so
- R1 ptr: 76
-R1 Word:considering
- R1 ptr: 79
-R1 Word:own
- R1 ptr: 82
-R1 Word:mind
- R1 ptr: 83
-R1 Word:as
- R1 ptr: 84
-R1 Word:well
- R1 ptr: 85
-R1 Word:could
- R1 ptr: 88
-R1 Word:for
- R1 ptr: 89
-R1 Word:hot
- R1 ptr: 91
-R1 Word:day
- R1 ptr: 92
-R1 Word:made
- R1 ptr: 93
-R1 Word:feel
- R1 ptr: 95
-R1 Word:sleepy
- R1 ptr: 97
-R1 Word:stupid
- R1 ptr: 99
-R1 Word:whether
- R1 ptr: 100
-R1 Word:pleasure
- R1 ptr: 102
-R1 Word:making
- R1 ptr: 104
-R1 Word:daisy
- R1 ptr: 106
-R1 Word:would
- R1 ptr: 107
-R1 Word:be
- R1 ptr: 108
-R1 Word:worth
- R1 ptr: 109
-R1 Word:trouble
- R1 ptr: 111
-R1 Word:getting
- R1 ptr: 113
-R1 Word:up
- R1 ptr: 114
-R1 Word:picking
- R1 ptr: 116
-R1 Word:daisies
- R1 ptr: 118
-R1 Word:when
- R1 ptr: 119
-R1 Word:suddenly
- R1 ptr: 120
-R1 Word:white
- R1 ptr: 122
-R1 Word:with
- R1 ptr: 124
-R1 Word:pink
- R1 ptr: 125
-R1 Word:eyes
- R1 ptr: 126
-R1 Word:ran
- R1 ptr: 127
-R1 Word:close
- R1 ptr: 128
-R1 Word:there
- R1 ptr: 131
-R1 Word:remarkable
- R1 ptr: 136
-R1 Word:that
- R1 ptr: 138
-R1 Word:nor
- R1 ptr: 139
-R1 Word:did
- R1 ptr: 140
-R1 Word:think
- R1 ptr: 142
-R1 Word:much
- R1 ptr: 146
-R1 Word:out
- R1 ptr: 147
-R1 Word:way
- R1 ptr: 150
-R1 Word:hear
- R1 ptr: 152
-R1 Word:say
- R1 ptr: 155
-R1 Word:itself
- R1 ptr: 157
-R1 Word:oh
- R1 ptr: 158
-R1 Word:dear
- R1 ptr: 159
-R1 Word:shall
- R1 ptr: 163
-R1 Word:late
- R1 ptr: 165
-R1 Word:over
- R1 ptr: 170
-R1 Word:afterwards
- R1 ptr: 171
-R1 Word:occurred
- R1 ptr: 173
-R1 Word:ought
- R1 ptr: 178
-R1 Word:have
- R1 ptr: 180
-R1 Word:wondered
- R1 ptr: 181
-R1 Word:at
- R1 ptr: 182
-R1 Word:this
- R1 ptr: 183
-R1 Word:time
- R1 ptr: 187
-R1 Word:all
- R1 ptr: 189
-R1 Word:seemed
- R1 ptr: 190
-R1 Word:quite
- R1 ptr: 191
-R1 Word:natural
- R1 ptr: 192
-R1 Word:actually
- R1 ptr: 197
-R1 Word:took
- R1 ptr: 198
-R1 Word:watch
- R1 ptr: 200
-R1 Word:its
- R1 ptr: 203
-R1 Word:waistcoat
- R1 ptr: 204
-R1 Word:pocket
- R1 ptr: 205
-R1 Word:looked
- R1 ptr: 207
-R1 Word:then
- R1 ptr: 211
-R1 Word:hurried
- R1 ptr: 212
-R1 Word:started
- R1 ptr: 215
-R1 Word:feet
- R1 ptr: 218
-R1 Word:flashed
- R1 ptr: 221
-R1 Word:across
- R1 ptr: 222
-R1 Word:never
- R1 ptr: 228
-R1 Word:before
- R1 ptr: 229
-R1 Word:seen
- R1 ptr: 230
-R1 Word:either
- R1 ptr: 234
-R1 Word:take
- R1 ptr: 241
-R1 Word:burning
- R1 ptr: 246
-R1 Word:curiosity
- R1 ptr: 248
-R1 Word:field
- R1 ptr: 253
-R1 Word:after
- R1 ptr: 254
-R1 Word:fortunately
- R1 ptr: 257
-R1 Word:just
- R1 ptr: 259
-R1 Word:see
- R1 ptr: 263
-R1 Word:pop
- R1 ptr: 265
-R1 Word:large
- R1 ptr: 268
-R1 Word:under
- R1 ptr: 270
-R1 Word:hedge
- R1 ptr: 272
-R1 Word:another
- R1 ptr: 274
-R1 Word:moment
- R1 ptr: 275
-R1 Word:went
- R1 ptr: 277
-R1 Word:how
- R1 ptr: 284
-R1 Word:world
- R1 ptr: 287
-R1 Word:again
- R1 ptr: 293
-R1 Word:straight
- R1 ptr: 297
-R1 Word:like
- R1 ptr: 299
-R1 Word:tunnel
- R1 ptr: 301
-R1 Word:some
- R1 ptr: 303
-R1 Word:dipped
- R1 ptr: 307
-R1 Word:not
- R1 ptr: 315
-R1 Word:about
- R1 ptr: 320
-R1 Word:stopping
- R1 ptr: 321
-R1 Word:herself
- R1 ptr: 322
-R1 Word:found
- R1 ptr: 325
-R1 Word:falling
- R1 ptr: 327
-R1 Word:deep
- R1 ptr: 331
-R1 Word:fell
- R1 ptr: 341
-R1 Word:slowly
- R1 ptr: 343
-R1 Word:plenty
- R1 ptr: 347
-R1 Word:look
- R1 ptr: 355
-R1 Word:wonder
- R1 ptr: 360
-R1 Word:going
- R1 ptr: 363
-R1 Word:happen
- R1 ptr: 365
-R1 Word:next
- R1 ptr: 366
-R1 Word:first
- R1 ptr: 367
-R1 Word:tried
- R1 ptr: 369
-R1 Word:make
- R1 ptr: 374
-R1 Word:coming
- R1 ptr: 379
-R1 Word:too
- R1 ptr: 384
-R1 Word:dark
- R1 ptr: 385
-R1 Word:anything
- R1 ptr: 388
-R1 Word:sides
- R1 ptr: 394
-R1 Word:noticed
- R1 ptr: 399
-R1 Word:they
- R1 ptr: 401
-R1 Word:were
- R1 ptr: 402
-R1 Word:filled
- R1 ptr: 403
-R1 Word:cupboards
- R1 ptr: 405
-R1 Word:here
- R1 ptr: 408
-R1 Word:saw
- R1 ptr: 412
-R1 Word:maps
- R1 ptr: 413
-R1 Word:hung
- R1 ptr: 416
-R1 Word:upon
- R1 ptr: 417
-R1 Word:pegs
- R1 ptr: 418
-R1 Word:jar
- R1 ptr: 423
-R1 Word:from
- R1 ptr: 424
-R1 Word:one
- R1 ptr: 425
-R1 Word:shelves
- R1 ptr: 428
-R1 Word:passed
- R1 ptr: 431
-R1 Word:labelled
- R1 ptr: 434
-R1 Word:orange
- R1 ptr: 435
-R1 Word:marmalade
- R1 ptr: 436
-R1 Word:great
- R1 ptr: 440
-R1 Word:disappointment
- R1 ptr: 441
-R1 Word:empty
- R1 ptr: 444
-R1 Word:drop
- R1 ptr: 450
-R1 Word:fear
- R1 ptr: 454
-R1 Word:killing
- R1 ptr: 456
-R1 Word:somebody
- R1 ptr: 457
-R1 Word:managed
- R1 ptr: 459
-R1 Word:put
- R1 ptr: 461
-R1 Word:past
- R1 ptr: 471
-R1 Word:such
- R1 ptr: 479
-R1 Word:fall
- R1 ptr: 481
-R1 Word:tumbling
- R1 ptr: 489
-R1 Word:stairs
- R1 ptr: 491
-R1 Word:brave
- R1 ptr: 493
-R1 Word:me
- R1 ptr: 497
-R1 Word:home
- R1 ptr: 499
-R1 Word:why
- R1 ptr: 500
-R1 Word:wouldn
- R1 ptr: 502
-R1 Word:even
- R1 ptr: 507
-R1 Word:if
- R1 ptr: 508
-R1 Word:off
- R1 ptr: 511
-R1 Word:top
- R1 ptr: 513
-R1 Word:house
- R1 ptr: 516
-R1 Word:which
- R1 ptr: 517
-R1 Word:likely
- R1 ptr: 520
-R1 Word:true
- R1 ptr: 521
-R1 Word:come
- R1 ptr: 529
-R1 Word:an
- R1 ptr: 531
-R1 Word:end
- R1 ptr: 532
-R1 Word:many
- R1 ptr: 536
-R1 Word:miles
- R1 ptr: 537
-R1 Word:fallen
- R1 ptr: 539
-R1 Word:said
- R1 ptr: 544
-R1 Word:aloud
- R1 ptr: 545
-R1 Word:must
- R1 ptr: 547
-R1 Word:somewhere
- R1 ptr: 550
-R1 Word:near
- R1 ptr: 551
-R1 Word:centre
- R1 ptr: 553
-R1 Word:earth
- R1 ptr: 556
-R1 Word:let
- R1 ptr: 557
-R1 Word:four
- R1 ptr: 563
-R1 Word:thousand
- R1 ptr: 564
-R1 Word:you
- R1 ptr: 570
-R1 Word:learnt
- R1 ptr: 574
-R1 Word:several
- R1 ptr: 575
-R1 Word:things
- R1 ptr: 576
-R1 Word:sort
- R1 ptr: 579
-R1 Word:lessons
- R1 ptr: 582
-R1 Word:schoolroom
- R1 ptr: 585
-R1 Word:though
- R1 ptr: 587
-R1 Word:good
- R1 ptr: 593
-R1 Word:opportunity
- R1 ptr: 594
-R1 Word:showing
- R1 ptr: 596
-R1 Word:knowledge
- R1 ptr: 599
-R1 Word:listen
- R1 ptr: 606
-R1 Word:still
- R1 ptr: 609
-R1 Word:practice
- R1 ptr: 613
-R1 Word:yes
- R1 ptr: 618
-R1 Word:right
- R1 ptr: 622
-R1 Word:distance
- R1 ptr: 623
-R1 Word:latitude
- R1 ptr: 628
-R1 Word:longitude
- R1 ptr: 630
-R1 Word:got
- R1 ptr: 632
-R1 Word:idea
- R1 ptr: 637
-R1 Word:nice
- R1 ptr: 648
-R1 Word:grand
- R1 ptr: 649
-R1 Word:words
- R1 ptr: 650
-R1 Word:presently
- R1 ptr: 653
-R1 Word:began
- R1 ptr: 655
-R1 Word:through
- R1 ptr: 664
-R1 Word:funny
- R1 ptr: 668
-R1 Word:seem
- R1 ptr: 670
-R1 Word:among
- R1 ptr: 674
-R1 Word:people
- R1 ptr: 676
-R1 Word:walk
- R1 ptr: 678
-R1 Word:their
- R1 ptr: 680
-R1 Word:heads
- R1 ptr: 681
-R1 Word:downward
- R1 ptr: 682
-R1 Word:antipathies
- R1 ptr: 684
-R1 Word:rather
- R1 ptr: 689
-R1 Word:glad
- R1 ptr: 690
-R1 Word:listening
- R1 ptr: 695
-R1 Word:didn
- R1 ptr: 700
-R1 Word:sound
- R1 ptr: 701
-R1 Word:word
- R1 ptr: 706
-R1 Word:ask
- R1 ptr: 712
-R1 Word:them
- R1 ptr: 713
-R1 Word:name
- R1 ptr: 716
-R1 Word:country
- R1 ptr: 719
-R1 Word:know
- R1 ptr: 722
-R1 Word:please
- R1 ptr: 723
-R1 Word:ma
- R1 ptr: 724
-R1 Word:new
- R1 ptr: 727
-R1 Word:zealand
- R1 ptr: 728
-R1 Word:australia
- R1 ptr: 730
-R1 Word:curtsey
- R1 ptr: 735
-R1 Word:spoke
- R1 ptr: 738
-R1 Word:curtseying
- R1 ptr: 739
-R1 Word:air
- R1 ptr: 745
-R1 Word:manage
- R1 ptr: 751
-R1 Word:ignorant
- R1 ptr: 756
-R1 Word:little
- R1 ptr: 757
-R1 Word:girl
- R1 ptr: 758
-R1 Word:asking
- R1 ptr: 763
-R1 Word:perhaps
- R1 ptr: 770
-R1 Word:written
- R1 ptr: 775
-R1 Word:else
- R1 ptr: 784
-R1 Word:soon
- R1 ptr: 789
-R1 Word:talking
- R1 ptr: 791
-R1 Word:dinah
- R1 ptr: 793
-R1 Word:miss
- R1 ptr: 794
-R1 Word:should
- R1 ptr: 800
-R1 Word:cat
- R1 ptr: 805
-R1 Word:hope
- R1 ptr: 807
-R1 Word:remember
- R1 ptr: 809
-R1 Word:saucer
- R1 ptr: 811
-R1 Word:milk
- R1 ptr: 813
-R1 Word:tea
- R1 ptr: 815
-R1 Word:my
- R1 ptr: 817
-R1 Word:wish
- R1 ptr: 820
-R1 Word:are
- R1 ptr: 828
-R1 Word:mice
- R1 ptr: 830
-R1 Word:afraid
- R1 ptr: 835
-R1 Word:might
- R1 ptr: 838
-R1 Word:catch
- R1 ptr: 839
-R1 Word:bat
- R1 ptr: 841
-R1 Word:mouse
- R1 ptr: 847
-R1 Word:cats
- R1 ptr: 852
-R1 Word:eat
- R1 ptr: 853
-R1 Word:bats
- R1 ptr: 854
-R1 Word:saying
- R1 ptr: 868
-R1 Word:dreamy
- R1 ptr: 873
-R1 Word:sometimes
- R1 ptr: 886
-R1 Word:couldn
- R1 ptr: 896
-R1 Word:answer
- R1 ptr: 897
-R1 Word:question
- R1 ptr: 899
-R1 Word:matter
- R1 ptr: 903
-R1 Word:felt
- R1 ptr: 910
-R1 Word:dozing
- R1 ptr: 914
-R1 Word:begun
- R1 ptr: 919
-R1 Word:dream
- R1 ptr: 921
-R1 Word:walking
- R1 ptr: 925
-R1 Word:hand
- R1 ptr: 926
-R1 Word:earnestly
- R1 ptr: 936
-R1 Word:now
- R1 ptr: 937
-R1 Word:tell
- R1 ptr: 939
-R1 Word:truth
- R1 ptr: 942
-R1 Word:ever
- R1 ptr: 945
-R1 Word:thump
- R1 ptr: 951
-R1 Word:came
- R1 ptr: 955
-R1 Word:heap
- R1 ptr: 958
-R1 Word:sticks
- R1 ptr: 960
-R1 Word:dry
- R1 ptr: 962
-R1 Word:leaves
- R1 ptr: 963
-R1 Word:bit
- R1 ptr: 973
-R1 Word:hurt
- R1 ptr: 974
-R1 Word:jumped
- R1 ptr: 977
-R1 Word:overhead
- R1 ptr: 994
-R1 Word:long
- R1 ptr: 999
-R1 Word:passage
- R1 ptr: 1000
-R1 Word:sight
- R1 ptr: 1008
-R1 Word:hurrying
- R1 ptr: 1009
-R1 Word:lost
- R1 ptr: 1019
-R1 Word:away
- R1 ptr: 1020
-R1 Word:wind
- R1 ptr: 1025
-R1 Word:turned
- R1 ptr: 1037
-R1 Word:corner
- R1 ptr: 1039
-R1 Word:ears
- R1 ptr: 1042
-R1 Word:whiskers
- R1 ptr: 1044
-R1 Word:behind
- R1 ptr: 1052
-R1 Word:longer
- R1 ptr: 1064
-R1 Word:low
- R1 ptr: 1074
-R1 Word:hall
- R1 ptr: 1075
-R1 Word:lit
- R1 ptr: 1078
-R1 Word:row
- R1 ptr: 1082
-R1 Word:lamps
- R1 ptr: 1084
-R1 Word:hanging
- R1 ptr: 1085
-R1 Word:roof
- R1 ptr: 1088
-R1 Word:doors
- R1 ptr: 1091
-R1 Word:round
- R1 ptr: 1093
-R1 Word:locked
- R1 ptr: 1100
-R1 Word:been
- R1 ptr: 1105
-R1 Word:side
- R1 ptr: 1111
-R1 Word:other
- R1 ptr: 1115
-R1 Word:trying
- R1 ptr: 1116
-R1 Word:every
- R1 ptr: 1117
-R1 Word:door
- R1 ptr: 1118
-R1 Word:walked
- R1 ptr: 1120
-R1 Word:sadly
- R1 ptr: 1121
-R1 Word:middle
- R1 ptr: 1124
-R1 Word:wondering
- R1 ptr: 1125
-R1 Word:three
- R1 ptr: 1140
-R1 Word:table
- R1 ptr: 1141
-R1 Word:solid
- R1 ptr: 1145
-R1 Word:glass
- R1 ptr: 1146
-R1 Word:except
- R1 ptr: 1152
-R1 Word:tiny
- R1 ptr: 1154
-R1 Word:golden
- R1 ptr: 1155
-R1 Word:key
- R1 ptr: 1156
-R1 Word:belong
- R1 ptr: 1165
-R1 Word:alas
- R1 ptr: 1175
-R1 Word:locks
- R1 ptr: 1178
-R1 Word:small
- R1 ptr: 1187
-R1 Word:any
- R1 ptr: 1190
-R1 Word:rate
- R1 ptr: 1191
-R1 Word:open
- R1 ptr: 1195
-R1 Word:however
- R1 ptr: 1199
-R1 Word:second
- R1 ptr: 1202
-R1 Word:curtain
- R1 ptr: 1210
-R1 Word:fifteen
- R1 ptr: 1224
-R1 Word:inches
- R1 ptr: 1225
-R1 Word:high
- R1 ptr: 1226
-R1 Word:lock
- R1 ptr: 1235
-R1 Word:delight
- R1 ptr: 1240
-R1 Word:fitted
- R1 ptr: 1242
-R1 Word:opened
- R1 ptr: 1244
-R1 Word:led
- R1 ptr: 1251
-R1 Word:larger
- R1 ptr: 1258
-R1 Word:than
- R1 ptr: 1259
-R1 Word:rat
- R1 ptr: 1261
-R1 Word:knelt
- R1 ptr: 1263
-R1 Word:along
- R1 ptr: 1267
-R1 Word:loveliest
- R1 ptr: 1272
-R1 Word:garden
- R1 ptr: 1273
-R1 Word:longed
- R1 ptr: 1279
-R1 Word:wander
- R1 ptr: 1288
-R1 Word:those
- R1 ptr: 1291
-R1 Word:beds
- R1 ptr: 1292
-R1 Word:bright
- R1 ptr: 1294
-R1 Word:flowers
- R1 ptr: 1295
-R1 Word:cool
- R1 ptr: 1298
-R1 Word:fountains
- R1 ptr: 1299
-R1 Word:head
- R1 ptr: 1307
-R1 Word:doorway
- R1 ptr: 1310
-R1 Word:go
- R1 ptr: 1317
-R1 Word:poor
- R1 ptr: 1320
-R1 Word:shoulders
- R1 ptr: 1331
-R1 Word:shut
- R1 ptr: 1338
-R1 Word:telescope
- R1 ptr: 1342
-R1 Word:only
- R1 ptr: 1349
-R1 Word:begin
- R1 ptr: 1353
-R1 Word:happened
- R1 ptr: 1362
-R1 Word:lately
- R1 ptr: 1363
-R1 Word:few
- R1 ptr: 1372
-R1 Word:indeed
- R1 ptr: 1374
-R1 Word:really
- R1 ptr: 1376
-R1 Word:impossible
- R1 ptr: 1377
-R1 Word:waiting
- R1 ptr: 1385
-R1 Word:back
- R1 ptr: 1393
-R1 Word:half
- R1 ptr: 1397
-R1 Word:hoping
- R1 ptr: 1398
-R1 Word:find
- R1 ptr: 1401
-R1 Word:rules
- R1 ptr: 1413
-R1 Word:shutting
- R1 ptr: 1415
-R1 Word:telescopes
- R1 ptr: 1419
-R1 Word:bottle
- R1 ptr: 1426
-R1 Word:certainly
- R1 ptr: 1430
-R1 Word:neck
- R1 ptr: 1440
-R1 Word:paper
- R1 ptr: 1446
-R1 Word:label
- R1 ptr: 1447
-R1 Word:drink
- R1 ptr: 1451
-R1 Word:beautifully
- R1 ptr: 1453
-R1 Word:printed
- R1 ptr: 1454
-R1 Word:letters
- R1 ptr: 1459
-R1 Word:wise
- R1 ptr: 1471
-R1 Word:hurry
- R1 ptr: 1482
-R1 Word:marked
- R1 ptr: 1493
-R1 Word:poison
- R1 ptr: 1494
-R1 Word:read
- R1 ptr: 1500
-R1 Word:histories
- R1 ptr: 1504
-R1 Word:children
- R1 ptr: 1506
-R1 Word:who
- R1 ptr: 1507
-R1 Word:burnt
- R1 ptr: 1510
-R1 Word:eaten
- R1 ptr: 1512
-R1 Word:wild
- R1 ptr: 1515
-R1 Word:beasts
- R1 ptr: 1516
-R1 Word:unpleasant
- R1 ptr: 1519
-R1 Word:because
- R1 ptr: 1522
-R1 Word:simple
- R1 ptr: 1528
-R1 Word:friends
- R1 ptr: 1531
-R1 Word:taught
- R1 ptr: 1533
-R1 Word:red
- R1 ptr: 1539
-R1 Word:poker
- R1 ptr: 1540
-R1 Word:will
- R1 ptr: 1541
-R1 Word:burn
- R1 ptr: 1542
-R1 Word:hold
- R1 ptr: 1546
-R1 Word:cut
- R1 ptr: 1554
-R1 Word:your
- R1 ptr: 1555
-R1 Word:finger
- R1 ptr: 1556
-R1 Word:deeply
- R1 ptr: 1558
-R1 Word:knife
- R1 ptr: 1561
-R1 Word:usually
- R1 ptr: 1563
-R1 Word:bleeds
- R1 ptr: 1564
-R1 Word:forgotten
- R1 ptr: 1569
-R1 Word:almost
- R1 ptr: 1582
-R1 Word:certain
- R1 ptr: 1583
-R1 Word:disagree
- R1 ptr: 1585
-R1 Word:sooner
- R1 ptr: 1588
-R1 Word:later
- R1 ptr: 1590
-R1 Word:ventured
- R1 ptr: 1600
-R1 Word:taste
- R1 ptr: 1602
-R1 Word:finding
- R1 ptr: 1605
-R1 Word:fact
- R1 ptr: 1612
-R1 Word:mixed
- R1 ptr: 1616
-R1 Word:flavour
- R1 ptr: 1617
-R1 Word:cherry
- R1 ptr: 1619
-R1 Word:custard
- R1 ptr: 1620
-R1 Word:pine
- R1 ptr: 1621
-R1 Word:roast
- R1 ptr: 1622
-R1 Word:turkey
- R1 ptr: 1623
-R1 Word:toffee
- R1 ptr: 1624
-R1 Word:buttered
- R1 ptr: 1627
-R1 Word:toast
- R1 ptr: 1628
-R1 Word:finished
- R1 ptr: 1632
-R1 Word:curious
- R1 ptr: 1637
-R1 Word:feeling
- R1 ptr: 1638
-R1 Word:ten
- R1 ptr: 1658
-R1 Word:face
- R1 ptr: 1663
-R1 Word:brightened
- R1 ptr: 1664
-R1 Word:size
- R1 ptr: 1675
-R1 Word:lovely
- R1 ptr: 1684
-R1 Word:waited
- R1 ptr: 1689
-R1 Word:minutes
- R1 ptr: 1693
-R1 Word:shrink
- R1 ptr: 1701
-R1 Word:further
- R1 ptr: 1703
-R1 Word:nervous
- R1 ptr: 1708
-R1 Word:altogether
- R1 ptr: 1725
-R1 Word:candle
- R1 ptr: 1728
-R1 Word:fancy
- R1 ptr: 1741
-R1 Word:flame
- R1 ptr: 1744
-R1 Word:blown
- R1 ptr: 1754
-R1 Word:thing
- R1 ptr: 1766
-R1 Word:while
- R1 ptr: 1769
-R1 Word:more
- R1 ptr: 1773
-R1 Word:decided
- R1 ptr: 1776
-R1 Word:possibly
- R1 ptr: 1819
-R1 Word:reach
- R1 ptr: 1820
-R1 Word:plainly
- R1 ptr: 1827
-R1 Word:best
- R1 ptr: 1835
-R1 Word:climb
- R1 ptr: 1837
-R1 Word:legs
- R1 ptr: 1842
-R1 Word:slippery
- R1 ptr: 1850
-R1 Word:sat
- R1 ptr: 1864
-R1 Word:cried
- R1 ptr: 1867
-R1 Word:crying
- R1 ptr: 1873
-R1 Word:sharply
- R1 ptr: 1881
-R1 Word:advise
- R1 ptr: 1883
-R1 Word:leave
- R1 ptr: 1886
-R1 Word:minute
- R1 ptr: 1889
-R1 Word:generally
- R1 ptr: 1891
-R1 Word:gave
- R1 ptr: 1892
-R1 Word:advice
- R1 ptr: 1896
-R1 Word:seldom
- R1 ptr: 1900
-R1 Word:followed
- R1 ptr: 1901
-R1 Word:scolded
- R1 ptr: 1906
-R1 Word:severely
- R1 ptr: 1909
-R1 Word:bring
- R1 ptr: 1912
-R1 Word:tears
- R1 ptr: 1913
-R1 Word:remembered
- R1 ptr: 1920
-R1 Word:box
- R1 ptr: 1923
-R1 Word:cheated
- R1 ptr: 1929
-R1 Word:game
- R1 ptr: 1933
-R1 Word:croquet
- R1 ptr: 1935
-R1 Word:playing
- R1 ptr: 1938
-R1 Word:against
- R1 ptr: 1939
-R1 Word:child
- R1 ptr: 1944
-R1 Word:fond
- R1 ptr: 1947
-R1 Word:pretending
- R1 ptr: 1949
-R1 Word:two
- R1 ptr: 1952
-R1 Word:pretend
- R1 ptr: 1963
-R1 Word:hardly
- R1 ptr: 1970
-R1 Word:enough
- R1 ptr: 1971
-R1 Word:left
- R1 ptr: 1974
-R1 Word:respectable
- R1 ptr: 1978
-R1 Word:person
- R1 ptr: 1979
-R1 Word:eye
- R1 ptr: 1982
-R1 Word:lying
- R1 ptr: 1991
-R1 Word:cake
- R1 ptr: 2005
-R1 Word:currants
- R1 ptr: 2016
-R1 Word:makes
- R1 ptr: 2026
-R1 Word:grow
- R1 ptr: 2028
-R1 Word:can
- R1 ptr: 2031
-R1 Word:smaller
- R1 ptr: 2041
-R1 Word:creep
- R1 ptr: 2044
-R1 Word:don
- R1 ptr: 2058
-R1 Word:care
- R1 ptr: 2059
-R1 Word:happens
- R1 ptr: 2061
-R1 Word:ate
- R1 ptr: 2063
-R1 Word:anxiously
- R1 ptr: 2069
-R1 Word:holding
- R1 ptr: 2076
-R1 Word:growing
- R1 ptr: 2091
-R1 Word:surprised
- R1 ptr: 2096
-R1 Word:remained
- R1 ptr: 2101
-R1 Word:same
- R1 ptr: 2103
-R1 Word:sure
- R1 ptr: 2107
-R1 Word:eats
- R1 ptr: 2113
-R1 Word:expecting
- R1 ptr: 2125
-R1 Word:dull
- R1 ptr: 2136
-R1 Word:life
- R1 ptr: 2140
-R1 Word:common
- R1 ptr: 2146
-R1 Word:set
- R1 ptr: 2150
-R1 Word:work
- R1 ptr: 2152
-R1 Word:ii
- R1 ptr: 2161
-R1 Word:pool
- R1 ptr: 2163
-R1 Word:curiouser
- R1 ptr: 2166
-R1 Word:forgot
- R1 ptr: 2182
-R1 Word:speak
- R1 ptr: 2185
-R1 Word:english
- R1 ptr: 2187
-R1 Word:opening
- R1 ptr: 2190
-R1 Word:largest
- R1 ptr: 2194
-R1 Word:far
- R1 ptr: 2221
-R1 Word:shoes
- R1 ptr: 2235
-R1 Word:stockings
- R1 ptr: 2237
-R1 Word:dears
- R1 ptr: 2241
-R1 Word:shan
- R1 ptr: 2245
-R1 Word:able
- R1 ptr: 2247
-R1 Word:deal
- R1 ptr: 2253
-R1 Word:myself
- R1 ptr: 2259
-R1 Word:kind
- R1 ptr: 2274
-R1 Word:won
- R1 ptr: 2282
-R1 Word:want
- R1 ptr: 2287
-R1 Word:give
- R1 ptr: 2294
-R1 Word:pair
- R1 ptr: 2298
-R1 Word:boots
- R1 ptr: 2300
-R1 Word:christmas
- R1 ptr: 2302
-R1 Word:planning
- R1 ptr: 2307
-R1 Word:carrier
- R1 ptr: 2320
-R1 Word:sending
- R1 ptr: 2328
-R1 Word:presents
- R1 ptr: 2329
-R1 Word:odd
- R1 ptr: 2336
-R1 Word:directions
- R1 ptr: 2338
-R1 Word:foot
- R1 ptr: 2343
-R1 Word:esq
- R1 ptr: 2344
-R1 Word:hearthrug
- R1 ptr: 2345
-R1 Word:fender
- R1 ptr: 2348
-R1 Word:love
- R1 ptr: 2351
-R1 Word:nonsense
- R1 ptr: 2355
-R1 Word:struck
- R1 ptr: 2362
-R1 Word:nine
- R1 ptr: 2376
-R1 Word:hopeless
- R1 ptr: 2426
-R1 Word:cry
- R1 ptr: 2435
-R1 Word:ashamed
- R1 ptr: 2441
-R1 Word:yourself
- R1 ptr: 2443
-R1 Word:stop
- R1 ptr: 2463
-R1 Word:shedding
- R1 ptr: 2476
-R1 Word:gallons
- R1 ptr: 2477
-R1 Word:until
- R1 ptr: 2480
-R1 Word:reaching
- R1 ptr: 2494
-R1 Word:heard
- R1 ptr: 2503
-R1 Word:pattering
- R1 ptr: 2506
-R1 Word:hastily
- R1 ptr: 2514
-R1 Word:dried
- R1 ptr: 2515
-R1 Word:returning
- R1 ptr: 2528
-R1 Word:splendidly
- R1 ptr: 2529
-R1 Word:dressed
- R1 ptr: 2530
-R1 Word:kid
- R1 ptr: 2536
-R1 Word:gloves
- R1 ptr: 2537
-R1 Word:fan
- R1 ptr: 2544
-R1 Word:he
- R1 ptr: 2548
-R1 Word:trotting
- R1 ptr: 2550
-R1 Word:muttering
- R1 ptr: 2556
-R1 Word:himself
- R1 ptr: 2558
-R1 Word:duchess
- R1 ptr: 2564
-R1 Word:savage
- R1 ptr: 2571
-R1 Word:kept
- R1 ptr: 2574
-R1 Word:desperate
- R1 ptr: 2580
-R1 Word:ready
- R1 ptr: 2584
-R1 Word:help
- R1 ptr: 2587
-R1 Word:timid
- R1 ptr: 2603
-R1 Word:voice
- R1 ptr: 2604
-R1 Word:sir
- R1 ptr: 2608
-R1 Word:violently
- R1 ptr: 2612
-R1 Word:dropped
- R1 ptr: 2613
-R1 Word:skurried
- R1 ptr: 2622
-R1 Word:darkness
- R1 ptr: 2626
-R1 Word:hard
- R1 ptr: 2628
-R1 Word:fanning
- R1 ptr: 2649
-R1 Word:queer
- R1 ptr: 2661
-R1 Word:everything
- R1 ptr: 2662
-R1 Word:yesterday
- R1 ptr: 2666
-R1 Word:usual
- R1 ptr: 2672
-R1 Word:changed
- R1 ptr: 2678
-R1 Word:night
- R1 ptr: 2681
-R1 Word:morning
- R1 ptr: 2694
-R1 Word:different
- R1 ptr: 2704
-R1 Word:am
- R1 ptr: 2719
-R1 Word:ah
- R1 ptr: 2721
-R1 Word:puzzle
- R1 ptr: 2725
-R1 Word:thinking
- R1 ptr: 2729
-R1 Word:knew
- R1 ptr: 2735
-R1 Word:age
- R1 ptr: 2741
-R1 Word:ada
- R1 ptr: 2760
-R1 Word:hair
- R1 ptr: 2765
-R1 Word:goes
- R1 ptr: 2766
-R1 Word:ringlets
- R1 ptr: 2770
-R1 Word:mine
- R1 ptr: 2772
-R1 Word:doesn
- R1 ptr: 2773
-R1 Word:mabel
- R1 ptr: 2785
-R1 Word:sorts
- R1 ptr: 2790
-R1 Word:knows
- R1 ptr: 2797
-R1 Word:besides
- R1 ptr: 2802
-R1 Word:puzzling
- R1 ptr: 2811
-R1 Word:try
- R1 ptr: 2816
-R1 Word:used
- R1 ptr: 2824
-R1 Word:times
- R1 ptr: 2831
-R1 Word:five
- R1 ptr: 2832
-R1 Word:twelve
- R1 ptr: 2834
-R1 Word:six
- R1 ptr: 2838
-R1 Word:thirteen
- R1 ptr: 2840
-R1 Word:seven
- R1 ptr: 2844
-R1 Word:twenty
- R1 ptr: 2852
-R1 Word:multiplication
- R1 ptr: 2858
-R1 Word:signify
- R1 ptr: 2861
-R1 Word:geography
- R1 ptr: 2864
-R1 Word:london
- R1 ptr: 2865
-R1 Word:capital
- R1 ptr: 2868
-R1 Word:paris
- R1 ptr: 2870
-R1 Word:rome
- R1 ptr: 2877
-R1 Word:wrong
- R1 ptr: 2882
-R1 Word:doth
- R1 ptr: 2897
-R1 Word:crossed
- R1 ptr: 2902
-R1 Word:hands
- R1 ptr: 2904
-R1 Word:lap
- R1 ptr: 2907
-R1 Word:repeat
- R1 ptr: 2917
-R1 Word:sounded
- R1 ptr: 2922
-R1 Word:hoarse
- R1 ptr: 2923
-R1 Word:strange
- R1 ptr: 2925
-R1 Word:crocodile
- R1 ptr: 2943
-R1 Word:improve
- R1 ptr: 2944
-R1 Word:his
- R1 ptr: 2945
-R1 Word:shining
- R1 ptr: 2946
-R1 Word:tail
- R1 ptr: 2947
-R1 Word:pour
- R1 ptr: 2949
-R1 Word:waters
- R1 ptr: 2951
-R1 Word:nile
- R1 ptr: 2954
-R1 Word:scale
- R1 ptr: 2958
-R1 Word:cheerfully
- R1 ptr: 2960
-R1 Word:seems
- R1 ptr: 2962
-R1 Word:grin
- R1 ptr: 2964
-R1 Word:neatly
- R1 ptr: 2966
-R1 Word:spread
- R1 ptr: 2967
-R1 Word:claws
- R1 ptr: 2969
-R1 Word:welcome
- R1 ptr: 2971
-R1 Word:fishes
- R1 ptr: 2973
-R1 Word:gently
- R1 ptr: 2976
-R1 Word:smiling
- R1 ptr: 2977
-R1 Word:jaws
- R1 ptr: 2978
-R1 Word:live
- R1 ptr: 3014
-R1 Word:poky
- R1 ptr: 3017
-R1 Word:toys
- R1 ptr: 3025
-R1 Word:play
- R1 ptr: 3027
-R1 Word:learn
- R1 ptr: 3036
-R1 Word:stay
- R1 ptr: 3049
-R1 Word:putting
- R1 ptr: 3057
-R1 Word:being
- R1 ptr: 3087
-R1 Word:till
- R1 ptr: 3099
-R1 Word:sudden
- R1 ptr: 3109
-R1 Word:burst
- R1 ptr: 3110
-R1 Word:alone
- R1 ptr: 3130
-R1 Word:done
- R1 ptr: 3168
-R1 Word:measure
- R1 ptr: 3187
-R1 Word:nearly
- R1 ptr: 3195
-R1 Word:guess
- R1 ptr: 3199
-R1 Word:shrinking
- R1 ptr: 3211
-R1 Word:rapidly
- R1 ptr: 3212
-R1 Word:cause
- R1 ptr: 3219
-R1 Word:avoid
- R1 ptr: 3237
-R1 Word:narrow
- R1 ptr: 3244
-R1 Word:escape
- R1 ptr: 3245
-R1 Word:frightened
- R1 ptr: 3251
-R1 Word:change
- R1 ptr: 3255
-R1 Word:existence
- R1 ptr: 3264
-R1 Word:speed
- R1 ptr: 3275
-R1 Word:worse
- R1 ptr: 3305
-R1 Word:declare
- R1 ptr: 3324
-R1 Word:bad
- R1 ptr: 3327
-R1 Word:these
- R1 ptr: 3334
-R1 Word:slipped
- R1 ptr: 3338
-R1 Word:splash
- R1 ptr: 3343
-R1 Word:chin
- R1 ptr: 3349
-R1 Word:salt
- R1 ptr: 3351
-R1 Word:water
- R1 ptr: 3352
-R1 Word:somehow
- R1 ptr: 3360
-R1 Word:sea
- R1 ptr: 3364
-R1 Word:case
- R1 ptr: 3368
-R1 Word:railway
- R1 ptr: 3374
-R1 Word:seaside
- R1 ptr: 3384
-R1 Word:general
- R1 ptr: 3394
-R1 Word:conclusion
- R1 ptr: 3395
-R1 Word:wherever
- R1 ptr: 3397
-R1 Word:coast
- R1 ptr: 3404
-R1 Word:number
- R1 ptr: 3408
-R1 Word:bathing
- R1 ptr: 3410
-R1 Word:machines
- R1 ptr: 3411
-R1 Word:digging
- R1 ptr: 3417
-R1 Word:sand
- R1 ptr: 3420
-R1 Word:wooden
- R1 ptr: 3422
-R1 Word:spades
- R1 ptr: 3423
-R1 Word:lodging
- R1 ptr: 3428
-R1 Word:houses
- R1 ptr: 3429
-R1 Word:station
- R1 ptr: 3435
-R1 Word:wept
- R1 ptr: 3452
-R1 Word:hadn
- R1 ptr: 3462
-R1 Word:swam
- R1 ptr: 3470
-R1 Word:punished
- R1 ptr: 3481
-R1 Word:suppose
- R1 ptr: 3486
-R1 Word:drowned
- R1 ptr: 3489
-R1 Word:something
- R1 ptr: 3512
-R1 Word:splashing
- R1 ptr: 3513
-R1 Word:nearer
- R1 ptr: 3525
-R1 Word:walrus
- R1 ptr: 3540
-R1 Word:hippopotamus
- R1 ptr: 3542
-R1 Word:talk
- R1 ptr: 3597
-R1 Word:harm
- R1 ptr: 3603
-R1 Word:o
- R1 ptr: 3609
-R1 Word:swimming
- R1 ptr: 3625
-R1 Word:speaking
- R1 ptr: 3639
-R1 Word:brother
- R1 ptr: 3658
-R1 Word:latin
- R1 ptr: 3659
-R1 Word:grammar
- R1 ptr: 3660
-R1 Word:inquisitively
- R1 ptr: 3675
-R1 Word:wink
- R1 ptr: 3681
-R1 Word:understand
- R1 ptr: 3695
-R1 Word:daresay
- R1 ptr: 3700
-R1 Word:french
- R1 ptr: 3703
-R1 Word:william
- R1 ptr: 3708
-R1 Word:conqueror
- R1 ptr: 3710
-R1 Word:history
- R1 ptr: 3717
-R1 Word:clear
- R1 ptr: 3722
-R1 Word:notion
- R1 ptr: 3723
-R1 Word:ago
- R1 ptr: 3726
-R1 Word:ou
- R1 ptr: 3734
-R1 Word:est
- R1 ptr: 3735
-R1 Word:chatte
- R1 ptr: 3737
-R1 Word:sentence
- R1 ptr: 3742
-R1 Word:lesson
- R1 ptr: 3746
-R1 Word:leap
- R1 ptr: 3752
-R1 Word:quiver
- R1 ptr: 3760
-R1 Word:fright
- R1 ptr: 3764
-R1 Word:beg
- R1 ptr: 3767
-R1 Word:pardon
- R1 ptr: 3769
-R1 Word:animal
- R1 ptr: 3780
-R1 Word:feelings
- R1 ptr: 3781
-R1 Word:shrill
- R1 ptr: 3797
-R1 Word:passionate
- R1 ptr: 3798
-R1 Word:soothing
- R1 ptr: 3815
-R1 Word:tone
- R1 ptr: 3816
-R1 Word:angry
- R1 ptr: 3819
-R1 Word:yet
- R1 ptr: 3823
-R1 Word:show
- R1 ptr: 3828
-R1 Word:our
- R1 ptr: 3830
-R1 Word:quiet
- R1 ptr: 3852
-R1 Word:lazily
- R1 ptr: 3863
-R1 Word:sits
- R1 ptr: 3870
-R1 Word:purring
- R1 ptr: 3871
-R1 Word:nicely
- R1 ptr: 3873
-R1 Word:fire
- R1 ptr: 3876
-R1 Word:licking
- R1 ptr: 3877
-R1 Word:paws
- R1 ptr: 3879
-R1 Word:washing
- R1 ptr: 3881
-R1 Word:soft
- R1 ptr: 3889
-R1 Word:nurse
- R1 ptr: 3892
-R1 Word:catching
- R1 ptr: 3899
-R1 Word:bristling
- R1 ptr: 3914
-R1 Word:offended
- R1 ptr: 3925
-R1 Word:we
- R1 ptr: 3926
-R1 Word:trembling
- R1 ptr: 3944
-R1 Word:subject
- R1 ptr: 3960
-R1 Word:family
- R1 ptr: 3962
-R1 Word:always
- R1 ptr: 3963
-R1 Word:hated
- R1 ptr: 3964
-R1 Word:nasty
- R1 ptr: 3966
-R1 Word:vulgar
- R1 ptr: 3968
-R1 Word:dogs
- R1 ptr: 3996
-R1 Word:eagerly
- R1 ptr: 4006
-R1 Word:dog
- R1 ptr: 4013
-R1 Word:terrier
- R1 ptr: 4026
-R1 Word:curly
- R1 ptr: 4033
-R1 Word:brown
- R1 ptr: 4034
-R1 Word:fetch
- R1 ptr: 4038
-R1 Word:throw
- R1 ptr: 4042
-R1 Word:sit
- R1 ptr: 4046
-R1 Word:dinner
- R1 ptr: 4052
-R1 Word:belongs
- R1 ptr: 4064
-R1 Word:farmer
- R1 ptr: 4067
-R1 Word:says
- R1 ptr: 4072
-R1 Word:useful
- R1 ptr: 4075
-R1 Word:hundred
- R1 ptr: 4079
-R1 Word:pounds
- R1 ptr: 4080
-R1 Word:kills
- R1 ptr: 4084
-R1 Word:rats
- R1 ptr: 4087
-R1 Word:sorrowful
- R1 ptr: 4094
-R1 Word:commotion
- R1 ptr: 4120
-R1 Word:called
- R1 ptr: 4129
-R1 Word:softly
- R1 ptr: 4130
-R1 Word:pale
- R1 ptr: 4171
-R1 Word:passion
- R1 ptr: 4173
-R1 Word:us
- R1 ptr: 4185
-R1 Word:shore
- R1 ptr: 4189
-R1 Word:hate
- R1 ptr: 4204
-R1 Word:crowded
- R1 ptr: 4220
-R1 Word:birds
- R1 ptr: 4223
-R1 Word:animals
- R1 ptr: 4225
-R1 Word:duck
- R1 ptr: 4234
-R1 Word:dodo
- R1 ptr: 4237
-R1 Word:lory
- R1 ptr: 4239
-R1 Word:eaglet
- R1 ptr: 4242
-R1 Word:creatures
- R1 ptr: 4247
-R1 Word:whole
- R1 ptr: 4254
-R1 Word:party
- R1 ptr: 4255
-R1 Word:iii
- R1 ptr: 4261
-R1 Word:caucus
- R1 ptr: 4263
-R1 Word:tale
- R1 ptr: 4267
-R1 Word:assembled
- R1 ptr: 4275
-R1 Word:draggled
- R1 ptr: 4281
-R1 Word:feathers
- R1 ptr: 4282
-R1 Word:fur
- R1 ptr: 4287
-R1 Word:clinging
- R1 ptr: 4288
-R1 Word:dripping
- R1 ptr: 4294
-R1 Word:wet
- R1 ptr: 4295
-R1 Word:cross
- R1 ptr: 4296
-R1 Word:uncomfortable
- R1 ptr: 4298
-R1 Word:course
- R1 ptr: 4303
-R1 Word:consultation
- R1 ptr: 4313
-R1 Word:familiarly
- R1 ptr: 4331
-R1 Word:known
- R1 ptr: 4338
-R1 Word:argument
- R1 ptr: 4349
-R1 Word:last
- R1 ptr: 4355
-R1 Word:sulky
- R1 ptr: 4357
-R1 Word:older
- R1 ptr: 4364
-R1 Word:better
- R1 ptr: 4370
-R1 Word:allow
- R1 ptr: 4376
-R1 Word:knowing
- R1 ptr: 4378
-R1 Word:old
- R1 ptr: 4380
-R1 Word:positively
- R1 ptr: 4387
-R1 Word:refused
- R1 ptr: 4388
-R1 Word:authority
- R1 ptr: 4411
-R1 Word:ring
- R1 ptr: 4440
-R1 Word:fixed
- R1 ptr: 4452
-R1 Word:cold
- R1 ptr: 4464
-R1 Word:ahem
- R1 ptr: 4473
-R1 Word:important
- R1 ptr: 4479
-R1 Word:driest
- R1 ptr: 4488
-R1 Word:silence
- R1 ptr: 4492
-R1 Word:whose
- R1 ptr: 4501
-R1 Word:favoured
- R1 ptr: 4504
-R1 Word:pope
- R1 ptr: 4507
-R1 Word:submitted
- R1 ptr: 4510
-R1 Word:wanted
- R1 ptr: 4516
-R1 Word:leaders
- R1 ptr: 4517
-R1 Word:accustomed
- R1 ptr: 4524
-R1 Word:usurpation
- R1 ptr: 4526
-R1 Word:conquest
- R1 ptr: 4528
-R1 Word:edwin
- R1 ptr: 4529
-R1 Word:morcar
- R1 ptr: 4531
-R1 Word:earls
- R1 ptr: 4533
-R1 Word:mercia
- R1 ptr: 4535
-R1 Word:northumbria
- R1 ptr: 4537
-R1 Word:ugh
- R1 ptr: 4538
-R1 Word:shiver
- R1 ptr: 4544
-R1 Word:frowning
- R1 ptr: 4552
-R1 Word:politely
- R1 ptr: 4555
-R1 Word:proceed
- R1 ptr: 4573
-R1 Word:declared
- R1 ptr: 4583
-R1 Word:him
- R1 ptr: 4585
-R1 Word:stigand
- R1 ptr: 4588
-R1 Word:patriotic
- R1 ptr: 4590
-R1 Word:archbishop
- R1 ptr: 4591
-R1 Word:canterbury
- R1 ptr: 4593
-R1 Word:advisable
- R1 ptr: 4596
-R1 Word:replied
- R1 ptr: 4606
-R1 Word:crossly
- R1 ptr: 4608
-R1 Word:means
- R1 ptr: 4615
-R1 Word:frog
- R1 ptr: 4634
-R1 Word:worm
- R1 ptr: 4637
-R1 Word:notice
- R1 ptr: 4650
-R1 Word:hurriedly
- R1 ptr: 4654
-R1 Word:edgar
- R1 ptr: 4663
-R1 Word:atheling
- R1 ptr: 4664
-R1 Word:meet
- R1 ptr: 4666
-R1 Word:offer
- R1 ptr: 4669
-R1 Word:crown
- R1 ptr: 4672
-R1 Word:conduct
- R1 ptr: 4674
-R1 Word:moderate
- R1 ptr: 4678
-R1 Word:insolence
- R1 ptr: 4681
-R1 Word:normans
- R1 ptr: 4684
-R1 Word:continued
- R1 ptr: 4694
-R1 Word:turning
- R1 ptr: 4695
-R1 Word:melancholy
- R1 ptr: 4709
-R1 Word:solemnly
- R1 ptr: 4725
-R1 Word:rising
- R1 ptr: 4726
-R1 Word:move
- R1 ptr: 4731
-R1 Word:meeting
- R1 ptr: 4734
-R1 Word:adjourn
- R1 ptr: 4735
-R1 Word:immediate
- R1 ptr: 4738
-R1 Word:adoption
- R1 ptr: 4739
-R1 Word:energetic
- R1 ptr: 4742
-R1 Word:remedies
- R1 ptr: 4743
-R1 Word:meaning
- R1 ptr: 4753
-R1 Word:believe
- R1 ptr: 4764
-R1 Word:bent
- R1 ptr: 4771
-R1 Word:hide
- R1 ptr: 4776
-R1 Word:smile
- R1 ptr: 4778
-R1 Word:tittered
- R1 ptr: 4784
-R1 Word:audibly
- R1 ptr: 4785
-R1 Word:paused
- R1 ptr: 4829
-R1 Word:inclined
- R1 ptr: 4844
-R1 Word:explain
- R1 ptr: 4856
-R1 Word:winter
- R1 ptr: 4873
-R1 Word:race
- R1 ptr: 4889
-R1 Word:circle
- R1 ptr: 4894
-R1 Word:exact
- R1 ptr: 4896
-R1 Word:shape
- R1 ptr: 4897
-R1 Word:placed
- R1 ptr: 4908
-R1 Word:running
- R1 ptr: 4926
-R1 Word:liked
- R1 ptr: 4929
-R1 Word:easy
- R1 ptr: 4941
-R1 Word:hour
- R1 ptr: 4957
-R1 Word:panting
- R1 ptr: 4980
-R1 Word:has
- R1 ptr: 4985
-R1 Word:pressed
- R1 ptr: 5010
-R1 Word:forehead
- R1 ptr: 5013
-R1 Word:position
- R1 ptr: 5015
-R1 Word:shakespeare
- R1 ptr: 5021
-R1 Word:rest
- R1 ptr: 5029
-R1 Word:everybody
- R1 ptr: 5038
-R1 Word:prizes
- R1 ptr: 5045
-R1 Word:chorus
- R1 ptr: 5055
-R1 Word:voices
- R1 ptr: 5057
-R1 Word:asked
- R1 ptr: 5058
-R1 Word:pointing
- R1 ptr: 5066
-R1 Word:calling
- R1 ptr: 5081
-R1 Word:confused
- R1 ptr: 5085
-R1 Word:despair
- R1 ptr: 5098
-R1 Word:pulled
- R1 ptr: 5107
-R1 Word:comfits
- R1 ptr: 5112
-R1 Word:luckily
- R1 ptr: 5113
-R1 Word:handed
- R1 ptr: 5123
-R1 Word:exactly
- R1 ptr: 5130
-R1 Word:prize
- R1 ptr: 5140
-R1 Word:gravely
- R1 ptr: 5153
-R1 Word:thimble
- R1 ptr: 5170
-R1 Word:presented
- R1 ptr: 5193
-R1 Word:acceptance
- R1 ptr: 5200
-R1 Word:elegant
- R1 ptr: 5203
-R1 Word:short
- R1 ptr: 5211
-R1 Word:speech
- R1 ptr: 5212
-R1 Word:cheered
- R1 ptr: 5215
-R1 Word:absurd
- R1 ptr: 5222
-R1 Word:grave
- R1 ptr: 5228
-R1 Word:dare
- R1 ptr: 5233
-R1 Word:laugh
- R1 ptr: 5235
-R1 Word:simply
- R1 ptr: 5247
-R1 Word:bowed
- R1 ptr: 5248
-R1 Word:looking
- R1 ptr: 5253
-R1 Word:solemn
- R1 ptr: 5255
-R1 Word:caused
- R1 ptr: 5268
-R1 Word:noise
- R1 ptr: 5270
-R1 Word:confusion
- R1 ptr: 5272
-R1 Word:complained
- R1 ptr: 5277
-R1 Word:theirs
- R1 ptr: 5283
-R1 Word:ones
- R1 ptr: 5287
-R1 Word:choked
- R1 ptr: 5288
-R1 Word:patted
- R1 ptr: 5293
-R1 Word:begged
- R1 ptr: 5312
-R1 Word:promised
- R1 ptr: 5321
-R1 Word:d
- R1 ptr: 5338
-R1 Word:added
- R1 ptr: 5340
-R1 Word:whisper
- R1 ptr: 5343
-R1 Word:sad
- R1 ptr: 5358
-R1 Word:sighing
- R1 ptr: 5367
-R1 Word:call
- R1 ptr: 5388
-R1 Word:fury
- R1 ptr: 5414
-R1 Word:met
- R1 ptr: 5421
-R1 Word:both
- R1 ptr: 5427
-R1 Word:law
- R1 ptr: 5430
-R1 Word:prosecute
- R1 ptr: 5433
-R1 Word:denial
- R1 ptr: 5439
-R1 Word:trial
- R1 ptr: 5444
-R1 Word:cur
- R1 ptr: 5458
-R1 Word:jury
- R1 ptr: 5466
-R1 Word:judge
- R1 ptr: 5468
-R1 Word:wasting
- R1 ptr: 5471
-R1 Word:breath
- R1 ptr: 5473
-R1 Word:cunning
- R1 ptr: 5481
-R1 Word:condemn
- R1 ptr: 5490
-R1 Word:death
- R1 ptr: 5493
-R1 Word:attending
- R1 ptr: 5497
-R1 Word:humbly
- R1 ptr: 5516
-R1 Word:fifth
- R1 ptr: 5522
-R1 Word:bend
- R1 ptr: 5523
-R1 Word:angrily
- R1 ptr: 5535
-R1 Word:knot
- R1 ptr: 5537
-R1 Word:undo
- R1 ptr: 5557
-R1 Word:insult
- R1 ptr: 5575
-R1 Word:mean
- R1 ptr: 5583
-R1 Word:pleaded
- R1 ptr: 5585
-R1 Word:easily
- R1 ptr: 5591
-R1 Word:growled
- R1 ptr: 5598
-R1 Word:reply
- R1 ptr: 5600
-R1 Word:finish
- R1 ptr: 5605
-R1 Word:story
- R1 ptr: 5607
-R1 Word:others
- R1 ptr: 5614
-R1 Word:joined
- R1 ptr: 5616
-R1 Word:shook
- R1 ptr: 5626
-R1 Word:impatiently
- R1 ptr: 5629
-R1 Word:quicker
- R1 ptr: 5634
-R1 Word:pity
- R1 ptr: 5637
-R1 Word:sighed
- R1 ptr: 5641
-R1 Word:crab
- R1 ptr: 5656
-R1 Word:daughter
- R1 ptr: 5664
-R1 Word:lose
- R1 ptr: 5677
-R1 Word:temper
- R1 ptr: 5679
-R1 Word:tongue
- R1 ptr: 5682
-R1 Word:young
- R1 ptr: 5686
-R1 Word:snappishly
- R1 ptr: 5690
-R1 Word:patience
- R1 ptr: 5696
-R1 Word:oyster
- R1 ptr: 5699
-R1 Word:addressing
- R1 ptr: 5714
-R1 Word:nobody
- R1 ptr: 5715
-R1 Word:particular
- R1 ptr: 5717
-R1 Word:venture
- R1 ptr: 5730
-R1 Word:pet
- R1 ptr: 5750
-R1 Word:bird
- R1 ptr: 5782
-R1 Word:sensation
- R1 ptr: 5794
-R1 Word:magpie
- R1 ptr: 5808
-R1 Word:wrapping
- R1 ptr: 5810
-R1 Word:carefully
- R1 ptr: 5814
-R1 Word:remarking
- R1 ptr: 5815
-R1 Word:suit
- R1 ptr: 5825
-R1 Word:throat
- R1 ptr: 5827
-R1 Word:canary
- R1 ptr: 5830
-R1 Word:bed
- R1 ptr: 5851
-R1 Word:various
- R1 ptr: 5853
-R1 Word:pretexts
- R1 ptr: 5854
-R1 Word:moved
- R1 ptr: 5857
-R1 Word:mentioned
- R1 ptr: 5869
-R1 Word:lonely
- R1 ptr: 5922
-R1 Word:footsteps
- R1 ptr: 5937
-R1 Word:iv
- R1 ptr: 5964
-R1 Word:sends
- R1 ptr: 5967
-R1 Word:bill
- R1 ptr: 5971
-R1 Word:executed
- R1 ptr: 6017
-R1 Word:ferrets
- R1 ptr: 6021
-R1 Word:where
- R1 ptr: 6024
-R1 Word:guessed
- R1 ptr: 6033
-R1 Word:hunting
- R1 ptr: 6056
-R1 Word:nowhere
- R1 ptr: 6063
-R1 Word:since
- R1 ptr: 6071
-R1 Word:swim
- R1 ptr: 6073
-R1 Word:vanished
- R1 ptr: 6090
-R1 Word:completely
- R1 ptr: 6091
-R1 Word:mary
- R1 ptr: 6113
-R1 Word:ann
- R1 ptr: 6114
-R1 Word:doing
- R1 ptr: 6118
-R1 Word:run
- R1 ptr: 6121
-R1 Word:quick
- R1 ptr: 6135
-R1 Word:direction
- R1 ptr: 6151
-R1 Word:pointed
- R1 ptr: 6153
-R1 Word:mistake
- R1 ptr: 6160
-R1 Word:housemaid
- R1 ptr: 6169
-R1 Word:finds
- R1 ptr: 6183
-R1 Word:neat
- R1 ptr: 6211
-R1 Word:brass
- R1 ptr: 6222
-R1 Word:plate
- R1 ptr: 6223
-R1 Word:w
- R1 ptr: 6227
-R1 Word:engraved
- R1 ptr: 6229
-R1 Word:knocking
- R1 ptr: 6236
-R1 Word:upstairs
- R1 ptr: 6239
-R1 Word:lest
- R1 ptr: 6243
-R1 Word:real
- R1 ptr: 6248
-R1 Word:messages
- R1 ptr: 6277
-R1 Word:fancying
- R1 ptr: 6293
-R1 Word:directly
- R1 ptr: 6305
-R1 Word:ordering
- R1 ptr: 6346
-R1 Word:tidy
- R1 ptr: 6361
-R1 Word:room
- R1 ptr: 6363
-R1 Word:window
- R1 ptr: 6369
-R1 Word:hoped
- R1 ptr: 6376
-R1 Word:pairs
- R1 ptr: 6383
-R1 Word:stood
- R1 ptr: 6417
-R1 Word:nevertheless
- R1 ptr: 6434
-R1 Word:uncorked
- R1 ptr: 6436
-R1 Word:lips
- R1 ptr: 6443
-R1 Word:interesting
- R1 ptr: 6447
-R1 Word:whenever
- R1 ptr: 6456
-R1 Word:does
- R1 ptr: 6469
-R1 Word:expected
- R1 ptr: 6501
-R1 Word:drunk
- R1 ptr: 6505
-R1 Word:pressing
- R1 ptr: 6513
-R1 Word:ceiling
- R1 ptr: 6516
-R1 Word:stoop
- R1 ptr: 6520
-R1 Word:save
- R1 ptr: 6522
-R1 Word:broken
- R1 ptr: 6527
-R1 Word:kneel
- R1 ptr: 6582
-R1 Word:floor
- R1 ptr: 6586
-R1 Word:effect
- R1 ptr: 6601
-R1 Word:elbow
- R1 ptr: 6607
-R1 Word:arm
- R1 ptr: 6614
-R1 Word:curled
- R1 ptr: 6615
-R1 Word:resource
- R1 ptr: 6628
-R1 Word:chimney
- R1 ptr: 6642
-R1 Word:whatever
- R1 ptr: 6653
-R1 Word:become
- R1 ptr: 6657
-R1 Word:magic
- R1 ptr: 6665
-R1 Word:full
- R1 ptr: 6671
-R1 Word:grew
- R1 ptr: 6675
-R1 Word:chance
- R1 ptr: 6692
-R1 Word:unhappy
- R1 ptr: 6706
-R1 Word:pleasanter
- R1 ptr: 6710
-R1 Word:wasn
- R1 ptr: 6718
-R1 Word:ordered
- R1 ptr: 6726
-R1 Word:rabbits
- R1 ptr: 6731
-R1 Word:gone
- R1 ptr: 6737
-R1 Word:fairy
- R1 ptr: 6765
-R1 Word:fancied
- R1 ptr: 6767
-R1 Word:write
- R1 ptr: 6802
-R1 Word:grown
- R1 ptr: 6805
-R1 Word:least
- R1 ptr: 6815
-R1 Word:comfort
- R1 ptr: 6842
-R1 Word:woman
- R1 ptr: 6849
-R1 Word:shouldn
- R1 ptr: 6859
-R1 Word:foolish
- R1 ptr: 6864
-R1 Word:answered
- R1 ptr: 6867
-R1 Word:taking
- R1 ptr: 6895
-R1 Word:outside
- R1 ptr: 6920
-R1 Word:stopped
- R1 ptr: 6922
-R1 Word:trembled
- R1 ptr: 6961
-R1 Word:forgetting
- R1 ptr: 6968
-R1 Word:reason
- R1 ptr: 6985
-R1 Word:inwards
- R1 ptr: 7009
-R1 Word:attempt
- R1 ptr: 7019
-R1 Word:proved
- R1 ptr: 7020
-R1 Word:failure
- R1 ptr: 7022
-R1 Word:snatch
- R1 ptr: 7067
-R1 Word:shriek
- R1 ptr: 7083
-R1 Word:crash
- R1 ptr: 7089
-R1 Word:concluded
- R1 ptr: 7096
-R1 Word:possible
- R1 ptr: 7101
-R1 Word:cucumber
- R1 ptr: 7107
-R1 Word:pat
- R1 ptr: 7119
-R1 Word:apples
- R1 ptr: 7138
-R1 Word:yer
- R1 ptr: 7139
-R1 Word:honour
- R1 ptr: 7140
-R1 Word:sounds
- R1 ptr: 7157
-R1 Word:pronounced
- R1 ptr: 7178
-R1 Word:arrum
- R1 ptr: 7180
-R1 Word:goose
- R1 ptr: 7184
-R1 Word:fills
- R1 ptr: 7193
-R1 Word:business
- R1 ptr: 7213
-R1 Word:whispers
- R1 ptr: 7235
-R1 Word:coward
- R1 ptr: 7258
-R1 Word:shrieks
- R1 ptr: 7281
-R1 Word:pulling
- R1 ptr: 7306
-R1 Word:hearing
- R1 ptr: 7334
-R1 Word:rumbling
- R1 ptr: 7341
-R1 Word:cartwheels
- R1 ptr: 7344
-R1 Word:together
- R1 ptr: 7355
-R1 Word:ladder
- R1 ptr: 7364
-R1 Word:lad
- R1 ptr: 7378
-R1 Word:em
- R1 ptr: 7380
-R1 Word:tie
- R1 ptr: 7385
-R1 Word:rope
- R1 ptr: 7408
-R1 Word:bear
- R1 ptr: 7411
-R1 Word:loose
- R1 ptr: 7413
-R1 Word:slate
- R1 ptr: 7414
-R1 Word:below
- R1 ptr: 7419
-R1 Word:loud
- R1 ptr: 7421
-R1 Word:master
- R1 ptr: 7448
-R1 Word:shy
- R1 ptr: 7471
-R1 Word:place
- R1 ptr: 7484
-R1 Word:fireplace
- R1 ptr: 7490
-R1 Word:kick
- R1 ptr: 7501
-R1 Word:drew
- R1 ptr: 7505
-R1 Word:scratching
- R1 ptr: 7532
-R1 Word:scrambling
- R1 ptr: 7534
-R1 Word:above
- R1 ptr: 7540
-R1 Word:sharp
- R1 ptr: 7552
-R1 Word:choke
- R1 ptr: 7597
-R1 Word:fellow
- R1 ptr: 7602
-R1 Word:feeble
- R1 ptr: 7616
-R1 Word:squeaking
- R1 ptr: 7617
-R1 Word:thank
- R1 ptr: 7628
-R1 Word:ye
- R1 ptr: 7629
-R1 Word:flustered
- R1 ptr: 7637
-R1 Word:comes
- R1 ptr: 7645
-R1 Word:jack
- R1 ptr: 7650
-R1 Word:sky
- R1 ptr: 7657
-R1 Word:dead
- R1 ptr: 7696
-R1 Word:instantly
- R1 ptr: 7698
-R1 Word:sense
- R1 ptr: 7715
-R1 Word:moving
- R1 ptr: 7728
-R1 Word:barrowful
- R1 ptr: 7738
-R1 Word:doubt
- R1 ptr: 7756
-R1 Word:shower
- R1 ptr: 7762
-R1 Word:pebbles
- R1 ptr: 7765
-R1 Word:rattling
- R1 ptr: 7767
-R1 Word:hit
- R1 ptr: 7776
-R1 Word:shouted
- R1 ptr: 7792
-R1 Word:produced
- R1 ptr: 7801
-R1 Word:surprise
- R1 ptr: 7809
-R1 Word:cakes
- R1 ptr: 7818
-R1 Word:lay
- R1 ptr: 7821
-R1 Word:swallowed
- R1 ptr: 7868
-R1 Word:delighted
- R1 ptr: 7875
-R1 Word:crowd
- R1 ptr: 7905
-R1 Word:lizard
- R1 ptr: 7916
-R1 Word:held
- R1 ptr: 7923
-R1 Word:guinea
- R1 ptr: 7927
-R1 Word:giving
- R1 ptr: 7930
-R1 Word:rush
- R1 ptr: 7941
-R1 Word:appeared
- R1 ptr: 7947
-R1 Word:safe
- R1 ptr: 7961
-R1 Word:thick
- R1 ptr: 7964
-R1 Word:wood
- R1 ptr: 7965
-R1 Word:wandered
- R1 ptr: 7979
-R1 Word:plan
- R1 ptr: 8012
-R1 Word:excellent
- R1 ptr: 8016
-R1 Word:arranged
- R1 ptr: 8025
-R1 Word:difficulty
- R1 ptr: 8028
-R1 Word:smallest
- R1 ptr: 8035
-R1 Word:peering
- R1 ptr: 8046
-R1 Word:trees
- R1 ptr: 8051
-R1 Word:bark
- R1 ptr: 8055
-R1 Word:enormous
- R1 ptr: 8069
-R1 Word:puppy
- R1 ptr: 8070
-R1 Word:feebly
- R1 ptr: 8081
-R1 Word:stretching
- R1 ptr: 8082
-R1 Word:paw
- R1 ptr: 8085
-R1 Word:touch
- R1 ptr: 8088
-R1 Word:coaxing
- R1 ptr: 8097
-R1 Word:whistle
- R1 ptr: 8104
-R1 Word:terribly
- R1 ptr: 8110
-R1 Word:hungry
- R1 ptr: 8122
-R1 Word:spite
- R1 ptr: 8136
-R1 Word:picked
- R1 ptr: 8147
-R1 Word:stick
- R1 ptr: 8153
-R1 Word:whereupon
- R1 ptr: 8161
-R1 Word:yelp
- R1 ptr: 8176
-R1 Word:rushed
- R1 ptr: 8180
-R1 Word:worry
- R1 ptr: 8188
-R1 Word:dodged
- R1 ptr: 8192
-R1 Word:thistle
- R1 ptr: 8196
-R1 Word:keep
- R1 ptr: 8198
-R1 Word:tumbled
- R1 ptr: 8222
-R1 Word:heels
- R1 ptr: 8225
-R1 Word:cart
- R1 ptr: 8248
-R1 Word:trampled
- R1 ptr: 8255
-R1 Word:series
- R1 ptr: 8269
-R1 Word:charges
- R1 ptr: 8272
-R1 Word:forwards
- R1 ptr: 8281
-R1 Word:each
- R1 ptr: 8282
-R1 Word:barking
- R1 ptr: 8290
-R1 Word:hoarsely
- R1 ptr: 8291
-R1 Word:mouth
- R1 ptr: 8313
-R1 Word:faint
- R1 ptr: 8355
-R1 Word:leant
- R1 ptr: 8372
-R1 Word:buttercup
- R1 ptr: 8375
-R1 Word:fanned
- R1 ptr: 8380
-R1 Word:teaching
- R1 ptr: 8391
-R1 Word:tricks
- R1 ptr: 8393
-R1 Word:blades
- R1 ptr: 8459
-R1 Word:grass
- R1 ptr: 8461
-R1 Word:circumstances
- R1 ptr: 8480
-R1 Word:mushroom
- R1 ptr: 8485
-R1 Word:height
- R1 ptr: 8492
-R1 Word:stretched
- R1 ptr: 8531
-R1 Word:tiptoe
- R1 ptr: 8535
-R1 Word:edge
- R1 ptr: 8540
-R1 Word:immediately
- R1 ptr: 8547
-R1 Word:caterpillar
- R1 ptr: 8553
-R1 Word:arms
- R1 ptr: 8562
-R1 Word:folded
- R1 ptr: 8563
-R1 Word:quietly
- R1 ptr: 8564
-R1 Word:smoking
- R1 ptr: 8565
-R1 Word:hookah
- R1 ptr: 8568
-R1 Word:v
- R1 ptr: 8582
-R1 Word:addressed
- R1 ptr: 8612
-R1 Word:languid
- R1 ptr: 8616
-R1 Word:encouraging
- R1 ptr: 8629
-R1 Word:shyly
- R1 ptr: 8637
-R1 Word:present
- R1 ptr: 8644
-R1 Word:sternly
- R1 ptr: 8679
-R1 Word:clearly
- R1 ptr: 8710
-R1 Word:sizes
- R1 ptr: 8729
-R1 Word:confusing
- R1 ptr: 8735
-R1 Word:isn
- R1 ptr: 8737
-R1 Word:haven
- R1 ptr: 8744
-R1 Word:turn
- R1 ptr: 8756
-R1 Word:chrysalis
- R1 ptr: 8759
-R1 Word:butterfly
- R1 ptr: 8770
-R1 Word:may
- R1 ptr: 8792
-R1 Word:contemptuously
- R1 ptr: 8812
-R1 Word:brought
- R1 ptr: 8817
-R1 Word:irritated
- R1 ptr: 8831
-R1 Word:remarks
- R1 ptr: 8839
-R1 Word:state
- R1 ptr: 8890
-R1 Word:promising
- R1 ptr: 8910
-R1 Word:swallowing
- R1 ptr: 8929
-R1 Word:anger
- R1 ptr: 8932
-R1 Word:wait
- R1 ptr: 8948
-R1 Word:puffed
- R1 ptr: 8971
-R1 Word:unfolded
- R1 ptr: 8979
-R1 Word:busy
- R1 ptr: 9039
-R1 Word:bee
- R1 ptr: 9040
-R1 Word:father
- R1 ptr: 9057
-R1 Word:man
- R1 ptr: 9075
-R1 Word:incessantly
- R1 ptr: 9087
-R1 Word:stand
- R1 ptr: 9088
-R1 Word:youth
- R1 ptr: 9103
-R1 Word:son
- R1 ptr: 9109
-R1 Word:feared
- R1 ptr: 9111
-R1 Word:injure
- R1 ptr: 9114
-R1 Word:brain
- R1 ptr: 9116
-R1 Word:perfectly
- R1 ptr: 9121
-R1 Word:none
- R1 ptr: 9125
-R1 Word:most
- R1 ptr: 9146
-R1 Word:uncommonly
- R1 ptr: 9147
-R1 Word:fat
- R1 ptr: 9148
-R1 Word:pray
- R1 ptr: 9158
-R1 Word:sage
- R1 ptr: 9170
-R1 Word:grey
- R1 ptr: 9175
-R1 Word:limbs
- R1 ptr: 9181
-R1 Word:supple
- R1 ptr: 9183
-R1 Word:ointment
- R1 ptr: 9189
-R1 Word:shilling
- R1 ptr: 9190
-R1 Word:sell
- R1 ptr: 9196
-R1 Word:couple
- R1 ptr: 9199
-R1 Word:weak
- R1 ptr: 9211
-R1 Word:tougher
- R1 ptr: 9214
-R1 Word:suet
- R1 ptr: 9216
-R1 Word:bones
- R1 ptr: 9224
-R1 Word:beak
- R1 ptr: 9227
-R1 Word:argued
- R1 ptr: 9248
-R1 Word:wife
- R1 ptr: 9253
-R1 Word:muscular
- R1 ptr: 9256
-R1 Word:strength
- R1 ptr: 9257
-R1 Word:jaw
- R1 ptr: 9263
-R1 Word:lasted
- R1 ptr: 9265
-R1 Word:steady
- R1 ptr: 9286
-R1 Word:balanced
- R1 ptr: 9291
-R1 Word:eel
- R1 ptr: 9293
-R1 Word:nose
- R1 ptr: 9299
-R1 Word:awfully
- R1 ptr: 9304
-R1 Word:clever
- R1 ptr: 9305
-R1 Word:questions
- R1 ptr: 9310
-R1 Word:airs
- R1 ptr: 9321
-R1 Word:stuff
- R1 ptr: 9332
-R1 Word:timidly
- R1 ptr: 9356
-R1 Word:altered
- R1 ptr: 9363
-R1 Word:decidedly
- R1 ptr: 9374
-R1 Word:changing
- R1 ptr: 9412
-R1 Word:often
- R1 ptr: 9414
-R1 Word:contradicted
- R1 ptr: 9432
-R1 Word:losing
- R1 ptr: 9443
-R1 Word:content
- R1 ptr: 9448
-R1 Word:wretched
- R1 ptr: 9474
-R1 Word:rearing
- R1 ptr: 9489
-R1 Word:upright
- R1 ptr: 9491
-R1 Word:piteous
- R1 ptr: 9512
-R1 Word:patiently
- R1 ptr: 9554
-R1 Word:chose
- R1 ptr: 9557
-R1 Word:yawned
- R1 ptr: 9576
-R1 Word:crawled
- R1 ptr: 9591
-R1 Word:merely
- R1 ptr: 9596
-R1 Word:taller
- R1 ptr: 9607
-R1 Word:shorter
- R1 ptr: 9616
-R1 Word:thoughtfully
- R1 ptr: 9656
-R1 Word:difficult
- R1 ptr: 9685
-R1 Word:broke
- R1 ptr: 9703
-R1 Word:nibbled
- R1 ptr: 9723
-R1 Word:violent
- R1 ptr: 9740
-R1 Word:blow
- R1 ptr: 9741
-R1 Word:underneath
- R1 ptr: 9742
-R1 Word:closely
- R1 ptr: 9796
-R1 Word:swallow
- R1 ptr: 9818
-R1 Word:morsel
- R1 ptr: 9820
-R1 Word:lefthand
- R1 ptr: 9823
-R1 Word:free
- R1 ptr: 9828
-R1 Word:alarm
- R1 ptr: 9841
-R1 Word:immense
- R1 ptr: 9866
-R1 Word:length
- R1 ptr: 9867
-R1 Word:rise
- R1 ptr: 9873
-R1 Word:stalk
- R1 ptr: 9876
-R1 Word:green
- R1 ptr: 9882
-R1 Word:result
- R1 ptr: 9927
-R1 Word:follow
- R1 ptr: 9930
-R1 Word:shaking
- R1 ptr: 9934
-R1 Word:distant
- R1 ptr: 9937
-R1 Word:serpent
- R1 ptr: 9981
-R1 Word:succeeded
- R1 ptr: 9985
-R1 Word:curving
- R1 ptr: 9987
-R1 Word:graceful
- R1 ptr: 9992
-R1 Word:zigzag
- R1 ptr: 9993
-R1 Word:dive
- R1 ptr: 9998
-R1 Word:tops
- R1 ptr: 10011
-R1 Word:wandering
- R1 ptr: 10020
-R1 Word:hiss
- R1 ptr: 10024
-R1 Word:draw
- R1 ptr: 10027
-R1 Word:pigeon
- R1 ptr: 10034
-R1 Word:flown
- R1 ptr: 10036
-R1 Word:beating
- R1 ptr: 10042
-R1 Word:wings
- R1 ptr: 10047
-R1 Word:screamed
- R1 ptr: 10049
-R1 Word:indignantly
- R1 ptr: 10058
-R1 Word:repeated
- R1 ptr: 10066
-R1 Word:subdued
- R1 ptr: 10073
-R1 Word:sob
- R1 ptr: 10081
-R1 Word:roots
- R1 ptr: 10106
-R1 Word:banks
- R1 ptr: 10112
-R1 Word:hedges
- R1 ptr: 10116
-R1 Word:serpents
- R1 ptr: 10127
-R1 Word:pleasing
- R1 ptr: 10130
-R1 Word:puzzled
- R1 ptr: 10137
-R1 Word:hatching
- R1 ptr: 10160
-R1 Word:eggs
- R1 ptr: 10162
-R1 Word:sleep
- R1 ptr: 10185
-R1 Word:weeks
- R1 ptr: 10188
-R1 Word:sorry
- R1 ptr: 10191
-R1 Word:annoyed
- R1 ptr: 10194
-R1 Word:taken
- R1 ptr: 10208
-R1 Word:highest
- R1 ptr: 10210
-R1 Word:tree
- R1 ptr: 10211
-R1 Word:raising
- R1 ptr: 10218
-R1 Word:needs
- R1 ptr: 10240
-R1 Word:wriggling
- R1 ptr: 10242
-R1 Word:invent
- R1 ptr: 10275
-R1 Word:doubtfully
- R1 ptr: 10284
-R1 Word:changes
- R1 ptr: 10291
-R1 Word:deepest
- R1 ptr: 10310
-R1 Word:contempt
- R1 ptr: 10311
-R1 Word:girls
- R1 ptr: 10318
-R1 Word:denying
- R1 ptr: 10340
-R1 Word:telling
- R1 ptr: 10346
-R1 Word:tasted
- R1 ptr: 10352
-R1 Word:egg
- R1 ptr: 10354
-R1 Word:truthful
- R1 ptr: 10366
-R1 Word:silent
- R1 ptr: 10416
-R1 Word:adding
- R1 ptr: 10429
-R1 Word:matters
- R1 ptr: 10455
-R1 Word:yours
- R1 ptr: 10480
-R1 Word:raw
- R1 ptr: 10485
-R1 Word:settled
- R1 ptr: 10499
-R1 Word:nest
- R1 ptr: 10504
-R1 Word:crouched
- R1 ptr: 10506
-R1 Word:entangled
- R1 ptr: 10521
-R1 Word:branches
- R1 ptr: 10524
-R1 Word:untwist
- R1 ptr: 10535
-R1 Word:pieces
- R1 ptr: 10547
-R1 Word:nibbling
- R1 ptr: 10560
-R1 Word:bringing
- R1 ptr: 10581
-R1 Word:beautiful
- R1 ptr: 10667
-R1 Word:whoever
- R1 ptr: 10697
-R1 Word:lives
- R1 ptr: 10698
-R1 Word:frighten
- R1 ptr: 10714
-R1 Word:wits
- R1 ptr: 10719
-R1 Word:righthand
- R1 ptr: 10726
-R1 Word:vi
- R1 ptr: 10749
-R1 Word:pig
- R1 ptr: 10750
-R1 Word:pepper
- R1 ptr: 10752
-R1 Word:footman
- R1 ptr: 10773
-R1 Word:livery
- R1 ptr: 10775
-R1 Word:considered
- R1 ptr: 10782
-R1 Word:otherwise
- R1 ptr: 10793
-R1 Word:judging
- R1 ptr: 10794
-R1 Word:fish
- R1 ptr: 10805
-R1 Word:rapped
- R1 ptr: 10806
-R1 Word:loudly
- R1 ptr: 10807
-R1 Word:knuckles
- R1 ptr: 10813
-R1 Word:footmen
- R1 ptr: 10834
-R1 Word:powdered
- R1 ptr: 10838
-R1 Word:crept
- R1 ptr: 10858
-R1 Word:producing
- R1 ptr: 10872
-R1 Word:letter
- R1 ptr: 10879
-R1 Word:invitation
- R1 ptr: 10902
-R1 Word:queen
- R1 ptr: 10905
-R1 Word:order
- R1 ptr: 10920
-R1 Word:curls
- R1 ptr: 10944
-R1 Word:laughed
- R1 ptr: 10949
-R1 Word:ground
- R1 ptr: 10986
-R1 Word:staring
- R1 ptr: 10990
-R1 Word:stupidly
- R1 ptr: 10991
-R1 Word:knocked
- R1 ptr: 11004
-R1 Word:reasons
- R1 ptr: 11019
-R1 Word:secondly
- R1 ptr: 11033
-R1 Word:inside
- R1 ptr: 11040
-R1 Word:extraordinary
- R1 ptr: 11053
-R1 Word:within
- R1 ptr: 11057
-R1 Word:constant
- R1 ptr: 11058
-R1 Word:howling
- R1 ptr: 11059
-R1 Word:sneezing
- R1 ptr: 11061
-R1 Word:dish
- R1 ptr: 11073
-R1 Word:kettle
- R1 ptr: 11075
-R1 Word:between
- R1 ptr: 11112
-R1 Word:instance
- R1 ptr: 11115
-R1 Word:knock
- R1 ptr: 11122
-R1 Word:uncivil
- R1 ptr: 11149
-R1 Word:remarked
- R1 ptr: 11194
-R1 Word:tomorrow
- R1 ptr: 11196
-R1 Word:skimming
- R1 ptr: 11211
-R1 Word:grazed
- R1 ptr: 11220
-R1 Word:maybe
- R1 ptr: 11237
-R1 Word:louder
- R1 ptr: 11262
-R1 Word:told
- R1 ptr: 11291
-R1 Word:dreadful
- R1 ptr: 11295
-R1 Word:muttered
- R1 ptr: 11297
-R1 Word:argue
- R1 ptr: 11305
-R1 Word:drive
- R1 ptr: 11309
-R1 Word:crazy
- R1 ptr: 11311
-R1 Word:repeating
- R1 ptr: 11322
-R1 Word:remark
- R1 ptr: 11324
-R1 Word:variations
- R1 ptr: 11326
-R1 Word:days
- R1 ptr: 11337
-R1 Word:whistling
- R1 ptr: 11356
-R1 Word:desperately
- R1 ptr: 11367
-R1 Word:idiotic
- R1 ptr: 11370
-R1 Word:kitchen
- R1 ptr: 11386
-R1 Word:smoke
- R1 ptr: 11391
-R1 Word:stool
- R1 ptr: 11405
-R1 Word:nursing
- R1 ptr: 11409
-R1 Word:baby
- R1 ptr: 11411
-R1 Word:cook
- R1 ptr: 11413
-R1 Word:leaning
- R1 ptr: 11415
-R1 Word:stirring
- R1 ptr: 11419
-R1 Word:cauldron
- R1 ptr: 11422
-R1 Word:soup
- R1 ptr: 11429
-R1 Word:sneezed
- R1 ptr: 11462
-R1 Word:occasionally
- R1 ptr: 11463
-R1 Word:alternately
- R1 ptr: 11474
-R1 Word:pause
- R1 ptr: 11478
-R1 Word:sneeze
- R1 ptr: 11488
-R1 Word:hearth
- R1 ptr: 11501
-R1 Word:grinning
- R1 ptr: 11503
-R1 Word:ear
- R1 ptr: 11505
-R1 Word:manners
- R1 ptr: 11528
-R1 Word:grins
- R1 ptr: 11537
-R1 Word:cheshire
- R1 ptr: 11542
-R1 Word:violence
- R1 ptr: 11559
-R1 Word:courage
- R1 ptr: 11584
-R1 Word:grinned
- R1 ptr: 11596
-R1 Word:pleased
- R1 ptr: 11630
-R1 Word:introduce
- R1 ptr: 11667
-R1 Word:fix
- R1 ptr: 11678
-R1 Word:throwing
- R1 ptr: 11697
-R1 Word:saucepans
- R1 ptr: 11717
-R1 Word:plates
- R1 ptr: 11718
-R1 Word:dishes
- R1 ptr: 11720
-R1 Word:already
- R1 ptr: 11740
-R1 Word:blows
- R1 ptr: 11750
-R1 Word:jumping
- R1 ptr: 11763
-R1 Word:agony
- R1 ptr: 11769
-R1 Word:terror
- R1 ptr: 11771
-R1 Word:precious
- R1 ptr: 11776
-R1 Word:unusually
- R1 ptr: 11780
-R1 Word:saucepan
- R1 ptr: 11782
-R1 Word:flew
- R1 ptr: 11783
-R1 Word:carried
- R1 ptr: 11790
-R1 Word:minded
- R1 ptr: 11795
-R1 Word:growl
- R1 ptr: 11805
-R1 Word:faster
- R1 ptr: 11813
-R1 Word:advantage
- R1 ptr: 11822
-R1 Word:takes
- R1 ptr: 11858
-R1 Word:hours
- R1 ptr: 11860
-R1 Word:axis
- R1 ptr: 11866
-R1 Word:axes
- R1 ptr: 11869
-R1 Word:chop
- R1 ptr: 11873
-R1 Word:glanced
- R1 ptr: 11878
-R1 Word:meant
- R1 ptr: 11888
-R1 Word:hint
- R1 ptr: 11892
-R1 Word:busily
- R1 ptr: 11897
-R1 Word:bother
- R1 ptr: 11923
 R1 Word:abide
  R1 ptr: 11931
-R1 Word:figures
- R1 ptr: 11932
-R1 Word:singing
- R1 ptr: 11942
-R1 Word:lullaby
- R1 ptr: 11946
-R1 Word:shake
- R1 ptr: 11958
-R1 Word:line
- R1 ptr: 11964
-R1 Word:roughly
- R1 ptr: 11966
-R1 Word:boy
- R1 ptr: 11970
-R1 Word:beat
- R1 ptr: 11972
-R1 Word:sneezes
- R1 ptr: 11976
-R1 Word:annoy
- R1 ptr: 11982
-R1 Word:teases
- R1 ptr: 11987
-R1 Word:wow
- R1 ptr: 11997
-R1 Word:sang
- R1 ptr: 12003
-R1 Word:verse
- R1 ptr: 12006
-R1 Word:song
- R1 ptr: 12009
-R1 Word:tossing
- R1 ptr: 12012
-R1 Word:howled
- R1 ptr: 12024
-R1 Word:thoroughly
- R1 ptr: 12048
-R1 Word:enjoy
- R1 ptr: 12049
-R1 Word:pleases
- R1 ptr: 12054
-R1 Word:flinging
- R1 ptr: 12074
-R1 Word:threw
- R1 ptr: 12103
-R1 Word:frying
- R1 ptr: 12105
-R1 Word:missed
- R1 ptr: 12115
-R1 Word:caught
- R1 ptr: 12118
-R1 Word:shaped
- R1 ptr: 12129
-R1 Word:creature
- R1 ptr: 12131
-R1 Word:star
- R1 ptr: 12145
-R1 Word:snorting
- R1 ptr: 12153
-R1 Word:steam
- R1 ptr: 12156
-R1 Word:doubling
- R1 ptr: 12163
-R1 Word:straightening
- R1 ptr: 12167
-R1 Word:proper
- R1 ptr: 12199
-R1 Word:twist
- R1 ptr: 12207
-R1 Word:tight
- R1 ptr: 12218
-R1 Word:prevent
- R1 ptr: 12230
-R1 Word:undoing
- R1 ptr: 12232
-R1 Word:kill
- R1 ptr: 12256
-R1 Word:murder
- R1 ptr: 12266
-R1 Word:grunted
- R1 ptr: 12282
-R1 Word:grunt
- R1 ptr: 12294
-R1 Word:expressing
- R1 ptr: 12305
-R1 Word:snout
- R1 ptr: 12343
-R1 Word:also
- R1 ptr: 12348
-R1 Word:extremely
- R1 ptr: 12353
-R1 Word:sobbing
- R1 ptr: 12375
-R1 Word:seriously
- R1 ptr: 12408
-R1 Word:sobbed
- R1 ptr: 12423
-R1 Word:neither
- R1 ptr: 12491
-R1 Word:less
- R1 ptr: 12494
-R1 Word:carry
- R1 ptr: 12510
-R1 Word:relieved
- R1 ptr: 12523
-R1 Word:trot
- R1 ptr: 12527
-R1 Word:dreadfully
- R1 ptr: 12547
-R1 Word:ugly
- R1 ptr: 12548
-R1 Word:handsome
- R1 ptr: 12555
-R1 Word:pigs
- R1 ptr: 12574
-R1 Word:startled
- R1 ptr: 12596
-R1 Word:seeing
- R1 ptr: 12598
-R1 Word:bough
- R1 ptr: 12605
-R1 Word:yards
- R1 ptr: 12611
-R1 Word:natured
- R1 ptr: 12624
-R1 Word:teeth
- R1 ptr: 12637
-R1 Word:treated
- R1 ptr: 12646
-R1 Word:respect
- R1 ptr: 12648
-R1 Word:puss
- R1 ptr: 12650
-R1 Word:wider
- R1 ptr: 12674
-R1 Word:depends
- R1 ptr: 12700
-R1 Word:explanation
- R1 ptr: 12742
-R1 Word:denied
- R1 ptr: 12765
-R1 Word:waving
- R1 ptr: 12784
-R1 Word:hatter
- R1 ptr: 12791
-R1 Word:march
- R1 ptr: 12802
-R1 Word:hare
- R1 ptr: 12803
-R1 Word:visit
- R1 ptr: 12804
-R1 Word:mad
- R1 ptr: 12810
-R1 Word:grant
- R1 ptr: 12889
-R1 Word:growls
- R1 ptr: 12906
-R1 Word:wags
- R1 ptr: 12911
-R1 Word:wag
- R1 ptr: 12924
-R1 Word:therefore
- R1 ptr: 12930
-R1 Word:growling
- R1 ptr: 12938
-R1 Word:invited
- R1 ptr: 12969
-R1 Word:happening
- R1 ptr: 12995
-R1 Word:became
- R1 ptr: 13013
-R1 Word:appear
- R1 ptr: 13068
-R1 Word:hatters
- R1 ptr: 13092
-R1 Word:raving
- R1 ptr: 13116
-R1 Word:branch
- R1 ptr: 13143
-R1 Word:fig
- R1 ptr: 13152
-R1 Word:appearing
- R1 ptr: 13167
-R1 Word:vanishing
- R1 ptr: 13169
-R1 Word:giddy
- R1 ptr: 13176
-R1 Word:ending
- R1 ptr: 13197
-R1 Word:farther
- R1 ptr: 13245
-R1 Word:chimneys
- R1 ptr: 13268
-R1 Word:thatched
- R1 ptr: 13277
-R1 Word:raised
- R1 ptr: 13307
-R1 Word:towards
- R1 ptr: 13319
-R1 Word:instead
- R1 ptr: 13343
-R1 Word:vii
- R1 ptr: 13345
-R1 Word:front
- R1 ptr: 13359
-R1 Word:dormouse
- R1 ptr: 13376
-R1 Word:fast
- R1 ptr: 13381
-R1 Word:asleep
- R1 ptr: 13382
-R1 Word:using
- R1 ptr: 13388
-R1 Word:cushion
- R1 ptr: 13392
-R1 Word:resting
- R1 ptr: 13393
-R1 Word:elbows
- R1 ptr: 13395
-R1 Word:wine
- R1 ptr: 13472
-R1 Word:civil
- R1 ptr: 13513
-R1 Word:laid
- R1 ptr: 13548
-R1 Word:wants
- R1 ptr: 13558
-R1 Word:cutting
- R1 ptr: 13559
-R1 Word:personal
- R1 ptr: 13587
-R1 Word:severity
- R1 ptr: 13593
-R1 Word:rude
- R1 ptr: 13596
-R1 Word:wide
- R1 ptr: 13603
-R1 Word:raven
- R1 ptr: 13615
-R1 Word:writing
- R1 ptr: 13618
-R1 Word:fun
- R1 ptr: 13624
-R1 Word:riddles
- R1 ptr: 13633
-R1 Word:breathe
- R1 ptr: 13770
-R1 Word:ravens
- R1 ptr: 13816
-R1 Word:break
- R1 ptr: 13828
-R1 Word:month
- R1 ptr: 13835
-R1 Word:uneasily
- R1 ptr: 13857
-R1 Word:fourth
- R1 ptr: 13878
-R1 Word:butter
- R1 ptr: 13888
-R1 Word:works
- R1 ptr: 13892
-R1 Word:meekly
- R1 ptr: 13909
-R1 Word:crumbs
- R1 ptr: 13914
-R1 Word:grumbled
- R1 ptr: 13923
-R1 Word:bread
- R1 ptr: 13932
-R1 Word:gloomily
- R1 ptr: 13943
-R1 Word:cup
- R1 ptr: 13950
-R1 Word:shoulder
- R1 ptr: 13984
-R1 Word:tells
- R1 ptr: 13995
-R1 Word:year
- R1 ptr: 14020
-R1 Word:readily
- R1 ptr: 14029
-R1 Word:stays
- R1 ptr: 14034
-R1 Word:poured
- R1 ptr: 14098
-R1 Word:riddle
- R1 ptr: 14134
-R1 Word:slightest
- R1 ptr: 14156
-R1 Word:wearily
- R1 ptr: 14169
-R1 Word:waste
- R1 ptr: 14183
-R1 Word:answers
- R1 ptr: 14191
-R1 Word:cautiously
- R1 ptr: 14243
-R1 Word:music
- R1 ptr: 14256
-R1 Word:accounts
- R1 ptr: 14259
-R1 Word:terms
- R1 ptr: 14276
-R1 Word:clock
- R1 ptr: 14287
-R1 Word:twinkling
- R1 ptr: 14319
-R1 Word:mournfully
- R1 ptr: 14389
-R1 Word:quarrelled
- R1 ptr: 14395
-R1 Word:spoon
- R1 ptr: 14408
-R1 Word:concert
- R1 ptr: 14418
-R1 Word:given
- R1 ptr: 14419
-R1 Word:hearts
- R1 ptr: 14424
-R1 Word:sing
- R1 ptr: 14429
-R1 Word:twinkle
- R1 ptr: 14430
-R1 Word:fly
- R1 ptr: 14468
-R1 Word:pinch
- R1 ptr: 14501
-R1 Word:bawled
- R1 ptr: 14523
-R1 Word:murdering
- R1 ptr: 14526
-R1 Word:exclaimed
- R1 ptr: 14536
-R1 Word:mournful
- R1 ptr: 14548
-R1 Word:sigh
- R1 ptr: 14590
-R1 Word:wash
- R1 ptr: 14599
-R1 Word:whiles
- R1 ptr: 14603
-R1 Word:interrupted
- R1 ptr: 14646
-R1 Word:yawning
- R1 ptr: 14647
-R1 Word:vote
- R1 ptr: 14654
-R1 Word:lady
- R1 ptr: 14657
-R1 Word:alarmed
- R1 ptr: 14671
-R1 Word:proposal
- R1 ptr: 14674
-R1 Word:wake
- R1 ptr: 14682
-R1 Word:pinched
- R1 ptr: 14687
-R1 Word:fellows
- R1 ptr: 14715
-R1 Word:sisters
- R1 ptr: 14755
-R1 Word:names
- R1 ptr: 14765
-R1 Word:elsie
- R1 ptr: 14767
-R1 Word:lacie
- R1 ptr: 14768
-R1 Word:tillie
- R1 ptr: 14770
-R1 Word:lived
- R1 ptr: 14773
-R1 Word:bottom
- R1 ptr: 14776
-R1 Word:interest
- R1 ptr: 14792
-R1 Word:eating
- R1 ptr: 14796
-R1 Word:drinking
- R1 ptr: 14798
-R1 Word:treacle
- R1 ptr: 14802
-R1 Word:ill
- R1 ptr: 14825
-R1 Word:ways
- R1 ptr: 14844
-R1 Word:living
- R1 ptr: 14846
-R1 Word:opinion
- R1 ptr: 14918
-R1 Word:triumphantly
- R1 ptr: 14929
-R1 Word:helped
- R1 ptr: 14942
-R1 Word:sh
- R1 ptr: 15005
-R1 Word:sulkily
- R1 ptr: 15010
-R1 Word:interrupt
- R1 ptr: 15034
-R1 Word:consented
- R1 ptr: 15051
-R1 Word:learning
- R1 ptr: 15062
-R1 Word:promise
- R1 ptr: 15076
-R1 Word:clean
- R1 ptr: 15090
-R1 Word:unwillingly
- R1 ptr: 15123
-R1 Word:upset
- R1 ptr: 15160
-R1 Word:offend
- R1 ptr: 15171
-R1 Word:choosing
- R1 ptr: 15227
-R1 Word:interrupting
- R1 ptr: 15259
-R1 Word:rubbing
- R1 ptr: 15272
-R1 Word:manner
- R1 ptr: 15285
-R1 Word:begins
- R1 ptr: 15289
-R1 Word:m
- R1 ptr: 15292
-R1 Word:closed
- R1 ptr: 15311
-R1 Word:doze
- R1 ptr: 15323
-R1 Word:woke
- R1 ptr: 15332
-R1 Word:moon
- R1 ptr: 15352
-R1 Word:memory
- R1 ptr: 15354
-R1 Word:muchness
- R1 ptr: 15356
-R1 Word:drawing
- R1 ptr: 15375
-R1 Word:piece
- R1 ptr: 15400
-R1 Word:rudeness
- R1 ptr: 15402
-R1 Word:disgust
- R1 ptr: 15414
-R1 Word:teapot
- R1 ptr: 15465
-R1 Word:stupidest
- R1 ptr: 15486
-R1 Word:leading
- R1 ptr: 15511
-R1 Word:today
- R1 ptr: 15523
-R1 Word:unlocking
- R1 ptr: 15573
-R1 Word:flower
- R1 ptr: 15627
-R1 Word:viii
- R1 ptr: 15633
-R1 Word:rose
- R1 ptr: 15639
-R1 Word:entrance
- R1 ptr: 15643
-R1 Word:roses
- R1 ptr: 15648
-R1 Word:gardeners
- R1 ptr: 15658
-R1 Word:painting
- R1 ptr: 15662
-R1 Word:paint
- R1 ptr: 15700
-R1 Word:jogged
- R1 ptr: 15716
-R1 Word:blame
- R1 ptr: 15732
-R1 Word:deserved
- R1 ptr: 15749
-R1 Word:beheaded
- R1 ptr: 15752
-R1 Word:spoken
- R1 ptr: 15760
-R1 Word:tulip
- R1 ptr: 15786
-R1 Word:onions
- R1 ptr: 15789
-R1 Word:flung
- R1 ptr: 15791
-R1 Word:brush
- R1 ptr: 15794
-R1 Word:unjust
- R1 ptr: 15803
-R1 Word:chanced
- R1 ptr: 15808
-R1 Word:watching
- R1 ptr: 15816
-R1 Word:checked
- R1 ptr: 15820
-R1 Word:afore
- R1 ptr: 15916
-R1 Word:themselves
- R1 ptr: 15944
-R1 Word:flat
- R1 ptr: 15945
-R1 Word:faces
- R1 ptr: 15948
-R1 Word:eager
- R1 ptr: 15960
-R1 Word:soldiers
- R1 ptr: 15968
-R1 Word:carrying
- R1 ptr: 15969
-R1 Word:clubs
- R1 ptr: 15970
-R1 Word:oblong
- R1 ptr: 15979
-R1 Word:corners
- R1 ptr: 15989
-R1 Word:courtiers
- R1 ptr: 15993
-R1 Word:ornamented
- R1 ptr: 15996
-R1 Word:diamonds
- R1 ptr: 16000
-R1 Word:royal
- R1 ptr: 16014
-R1 Word:merrily
- R1 ptr: 16027
-R1 Word:couples
- R1 ptr: 16033
-R1 Word:guests
- R1 ptr: 16043
-R1 Word:mostly
- R1 ptr: 16044
-R1 Word:kings
- R1 ptr: 16045
-R1 Word:queens
- R1 ptr: 16047
-R1 Word:recognised
- R1 ptr: 16052
-R1 Word:noticing
- R1 ptr: 16074
-R1 Word:knave
- R1 ptr: 16079
-R1 Word:king
- R1 ptr: 16084
-R1 Word:crimson
- R1 ptr: 16088
-R1 Word:velvet
- R1 ptr: 16089
-R1 Word:procession
- R1 ptr: 16097
-R1 Word:doubtful
- R1 ptr: 16108
-R1 Word:lie
- R1 ptr: 16114
-R1 Word:rule
- R1 ptr: 16134
-R1 Word:processions
- R1 ptr: 16136
-R1 Word:opposite
- R1 ptr: 16178
-R1 Word:smiled
- R1 ptr: 16208
-R1 Word:idiot
- R1 ptr: 16211
-R1 Word:majesty
- R1 ptr: 16237
-R1 Word:pack
- R1 ptr: 16251
-R1 Word:cards
- R1 ptr: 16253
-R1 Word:needn
- R1 ptr: 16257
-R1 Word:rosetree
- R1 ptr: 16279
-R1 Word:pattern
- R1 ptr: 16292
-R1 Word:backs
- R1 ptr: 16295
-R1 Word:glaring
- R1 ptr: 16347
-R1 Word:beast
- R1 ptr: 16356
-R1 Word:consider
- R1 ptr: 16386
-R1 Word:bowing
- R1 ptr: 16437
-R1 Word:humble
- R1 ptr: 16484
-R1 Word:knee
- R1 ptr: 16490
-R1 Word:meanwhile
- R1 ptr: 16504
-R1 Word:examining
- R1 ptr: 16506
-R1 Word:remaining
- R1 ptr: 16522
-R1 Word:execute
- R1 ptr: 16525
-R1 Word:unfortunate
- R1 ptr: 16527
-R1 Word:protection
- R1 ptr: 16534
-R1 Word:marched
- R1 ptr: 16568
-R1 Word:evidently
- R1 ptr: 16615
-R1 Word:roared
- R1 ptr: 16625
-R1 Word:fine
- R1 ptr: 16643
-R1 Word:peeping
- R1 ptr: 16661
-R1 Word:hush
- R1 ptr: 16672
-R1 Word:whispered
- R1 ptr: 16705
-R1 Word:execution
- R1 ptr: 16710
-R1 Word:boxed
- R1 ptr: 16742
-R1 Word:scream
- R1 ptr: 16753
-R1 Word:laughter
- R1 ptr: 16755
-R1 Word:places
- R1 ptr: 16783
-R1 Word:thunder
- R1 ptr: 16791
-R1 Word:ridges
- R1 ptr: 16835
-R1 Word:furrows
- R1 ptr: 16837
-R1 Word:balls
- R1 ptr: 16839
-R1 Word:hedgehogs
- R1 ptr: 16842
-R1 Word:mallets
- R1 ptr: 16844
-R1 Word:flamingoes
- R1 ptr: 16846
-R1 Word:double
- R1 ptr: 16852
-R1 Word:arches
- R1 ptr: 16866
-R1 Word:chief
- R1 ptr: 16868
-R1 Word:managing
- R1 ptr: 16876
-R1 Word:flamingo
- R1 ptr: 16878
-R1 Word:body
- R1 ptr: 16884
-R1 Word:tucked
- R1 ptr: 16885
-R1 Word:comfortably
- R1 ptr: 16887
-R1 Word:straightened
- R1 ptr: 16907
-R1 Word:hedgehog
- R1 ptr: 16915
-R1 Word:expression
- R1 ptr: 16936
-R1 Word:bursting
- R1 ptr: 16942
-R1 Word:laughing
- R1 ptr: 16944
-R1 Word:provoking
- R1 ptr: 16962
-R1 Word:unrolled
- R1 ptr: 16969
-R1 Word:act
- R1 ptr: 16975
-R1 Word:crawling
- R1 ptr: 16977
-R1 Word:ridge
- R1 ptr: 16986
-R1 Word:furrow
- R1 ptr: 16988
-R1 Word:send
- R1 ptr: 16996
-R1 Word:doubled
- R1 ptr: 17003
-R1 Word:parts
- R1 ptr: 17014
-R1 Word:players
- R1 ptr: 17033
-R1 Word:played
- R1 ptr: 17035
-R1 Word:turns
- R1 ptr: 17041
-R1 Word:quarrelling
- R1 ptr: 17042
-R1 Word:fighting
- R1 ptr: 17047
-R1 Word:furious
- R1 ptr: 17062
-R1 Word:stamping
- R1 ptr: 17066
-R1 Word:shouting
- R1 ptr: 17069
-R1 Word:uneasy
- R1 ptr: 17089
-R1 Word:dispute
- R1 ptr: 17100
-R1 Word:beheading
- R1 ptr: 17126
-R1 Word:alive
- R1 ptr: 17138
-R1 Word:appearance
- R1 ptr: 17163
-R1 Word:nodded
- R1 ptr: 17235
-R1 Word:account
- R1 ptr: 17272
-R1 Word:someone
- R1 ptr: 17281
-R1 Word:fairly
- R1 ptr: 17313
-R1 Word:complaining
- R1 ptr: 17319
-R1 Word:quarrel
- R1 ptr: 17324
-R1 Word:oneself
- R1 ptr: 17330
-R1 Word:attends
- R1 ptr: 17347
-R1 Word:arch
- R1 ptr: 17366
-R1 Word:croqueted
- R1 ptr: 17385
-R1 Word:win
- R1 ptr: 17439
-R1 Word:finishing
- R1 ptr: 17445
-R1 Word:friend
- R1 ptr: 17477
-R1 Word:kiss
- R1 ptr: 17504
-R1 Word:likes
- R1 ptr: 17509
-R1 Word:impertinent
- R1 ptr: 17518
-R1 Word:removed
- R1 ptr: 17560
-R1 Word:passing
- R1 ptr: 17573
-R1 Word:settling
- R1 ptr: 17594
-R1 Word:difficulties
- R1 ptr: 17596
-R1 Word:executioner
- R1 ptr: 17613
-R1 Word:screaming
- R1 ptr: 17648
-R1 Word:search
- R1 ptr: 17702
-R1 Word:engaged
- R1 ptr: 17709
-R1 Word:fight
- R1 ptr: 17712
-R1 Word:croqueting
- R1 ptr: 17724
-R1 Word:helpless
- R1 ptr: 17756
-R1 Word:collected
- R1 ptr: 17851
-R1 Word:appealed
- R1 ptr: 17891
-R1 Word:settle
- R1 ptr: 17897
-R1 Word:arguments
- R1 ptr: 17904
-R1 Word:unless
- R1 ptr: 17938
-R1 Word:weren
- R1 ptr: 17986
-R1 Word:anxious
- R1 ptr: 18027
-R1 Word:prison
- R1 ptr: 18050
-R1 Word:arrow
- R1 ptr: 18067
-R1 Word:fading
- R1 ptr: 18072
-R1 Word:entirely
- R1 ptr: 18092
-R1 Word:disappeared
- R1 ptr: 18093
-R1 Word:wildly
- R1 ptr: 18101
-R1 Word:ix
- R1 ptr: 18120
-R1 Word:mock
- R1 ptr: 18122
-R1 Word:turtle
- R1 ptr: 18123
-R1 Word:affectionately
- R1 ptr: 18148
-R1 Word:pleasant
- R1 ptr: 18166
-R1 Word:hopeful
- R1 ptr: 18203
-R1 Word:vinegar
- R1 ptr: 18244
-R1 Word:sour
- R1 ptr: 18248
-R1 Word:camomile
- R1 ptr: 18249
-R1 Word:bitter
- R1 ptr: 18253
-R1 Word:barley
- R1 ptr: 18254
-R1 Word:sweet
- R1 ptr: 18261
-R1 Word:stingy
- R1 ptr: 18273
-R1 Word:forget
- R1 ptr: 18311
-R1 Word:moral
- R1 ptr: 18322
-R1 Word:hasn
- R1 ptr: 18336
-R1 Word:tut
- R1 ptr: 18342
-R1 Word:squeezed
- R1 ptr: 18360
-R1 Word:closer
- R1 ptr: 18363
-R1 Word:keeping
- R1 ptr: 18375
-R1 Word:uncomfortably
- R1 ptr: 18407
-R1 Word:bore
- R1 ptr: 18420
-R1 Word:tis
- R1 ptr: 18445
-R1 Word:minding
- R1 ptr: 18475
-R1 Word:morals
- R1 ptr: 18525
-R1 Word:waist
- R1 ptr: 18545
-R1 Word:experiment
- R1 ptr: 18568
-R1 Word:bite
- R1 ptr: 18571
-R1 Word:mustard
- R1 ptr: 18592
-R1 Word:feather
- R1 ptr: 18603
-R1 Word:flock
- R1 ptr: 18604
-R1 Word:mineral
- R1 ptr: 18630
-R1 Word:agree
- R1 ptr: 18646
-R1 Word:attended
- R1 ptr: 18683
-R1 Word:vegetable
- R1 ptr: 18690
-R1 Word:imagine
- R1 ptr: 18726
-R1 Word:cheap
- R1 ptr: 18840
-R1 Word:birthday
- R1 ptr: 18851
-R1 Word:dig
- R1 ptr: 18872
-R1 Word:worried
- R1 ptr: 18894
-R1 Word:died
- R1 ptr: 18920
-R1 Word:favourite
- R1 ptr: 18928
-R1 Word:linked
- R1 ptr: 18936
-R1 Word:hers
- R1 ptr: 18938
-R1 Word:tremble
- R1 ptr: 18941
-R1 Word:thunderstorm
- R1 ptr: 18961
-R1 Word:fair
- R1 ptr: 18979
-R1 Word:warning
- R1 ptr: 18980
-R1 Word:choice
- R1 ptr: 19008
+R1 Word:able
+ R1 ptr: 2247
+R1 Word:about
+ R1 ptr: 320
+R1 Word:above
+ R1 ptr: 7540
 R1 Word:absence
  R1 ptr: 19058
-R1 Word:shade
- R1 ptr: 19064
-R1 Word:delay
- R1 ptr: 19084
-R1 Word:cost
- R1 ptr: 19086
-R1 Word:whom
- R1 ptr: 19118
-R1 Word:sentenced
- R1 ptr: 19120
-R1 Word:custody
- R1 ptr: 19124
-R1 Word:company
- R1 ptr: 19258
-R1 Word:pardoned
- R1 ptr: 19263
-R1 Word:executions
- R1 ptr: 19283
-R1 Word:gryphon
- R1 ptr: 19294
-R1 Word:sun
- R1 ptr: 19300
-R1 Word:picture
- R1 ptr: 19312
-R1 Word:lazy
- R1 ptr: 19314
-R1 Word:leaving
- R1 ptr: 19350
-R1 Word:rubbed
- R1 ptr: 19397
-R1 Word:watched
- R1 ptr: 19402
-R1 Word:chuckled
- R1 ptr: 19413
-R1 Word:executes
- R1 ptr: 19443
-R1 Word:ledge
- R1 ptr: 19494
-R1 Word:rock
- R1 ptr: 19496
-R1 Word:heart
- R1 ptr: 19510
-R1 Word:pitied
- R1 ptr: 19514
-R1 Word:sorrow
- R1 ptr: 19520
-R1 Word:hollow
- R1 ptr: 19599
-R1 Word:occasional
- R1 ptr: 19673
-R1 Word:exclamation
- R1 ptr: 19674
-R1 Word:hjckrrh
- R1 ptr: 19676
-R1 Word:heavy
- R1 ptr: 19683
-R1 Word:calmly
- R1 ptr: 19735
-R1 Word:school
- R1 ptr: 19747
-R1 Word:tortoise
- R1 ptr: 19761
-R1 Word:sink
- R1 ptr: 19823
-R1 Word:mayn
- R1 ptr: 19863
-R1 Word:educations
- R1 ptr: 19900
-R1 Word:proud
- R1 ptr: 19920
-R1 Word:extras
- R1 ptr: 19925
-R1 Word:learned
- R1 ptr: 19937
-R1 Word:relief
- R1 ptr: 19969
-R1 Word:ours
- R1 ptr: 19972
-R1 Word:afford
- R1 ptr: 20002
-R1 Word:regular
- R1 ptr: 20017
-R1 Word:inquired
- R1 ptr: 20022
-R1 Word:reeling
- R1 ptr: 20024
-R1 Word:writhing
- R1 ptr: 20026
-R1 Word:arithmetic
- R1 ptr: 20042
-R1 Word:ambition
- R1 ptr: 20043
-R1 Word:distraction
- R1 ptr: 20044
-R1 Word:uglification
- R1 ptr: 20045
-R1 Word:derision
- R1 ptr: 20047
-R1 Word:lifted
- R1 ptr: 20062
-R1 Word:uglifying
- R1 ptr: 20073
-R1 Word:beautify
- R1 ptr: 20080
-R1 Word:uglify
- R1 ptr: 20102
-R1 Word:simpleton
- R1 ptr: 20107
-R1 Word:encouraged
- R1 ptr: 20112
-R1 Word:mystery
- R1 ptr: 20138
-R1 Word:counting
- R1 ptr: 20143
-R1 Word:subjects
- R1 ptr: 20146
-R1 Word:flappers
- R1 ptr: 20149
-R1 Word:ancient
- R1 ptr: 20151
-R1 Word:modern
- R1 ptr: 20153
-R1 Word:seaography
- R1 ptr: 20155
-R1 Word:drawling
- R1 ptr: 20157
-R1 Word:conger
- R1 ptr: 20162
-R1 Word:week
- R1 ptr: 20169
-R1 Word:fainting
- R1 ptr: 20176
-R1 Word:coils
- R1 ptr: 20178
-R1 Word:stiff
- R1 ptr: 20198
-R1 Word:classics
- R1 ptr: 20214
-R1 Word:grief
- R1 ptr: 20240
-R1 Word:hid
- R1 ptr: 20261
-R1 Word:lessen
- R1 ptr: 20318
-R1 Word:eleventh
- R1 ptr: 20346
-R1 Word:holiday
- R1 ptr: 20352
-R1 Word:twelfth
- R1 ptr: 20368
-R1 Word:games
- R1 ptr: 20390
-R1 Word:x
- R1 ptr: 20393
-R1 Word:lobster
- R1 ptr: 20395
-R1 Word:quadrille
- R1 ptr: 20396
-R1 Word:flapper
- R1 ptr: 20408
-R1 Word:sobs
- R1 ptr: 20426
-R1 Word:bone
- R1 ptr: 20436
-R1 Word:punching
- R1 ptr: 20451
-R1 Word:recovered
- R1 ptr: 20461
-R1 Word:cheeks
- R1 ptr: 20470
-R1 Word:introduced
- R1 ptr: 20494
-R1 Word:delightful
- R1 ptr: 20521
-R1 Word:dance
- R1 ptr: 20535
-R1 Word:form
- R1 ptr: 20544
-R1 Word:lines
- R1 ptr: 20552
-R1 Word:seals
- R1 ptr: 20557
-R1 Word:turtles
- R1 ptr: 20558
-R1 Word:salmon
- R1 ptr: 20559
-R1 Word:cleared
- R1 ptr: 20566
-R1 Word:jelly
- R1 ptr: 20569
+R1 Word:absurd
+ R1 ptr: 5222
+R1 Word:acceptance
+ R1 ptr: 5200
+R1 Word:accident
+ R1 ptr: 24406
+R1 Word:accidentally
+ R1 ptr: 24375
+R1 Word:account
+ R1 ptr: 17272
+R1 Word:accounting
+ R1 ptr: 22221
+R1 Word:accounts
+ R1 ptr: 14259
+R1 Word:accusation
+ R1 ptr: 22997
+R1 Word:accustomed
+ R1 ptr: 4524
+R1 Word:ache
+ R1 ptr: 24246
+R1 Word:across
+ R1 ptr: 222
+R1 Word:act
+ R1 ptr: 16975
+R1 Word:actually
+ R1 ptr: 197
+R1 Word:ada
+ R1 ptr: 2760
+R1 Word:added
+ R1 ptr: 5340
+R1 Word:adding
+ R1 ptr: 10429
+R1 Word:addressed
+ R1 ptr: 8612
+R1 Word:addressing
+ R1 ptr: 5714
+R1 Word:adjourn
+ R1 ptr: 4735
+R1 Word:adoption
+ R1 ptr: 4739
 R1 Word:advance
  R1 ptr: 20583
+R1 Word:advantage
+ R1 ptr: 11822
+R1 Word:adventures
+ R1 ptr: 1
+R1 Word:advice
+ R1 ptr: 1896
+R1 Word:advisable
+ R1 ptr: 4596
+R1 Word:advise
+ R1 ptr: 1883
+R1 Word:affair
+ R1 ptr: 25279
+R1 Word:affectionately
+ R1 ptr: 18148
+R1 Word:afford
+ R1 ptr: 20002
+R1 Word:afore
+ R1 ptr: 15916
+R1 Word:afraid
+ R1 ptr: 835
+R1 Word:after
+ R1 ptr: 254
+R1 Word:afterwards
+ R1 ptr: 171
+R1 Word:again
+ R1 ptr: 293
+R1 Word:against
+ R1 ptr: 1939
+R1 Word:age
+ R1 ptr: 2741
+R1 Word:ago
+ R1 ptr: 3726
+R1 Word:agony
+ R1 ptr: 11769
+R1 Word:agree
+ R1 ptr: 18646
+R1 Word:ah
+ R1 ptr: 2721
+R1 Word:ahem
+ R1 ptr: 4473
+R1 Word:air
+ R1 ptr: 745
+R1 Word:airs
+ R1 ptr: 9321
+R1 Word:alarm
+ R1 ptr: 9841
+R1 Word:alarmed
+ R1 ptr: 14671
+R1 Word:alas
+ R1 ptr: 1175
+R1 Word:alice
+ R1 ptr: 0
+R1 Word:alive
+ R1 ptr: 17138
+R1 Word:all
+ R1 ptr: 189
+R1 Word:allow
+ R1 ptr: 4376
+R1 Word:almost
+ R1 ptr: 1582
+R1 Word:alone
+ R1 ptr: 3130
+R1 Word:along
+ R1 ptr: 1267
+R1 Word:aloud
+ R1 ptr: 545
+R1 Word:already
+ R1 ptr: 11740
+R1 Word:also
+ R1 ptr: 12348
+R1 Word:altered
+ R1 ptr: 9363
+R1 Word:alternately
+ R1 ptr: 11474
+R1 Word:altogether
+ R1 ptr: 1725
+R1 Word:always
+ R1 ptr: 3963
+R1 Word:am
+ R1 ptr: 2719
+R1 Word:ambition
+ R1 ptr: 20043
+R1 Word:among
+ R1 ptr: 674
+R1 Word:an
+ R1 ptr: 531
+R1 Word:ancient
+ R1 ptr: 20151
+R1 Word:and
+ R1 ptr: 34
+R1 Word:anger
+ R1 ptr: 8932
+R1 Word:angrily
+ R1 ptr: 5535
+R1 Word:angry
+ R1 ptr: 3819
+R1 Word:animal
+ R1 ptr: 3780
+R1 Word:animals
+ R1 ptr: 4225
+R1 Word:ann
+ R1 ptr: 6114
+R1 Word:annoy
+ R1 ptr: 11982
+R1 Word:annoyed
+ R1 ptr: 10194
+R1 Word:another
+ R1 ptr: 274
+R1 Word:answer
+ R1 ptr: 897
+R1 Word:answered
+ R1 ptr: 6867
+R1 Word:answers
+ R1 ptr: 14191
+R1 Word:antipathies
+ R1 ptr: 684
+R1 Word:anxious
+ R1 ptr: 18027
+R1 Word:anxiously
+ R1 ptr: 2069
+R1 Word:any
+ R1 ptr: 1190
+R1 Word:anything
+ R1 ptr: 388
+R1 Word:anywhere
+ R1 ptr: 21447
+R1 Word:appealed
+ R1 ptr: 17891
+R1 Word:appear
+ R1 ptr: 13068
+R1 Word:appearance
+ R1 ptr: 17163
+R1 Word:appeared
+ R1 ptr: 7947
+R1 Word:appearing
+ R1 ptr: 13167
+R1 Word:applause
+ R1 ptr: 23875
+R1 Word:apples
+ R1 ptr: 7138
+R1 Word:arch
+ R1 ptr: 17366
+R1 Word:archbishop
+ R1 ptr: 4591
+R1 Word:arches
+ R1 ptr: 16866
+R1 Word:are
+ R1 ptr: 828
+R1 Word:argue
+ R1 ptr: 11305
+R1 Word:argued
+ R1 ptr: 9248
+R1 Word:argument
+ R1 ptr: 4349
+R1 Word:arguments
+ R1 ptr: 17904
+R1 Word:arithmetic
+ R1 ptr: 20042
+R1 Word:arm
+ R1 ptr: 6614
+R1 Word:arms
+ R1 ptr: 8562
+R1 Word:around
+ R1 ptr: 21871
+R1 Word:arranged
+ R1 ptr: 8025
+R1 Word:arrived
+ R1 ptr: 22441
+R1 Word:arrow
+ R1 ptr: 18067
+R1 Word:arrum
+ R1 ptr: 7180
+R1 Word:as
+ R1 ptr: 84
+R1 Word:ashamed
+ R1 ptr: 2441
+R1 Word:ask
+ R1 ptr: 712
+R1 Word:askance
+ R1 ptr: 20931
+R1 Word:asked
+ R1 ptr: 5058
+R1 Word:asking
+ R1 ptr: 763
+R1 Word:asleep
+ R1 ptr: 13382
+R1 Word:assembled
+ R1 ptr: 4275
+R1 Word:at
+ R1 ptr: 182
+R1 Word:ate
+ R1 ptr: 2063
+R1 Word:atheling
+ R1 ptr: 4664
+R1 Word:atom
+ R1 ptr: 25397
+R1 Word:attempt
+ R1 ptr: 7019
+R1 Word:attempted
+ R1 ptr: 25424
+R1 Word:attempts
+ R1 ptr: 23873
+R1 Word:attended
+ R1 ptr: 18683
+R1 Word:attending
+ R1 ptr: 5497
+R1 Word:attends
+ R1 ptr: 17347
+R1 Word:audibly
+ R1 ptr: 4785
+R1 Word:australia
+ R1 ptr: 730
+R1 Word:authority
+ R1 ptr: 4411
+R1 Word:avoid
+ R1 ptr: 3237
+R1 Word:away
+ R1 ptr: 1020
+R1 Word:awfully
+ R1 ptr: 9304
+R1 Word:axes
+ R1 ptr: 11869
+R1 Word:axis
+ R1 ptr: 11866
+R1 Word:baby
+ R1 ptr: 11411
+R1 Word:back
+ R1 ptr: 1393
+R1 Word:backs
+ R1 ptr: 16295
+R1 Word:bad
+ R1 ptr: 3327
+R1 Word:bag
+ R1 ptr: 23828
+R1 Word:baked
+ R1 ptr: 21806
+R1 Word:balanced
+ R1 ptr: 9291
+R1 Word:balls
+ R1 ptr: 16839
+R1 Word:bank
+ R1 ptr: 33
+R1 Word:banks
+ R1 ptr: 10112
+R1 Word:banquet
+ R1 ptr: 22117
+R1 Word:bark
+ R1 ptr: 8055
+R1 Word:barking
+ R1 ptr: 8290
+R1 Word:barley
+ R1 ptr: 18254
+R1 Word:barrowful
+ R1 ptr: 7738
+R1 Word:bat
+ R1 ptr: 841
+R1 Word:bathing
+ R1 ptr: 3410
+R1 Word:bats
+ R1 ptr: 854
+R1 Word:bawled
+ R1 ptr: 14523
+R1 Word:be
+ R1 ptr: 108
+R1 Word:beak
+ R1 ptr: 9227
+R1 Word:bear
+ R1 ptr: 7411
+R1 Word:beast
+ R1 ptr: 16356
+R1 Word:beasts
+ R1 ptr: 1516
+R1 Word:beat
+ R1 ptr: 11972
+R1 Word:beating
+ R1 ptr: 10042
+R1 Word:beau
+ R1 ptr: 22279
+R1 Word:beauti
+ R1 ptr: 22328
+R1 Word:beautiful
+ R1 ptr: 10667
+R1 Word:beautifully
+ R1 ptr: 1453
+R1 Word:beautify
+ R1 ptr: 20080
+R1 Word:became
+ R1 ptr: 13013
+R1 Word:because
+ R1 ptr: 1522
+R1 Word:become
+ R1 ptr: 6657
+R1 Word:becoming
+ R1 ptr: 22657
+R1 Word:bed
+ R1 ptr: 5851
+R1 Word:beds
+ R1 ptr: 1292
+R1 Word:bee
+ R1 ptr: 9040
+R1 Word:been
+ R1 ptr: 1105
+R1 Word:before
+ R1 ptr: 229
+R1 Word:beg
+ R1 ptr: 3767
+R1 Word:began
+ R1 ptr: 655
+R1 Word:begged
+ R1 ptr: 5312
+R1 Word:begin
+ R1 ptr: 1353
+R1 Word:beginning
+ R1 ptr: 21
+R1 Word:begins
+ R1 ptr: 15289
+R1 Word:begun
+ R1 ptr: 919
+R1 Word:behead
+ R1 ptr: 24164
+R1 Word:beheaded
+ R1 ptr: 15752
+R1 Word:beheading
+ R1 ptr: 17126
+R1 Word:behind
+ R1 ptr: 1052
+R1 Word:being
+ R1 ptr: 3087
+R1 Word:believe
+ R1 ptr: 4764
+R1 Word:believed
+ R1 ptr: 26203
+R1 Word:bells
+ R1 ptr: 26249
+R1 Word:belong
+ R1 ptr: 1165
+R1 Word:belongs
+ R1 ptr: 4064
+R1 Word:beloved
+ R1 ptr: 21006
+R1 Word:below
+ R1 ptr: 7419
+R1 Word:belt
+ R1 ptr: 21828
+R1 Word:bend
+ R1 ptr: 5523
+R1 Word:bent
+ R1 ptr: 4771
+R1 Word:besides
+ R1 ptr: 2802
+R1 Word:best
+ R1 ptr: 1835
+R1 Word:better
+ R1 ptr: 4370
+R1 Word:between
+ R1 ptr: 11112
+R1 Word:bill
+ R1 ptr: 5971
+R1 Word:bird
+ R1 ptr: 5782
+R1 Word:birds
+ R1 ptr: 4223
+R1 Word:birthday
+ R1 ptr: 18851
+R1 Word:bit
+ R1 ptr: 973
+R1 Word:bite
+ R1 ptr: 18571
+R1 Word:bitter
+ R1 ptr: 18253
+R1 Word:blacking
+ R1 ptr: 21344
+R1 Word:blades
+ R1 ptr: 8459
+R1 Word:blame
+ R1 ptr: 15732
+R1 Word:blasts
+ R1 ptr: 23008
+R1 Word:bleeds
+ R1 ptr: 1564
+R1 Word:blew
+ R1 ptr: 23006
+R1 Word:blow
+ R1 ptr: 9741
+R1 Word:blown
+ R1 ptr: 1754
+R1 Word:blows
+ R1 ptr: 11750
+R1 Word:body
+ R1 ptr: 16884
+R1 Word:boldly
+ R1 ptr: 23457
+R1 Word:bone
+ R1 ptr: 20436
+R1 Word:bones
+ R1 ptr: 9224
+R1 Word:book
+ R1 ptr: 48
+R1 Word:books
+ R1 ptr: 22586
+R1 Word:boon
+ R1 ptr: 22096
+R1 Word:boots
+ R1 ptr: 2300
+R1 Word:bore
+ R1 ptr: 18420
+R1 Word:both
+ R1 ptr: 5427
+R1 Word:bother
+ R1 ptr: 11923
+R1 Word:bottle
+ R1 ptr: 1426
+R1 Word:bottom
+ R1 ptr: 14776
+R1 Word:bough
+ R1 ptr: 12605
+R1 Word:bound
+ R1 ptr: 20634
+R1 Word:bowed
+ R1 ptr: 5248
+R1 Word:bowing
+ R1 ptr: 16437
+R1 Word:box
+ R1 ptr: 1923
+R1 Word:boxed
+ R1 ptr: 16742
+R1 Word:boy
+ R1 ptr: 11970
+R1 Word:brain
+ R1 ptr: 9116
+R1 Word:branch
+ R1 ptr: 13143
+R1 Word:branches
+ R1 ptr: 10524
+R1 Word:brass
+ R1 ptr: 6222
+R1 Word:brave
+ R1 ptr: 493
+R1 Word:bread
+ R1 ptr: 13932
+R1 Word:break
+ R1 ptr: 13828
+R1 Word:breath
+ R1 ptr: 5473
+R1 Word:breathe
+ R1 ptr: 13770
+R1 Word:breeze
+ R1 ptr: 22408
+R1 Word:bright
+ R1 ptr: 1294
+R1 Word:brightened
+ R1 ptr: 1664
+R1 Word:bring
+ R1 ptr: 1912
+R1 Word:bringing
+ R1 ptr: 10581
+R1 Word:bristling
+ R1 ptr: 3914
+R1 Word:broke
+ R1 ptr: 9703
+R1 Word:broken
+ R1 ptr: 6527
+R1 Word:brother
+ R1 ptr: 3658
+R1 Word:brought
+ R1 ptr: 8817
+R1 Word:brown
+ R1 ptr: 4034
+R1 Word:brush
+ R1 ptr: 15794
+R1 Word:brushing
+ R1 ptr: 25854
+R1 Word:burn
+ R1 ptr: 1542
+R1 Word:burning
+ R1 ptr: 246
+R1 Word:burnt
+ R1 ptr: 1510
+R1 Word:burst
+ R1 ptr: 3110
+R1 Word:bursting
+ R1 ptr: 16942
+R1 Word:busily
+ R1 ptr: 11897
+R1 Word:business
+ R1 ptr: 7213
+R1 Word:busy
+ R1 ptr: 9039
+R1 Word:but
+ R1 ptr: 53
+R1 Word:butter
+ R1 ptr: 13888
+R1 Word:buttercup
+ R1 ptr: 8375
+R1 Word:buttered
+ R1 ptr: 1627
+R1 Word:butterfly
+ R1 ptr: 8770
+R1 Word:buttons
+ R1 ptr: 21831
+R1 Word:by
+ R1 ptr: 28
+R1 Word:cackled
+ R1 ptr: 24772
+R1 Word:cake
+ R1 ptr: 2005
+R1 Word:cakes
+ R1 ptr: 7818
+R1 Word:call
+ R1 ptr: 5388
+R1 Word:called
+ R1 ptr: 4129
+R1 Word:calling
+ R1 ptr: 5081
+R1 Word:calmly
+ R1 ptr: 19735
+R1 Word:came
+ R1 ptr: 955
+R1 Word:camomile
+ R1 ptr: 18249
+R1 Word:can
+ R1 ptr: 2031
+R1 Word:canary
+ R1 ptr: 5830
+R1 Word:candle
+ R1 ptr: 1728
+R1 Word:cannot
+ R1 ptr: 24442
+R1 Word:canterbury
+ R1 ptr: 4593
+R1 Word:canvas
+ R1 ptr: 23827
+R1 Word:capering
+ R1 ptr: 20662
+R1 Word:capital
+ R1 ptr: 2868
+R1 Word:cardboard
+ R1 ptr: 25523
+R1 Word:cards
+ R1 ptr: 16253
+R1 Word:care
+ R1 ptr: 2059
+R1 Word:carefully
+ R1 ptr: 5814
+R1 Word:cares
+ R1 ptr: 22293
+R1 Word:carried
+ R1 ptr: 11790
+R1 Word:carrier
+ R1 ptr: 2320
+R1 Word:carroll
+ R1 ptr: 9
+R1 Word:carry
+ R1 ptr: 12510
+R1 Word:carrying
+ R1 ptr: 15969
+R1 Word:cart
+ R1 ptr: 8248
+R1 Word:cartwheels
+ R1 ptr: 7344
+R1 Word:case
+ R1 ptr: 3368
+R1 Word:cat
+ R1 ptr: 805
+R1 Word:catch
+ R1 ptr: 839
+R1 Word:catching
+ R1 ptr: 3899
+R1 Word:caterpillar
+ R1 ptr: 8553
+R1 Word:cats
+ R1 ptr: 852
+R1 Word:cattle
+ R1 ptr: 26294
+R1 Word:caucus
+ R1 ptr: 4263
+R1 Word:caught
+ R1 ptr: 12118
+R1 Word:cauldron
+ R1 ptr: 11422
+R1 Word:cause
+ R1 ptr: 3219
+R1 Word:caused
+ R1 ptr: 5268
+R1 Word:cautiously
+ R1 ptr: 14243
+R1 Word:ceiling
+ R1 ptr: 6516
+R1 Word:centre
+ R1 ptr: 553
+R1 Word:certain
+ R1 ptr: 1583
+R1 Word:certainly
+ R1 ptr: 1430
+R1 Word:chains
+ R1 ptr: 22470
+R1 Word:chance
+ R1 ptr: 6692
+R1 Word:chanced
+ R1 ptr: 15808
+R1 Word:change
+ R1 ptr: 3255
+R1 Word:changed
+ R1 ptr: 2678
+R1 Word:changes
+ R1 ptr: 10291
+R1 Word:changing
+ R1 ptr: 9412
+R1 Word:chapter
+ R1 ptr: 14
+R1 Word:character
+ R1 ptr: 25209
+R1 Word:charges
+ R1 ptr: 8272
+R1 Word:chatte
+ R1 ptr: 3737
+R1 Word:cheap
+ R1 ptr: 18840
+R1 Word:cheated
+ R1 ptr: 1929
+R1 Word:checked
+ R1 ptr: 15820
+R1 Word:cheeks
+ R1 ptr: 20470
+R1 Word:cheered
+ R1 ptr: 5215
+R1 Word:cheerfully
+ R1 ptr: 2960
+R1 Word:cherry
+ R1 ptr: 1619
+R1 Word:cheshire
+ R1 ptr: 11542
+R1 Word:chief
+ R1 ptr: 16868
+R1 Word:child
+ R1 ptr: 1944
+R1 Word:childhood
+ R1 ptr: 26346
+R1 Word:children
+ R1 ptr: 1506
+R1 Word:chimney
+ R1 ptr: 6642
+R1 Word:chimneys
+ R1 ptr: 13268
+R1 Word:chin
+ R1 ptr: 3349
+R1 Word:choice
+ R1 ptr: 19008
+R1 Word:choke
+ R1 ptr: 7597
+R1 Word:choked
+ R1 ptr: 5288
+R1 Word:choking
+ R1 ptr: 26175
+R1 Word:choosing
+ R1 ptr: 15227
+R1 Word:chop
+ R1 ptr: 11873
+R1 Word:chorus
+ R1 ptr: 5055
+R1 Word:chose
+ R1 ptr: 9557
+R1 Word:christmas
+ R1 ptr: 2302
+R1 Word:chrysalis
+ R1 ptr: 8759
+R1 Word:chuckled
+ R1 ptr: 19413
+R1 Word:circle
+ R1 ptr: 4894
+R1 Word:circumstances
+ R1 ptr: 8480
+R1 Word:civil
+ R1 ptr: 13513
+R1 Word:clamour
+ R1 ptr: 26285
+R1 Word:clapping
+ R1 ptr: 25102
+R1 Word:clasped
+ R1 ptr: 26024
+R1 Word:classics
+ R1 ptr: 20214
+R1 Word:claws
+ R1 ptr: 2969
+R1 Word:clean
+ R1 ptr: 15090
+R1 Word:clear
+ R1 ptr: 3722
+R1 Word:cleared
+ R1 ptr: 20566
+R1 Word:clearer
+ R1 ptr: 25603
+R1 Word:clearly
+ R1 ptr: 8710
+R1 Word:clever
+ R1 ptr: 9305
+R1 Word:climb
+ R1 ptr: 1837
+R1 Word:clinging
+ R1 ptr: 4288
+R1 Word:clock
+ R1 ptr: 14287
+R1 Word:close
+ R1 ptr: 128
+R1 Word:closed
+ R1 ptr: 15311
+R1 Word:closely
+ R1 ptr: 9796
+R1 Word:closer
+ R1 ptr: 18363
+R1 Word:clubs
+ R1 ptr: 15970
+R1 Word:coast
+ R1 ptr: 3404
+R1 Word:coaxing
+ R1 ptr: 8097
+R1 Word:coils
+ R1 ptr: 20178
+R1 Word:cold
+ R1 ptr: 4464
+R1 Word:collar
+ R1 ptr: 24157
+R1 Word:collected
+ R1 ptr: 17851
+R1 Word:come
+ R1 ptr: 529
+R1 Word:comes
+ R1 ptr: 7645
+R1 Word:comfits
+ R1 ptr: 5112
+R1 Word:comfort
+ R1 ptr: 6842
+R1 Word:comfortable
+ R1 ptr: 22651
+R1 Word:comfortably
+ R1 ptr: 16887
+R1 Word:coming
+ R1 ptr: 379
+R1 Word:common
+ R1 ptr: 2146
+R1 Word:commotion
+ R1 ptr: 4120
+R1 Word:company
+ R1 ptr: 19258
+R1 Word:complained
+ R1 ptr: 5277
+R1 Word:complaining
+ R1 ptr: 17319
+R1 Word:completely
+ R1 ptr: 6091
+R1 Word:concert
+ R1 ptr: 14418
+R1 Word:concluded
+ R1 ptr: 7096
+R1 Word:conclusion
+ R1 ptr: 3395
+R1 Word:condemn
+ R1 ptr: 5490
+R1 Word:conduct
+ R1 ptr: 4674
+R1 Word:confused
+ R1 ptr: 5085
+R1 Word:confusing
+ R1 ptr: 8735
+R1 Word:confusion
+ R1 ptr: 5272
+R1 Word:conger
+ R1 ptr: 20162
+R1 Word:conqueror
+ R1 ptr: 3710
+R1 Word:conquest
+ R1 ptr: 4528
+R1 Word:consented
+ R1 ptr: 15051
+R1 Word:consider
+ R1 ptr: 16386
+R1 Word:considered
+ R1 ptr: 10782
+R1 Word:considering
+ R1 ptr: 79
+R1 Word:constant
+ R1 ptr: 11058
+R1 Word:consultation
+ R1 ptr: 4313
+R1 Word:contempt
+ R1 ptr: 10311
+R1 Word:contemptuous
+ R1 ptr: 21858
+R1 Word:contemptuously
+ R1 ptr: 8812
+R1 Word:content
+ R1 ptr: 9448
+R1 Word:continued
+ R1 ptr: 4694
+R1 Word:contradicted
+ R1 ptr: 9432
+R1 Word:conversation
+ R1 ptr: 75
+R1 Word:conversations
+ R1 ptr: 59
+R1 Word:cook
+ R1 ptr: 11413
+R1 Word:cool
+ R1 ptr: 1298
+R1 Word:corner
+ R1 ptr: 1039
+R1 Word:corners
+ R1 ptr: 15989
+R1 Word:cost
+ R1 ptr: 19086
+R1 Word:could
+ R1 ptr: 88
+R1 Word:couldn
+ R1 ptr: 896
+R1 Word:counting
+ R1 ptr: 20143
+R1 Word:country
+ R1 ptr: 719
+R1 Word:couple
+ R1 ptr: 9199
+R1 Word:couples
+ R1 ptr: 16033
+R1 Word:courage
+ R1 ptr: 11584
+R1 Word:course
+ R1 ptr: 4303
+R1 Word:court
+ R1 ptr: 22508
+R1 Word:courtiers
+ R1 ptr: 15993
+R1 Word:coward
+ R1 ptr: 7258
+R1 Word:crab
+ R1 ptr: 5656
+R1 Word:crash
+ R1 ptr: 7089
+R1 Word:crashed
+ R1 ptr: 26158
+R1 Word:crawled
+ R1 ptr: 9591
+R1 Word:crawling
+ R1 ptr: 16977
+R1 Word:crazy
+ R1 ptr: 11311
+R1 Word:creature
+ R1 ptr: 12131
+R1 Word:creatures
+ R1 ptr: 4247
+R1 Word:creep
+ R1 ptr: 2044
+R1 Word:crept
+ R1 ptr: 10858
+R1 Word:cried
+ R1 ptr: 1867
+R1 Word:cries
+ R1 ptr: 26254
+R1 Word:crimson
+ R1 ptr: 16088
+R1 Word:crocodile
+ R1 ptr: 2943
+R1 Word:croquet
+ R1 ptr: 1935
+R1 Word:croqueted
+ R1 ptr: 17385
+R1 Word:croqueting
+ R1 ptr: 17724
+R1 Word:cross
+ R1 ptr: 4296
+R1 Word:crossed
+ R1 ptr: 2902
+R1 Word:crossly
+ R1 ptr: 4608
+R1 Word:crouched
+ R1 ptr: 10506
+R1 Word:crowd
+ R1 ptr: 7905
+R1 Word:crowded
+ R1 ptr: 4220
+R1 Word:crown
+ R1 ptr: 4672
+R1 Word:crumbs
+ R1 ptr: 13914
+R1 Word:cry
+ R1 ptr: 2435
+R1 Word:crying
+ R1 ptr: 1873
+R1 Word:cucumber
+ R1 ptr: 7107
+R1 Word:cunning
+ R1 ptr: 5481
+R1 Word:cup
+ R1 ptr: 13950
+R1 Word:cupboards
+ R1 ptr: 405
+R1 Word:cur
+ R1 ptr: 5458
+R1 Word:curiosity
+ R1 ptr: 248
+R1 Word:curious
+ R1 ptr: 1637
+R1 Word:curiouser
+ R1 ptr: 2166
+R1 Word:curled
+ R1 ptr: 6615
+R1 Word:curls
+ R1 ptr: 10944
+R1 Word:curly
+ R1 ptr: 4033
+R1 Word:currants
+ R1 ptr: 2016
+R1 Word:curtain
+ R1 ptr: 1210
+R1 Word:curtsey
+ R1 ptr: 735
+R1 Word:curtseying
+ R1 ptr: 739
+R1 Word:curving
+ R1 ptr: 9987
+R1 Word:cushion
+ R1 ptr: 13392
+R1 Word:custard
+ R1 ptr: 1620
+R1 Word:custody
+ R1 ptr: 19124
+R1 Word:cut
+ R1 ptr: 1554
+R1 Word:cutting
+ R1 ptr: 13559
+R1 Word:d
+ R1 ptr: 5338
+R1 Word:dainties
+ R1 ptr: 22263
+R1 Word:daisies
+ R1 ptr: 118
+R1 Word:daisy
+ R1 ptr: 106
+R1 Word:dance
+ R1 ptr: 20535
+R1 Word:dancing
+ R1 ptr: 20786
+R1 Word:dare
+ R1 ptr: 5233
+R1 Word:daresay
+ R1 ptr: 3700
+R1 Word:dark
+ R1 ptr: 385
+R1 Word:darkness
+ R1 ptr: 2626
+R1 Word:dates
+ R1 ptr: 23206
+R1 Word:daughter
+ R1 ptr: 5664
+R1 Word:day
+ R1 ptr: 92
+R1 Word:days
+ R1 ptr: 11337
+R1 Word:dead
+ R1 ptr: 7696
+R1 Word:deal
+ R1 ptr: 2253
+R1 Word:dear
+ R1 ptr: 159
+R1 Word:dears
+ R1 ptr: 2241
+R1 Word:death
+ R1 ptr: 5493
+R1 Word:decided
+ R1 ptr: 1776
+R1 Word:decidedly
+ R1 ptr: 9374
+R1 Word:declare
+ R1 ptr: 3324
+R1 Word:declared
+ R1 ptr: 4583
+R1 Word:deep
+ R1 ptr: 331
+R1 Word:deepest
+ R1 ptr: 10310
+R1 Word:deeply
+ R1 ptr: 1558
+R1 Word:delay
+ R1 ptr: 19084
+R1 Word:delight
+ R1 ptr: 1240
+R1 Word:delighted
+ R1 ptr: 7875
+R1 Word:delightful
+ R1 ptr: 20521
+R1 Word:denial
+ R1 ptr: 5439
+R1 Word:denied
+ R1 ptr: 12765
+R1 Word:denies
+ R1 ptr: 23681
+R1 Word:deny
+ R1 ptr: 23674
+R1 Word:denying
+ R1 ptr: 10340
+R1 Word:depends
+ R1 ptr: 12700
+R1 Word:derision
+ R1 ptr: 20047
+R1 Word:deserved
+ R1 ptr: 15749
+R1 Word:despair
+ R1 ptr: 5098
+R1 Word:desperate
+ R1 ptr: 2580
+R1 Word:desperately
+ R1 ptr: 11367
+R1 Word:diamonds
+ R1 ptr: 16000
+R1 Word:did
+ R1 ptr: 140
+R1 Word:didn
+ R1 ptr: 700
+R1 Word:die
+ R1 ptr: 24439
+R1 Word:died
+ R1 ptr: 18920
+R1 Word:different
+ R1 ptr: 2704
+R1 Word:difficult
+ R1 ptr: 9685
+R1 Word:difficulties
+ R1 ptr: 17596
+R1 Word:difficulty
+ R1 ptr: 8028
+R1 Word:dig
+ R1 ptr: 18872
+R1 Word:digging
+ R1 ptr: 3417
+R1 Word:diligently
+ R1 ptr: 24585
+R1 Word:dinah
+ R1 ptr: 793
+R1 Word:dinn
+ R1 ptr: 21093
+R1 Word:dinner
+ R1 ptr: 4052
+R1 Word:dipped
+ R1 ptr: 307
+R1 Word:directed
+ R1 ptr: 24954
+R1 Word:direction
+ R1 ptr: 6151
+R1 Word:directions
+ R1 ptr: 2338
+R1 Word:directly
+ R1 ptr: 6305
+R1 Word:disagree
+ R1 ptr: 1585
+R1 Word:disappeared
+ R1 ptr: 18093
+R1 Word:disappointment
+ R1 ptr: 441
+R1 Word:disgust
+ R1 ptr: 15414
+R1 Word:dish
+ R1 ptr: 11073
+R1 Word:dishes
+ R1 ptr: 11720
+R1 Word:dismay
+ R1 ptr: 24392
+R1 Word:disobey
+ R1 ptr: 22023
+R1 Word:dispute
+ R1 ptr: 17100
+R1 Word:distance
+ R1 ptr: 623
+R1 Word:distant
+ R1 ptr: 9937
+R1 Word:distraction
+ R1 ptr: 20044
+R1 Word:dive
+ R1 ptr: 9998
+R1 Word:do
+ R1 ptr: 39
+R1 Word:dodged
+ R1 ptr: 8192
+R1 Word:dodo
+ R1 ptr: 4237
+R1 Word:does
+ R1 ptr: 6469
+R1 Word:doesn
+ R1 ptr: 2773
+R1 Word:dog
+ R1 ptr: 4013
+R1 Word:dogs
+ R1 ptr: 3996
+R1 Word:doing
+ R1 ptr: 6118
+R1 Word:don
+ R1 ptr: 2058
+R1 Word:done
+ R1 ptr: 3168
+R1 Word:door
+ R1 ptr: 1118
+R1 Word:doors
+ R1 ptr: 1091
+R1 Word:doorway
+ R1 ptr: 1310
+R1 Word:dormouse
+ R1 ptr: 13376
+R1 Word:doth
+ R1 ptr: 2897
+R1 Word:double
+ R1 ptr: 16852
+R1 Word:doubled
+ R1 ptr: 17003
+R1 Word:doubling
+ R1 ptr: 12163
+R1 Word:doubt
+ R1 ptr: 7756
+R1 Word:doubtful
+ R1 ptr: 16108
+R1 Word:doubtfully
+ R1 ptr: 10284
+R1 Word:down
+ R1 ptr: 16
+R1 Word:downward
+ R1 ptr: 682
+R1 Word:downwards
+ R1 ptr: 24494
+R1 Word:doze
+ R1 ptr: 15323
+R1 Word:dozing
+ R1 ptr: 914
+R1 Word:draggled
+ R1 ptr: 4281
+R1 Word:draw
+ R1 ptr: 10027
+R1 Word:drawing
+ R1 ptr: 15375
+R1 Word:drawling
+ R1 ptr: 20157
+R1 Word:dreadful
+ R1 ptr: 11295
+R1 Word:dreadfully
+ R1 ptr: 12547
+R1 Word:dream
+ R1 ptr: 921
+R1 Word:dreamed
+ R1 ptr: 26012
+R1 Word:dreaming
+ R1 ptr: 26001
+R1 Word:dreamy
+ R1 ptr: 873
+R1 Word:dressed
+ R1 ptr: 2530
+R1 Word:drew
+ R1 ptr: 7505
+R1 Word:dried
+ R1 ptr: 2515
+R1 Word:driest
+ R1 ptr: 4488
+R1 Word:drink
+ R1 ptr: 1451
+R1 Word:drinking
+ R1 ptr: 14798
+R1 Word:dripping
+ R1 ptr: 4294
+R1 Word:drive
+ R1 ptr: 11309
+R1 Word:drop
+ R1 ptr: 450
+R1 Word:dropped
+ R1 ptr: 2613
+R1 Word:dropping
+ R1 ptr: 20692
+R1 Word:drowned
+ R1 ptr: 3489
+R1 Word:drunk
+ R1 ptr: 6505
+R1 Word:dry
+ R1 ptr: 962
+R1 Word:duchess
+ R1 ptr: 2564
+R1 Word:duck
+ R1 ptr: 4234
+R1 Word:dull
+ R1 ptr: 2136
+R1 Word:dunce
+ R1 ptr: 23637
+R1 Word:e
+ R1 ptr: 22286
+R1 Word:each
+ R1 ptr: 8282
+R1 Word:eager
+ R1 ptr: 15960
+R1 Word:eagerly
+ R1 ptr: 4006
+R1 Word:eaglet
+ R1 ptr: 4242
+R1 Word:ear
+ R1 ptr: 11505
+R1 Word:earls
+ R1 ptr: 4533
+R1 Word:earnestly
+ R1 ptr: 936
+R1 Word:ears
+ R1 ptr: 1042
+R1 Word:earth
+ R1 ptr: 556
+R1 Word:easily
+ R1 ptr: 5591
+R1 Word:easy
+ R1 ptr: 4941
+R1 Word:eat
+ R1 ptr: 853
+R1 Word:eaten
+ R1 ptr: 1512
+R1 Word:eating
+ R1 ptr: 14796
+R1 Word:eats
+ R1 ptr: 2113
+R1 Word:edgar
+ R1 ptr: 4663
+R1 Word:edge
+ R1 ptr: 8540
+R1 Word:edition
+ R1 ptr: 13
+R1 Word:editions
+ R1 ptr: 21838
+R1 Word:educations
+ R1 ptr: 19900
+R1 Word:edwin
+ R1 ptr: 4529
+R1 Word:eel
+ R1 ptr: 9293
+R1 Word:eels
+ R1 ptr: 21385
+R1 Word:effect
+ R1 ptr: 6601
+R1 Word:egg
+ R1 ptr: 10354
+R1 Word:eggs
+ R1 ptr: 10162
+R1 Word:either
+ R1 ptr: 234
+R1 Word:elbow
+ R1 ptr: 6607
+R1 Word:elbows
+ R1 ptr: 13395
+R1 Word:elegant
+ R1 ptr: 5203
+R1 Word:eleventh
+ R1 ptr: 20346
+R1 Word:else
+ R1 ptr: 784
+R1 Word:elsie
+ R1 ptr: 14767
+R1 Word:em
+ R1 ptr: 7380
+R1 Word:emphasis
+ R1 ptr: 24467
+R1 Word:empty
+ R1 ptr: 444
+R1 Word:encourage
+ R1 ptr: 23315
+R1 Word:encouraged
+ R1 ptr: 20112
+R1 Word:encouraging
+ R1 ptr: 8629
+R1 Word:end
+ R1 ptr: 532
+R1 Word:ending
+ R1 ptr: 13197
+R1 Word:energetic
+ R1 ptr: 4742
+R1 Word:engaged
+ R1 ptr: 17709
+R1 Word:england
+ R1 ptr: 20996
+R1 Word:english
+ R1 ptr: 2187
+R1 Word:engraved
+ R1 ptr: 6229
+R1 Word:enjoy
+ R1 ptr: 12049
+R1 Word:enormous
+ R1 ptr: 8069
+R1 Word:enough
+ R1 ptr: 1971
+R1 Word:entangled
+ R1 ptr: 10521
+R1 Word:entirely
+ R1 ptr: 18092
+R1 Word:entrance
+ R1 ptr: 15643
+R1 Word:escape
+ R1 ptr: 3245
+R1 Word:esq
+ R1 ptr: 2344
+R1 Word:est
+ R1 ptr: 3735
+R1 Word:even
+ R1 ptr: 507
+R1 Word:evening
+ R1 ptr: 22270
+R1 Word:ever
+ R1 ptr: 945
+R1 Word:every
+ R1 ptr: 1117
+R1 Word:everybody
+ R1 ptr: 5038
+R1 Word:everything
+ R1 ptr: 2662
+R1 Word:evidence
+ R1 ptr: 23294
+R1 Word:evidently
+ R1 ptr: 16615
+R1 Word:exact
+ R1 ptr: 4896
+R1 Word:exactly
+ R1 ptr: 5130
+R1 Word:examining
+ R1 ptr: 16506
+R1 Word:excellent
+ R1 ptr: 8016
+R1 Word:except
+ R1 ptr: 1152
+R1 Word:exclaimed
+ R1 ptr: 14536
+R1 Word:exclamation
+ R1 ptr: 19674
+R1 Word:execute
+ R1 ptr: 16525
+R1 Word:executed
+ R1 ptr: 6017
+R1 Word:executes
+ R1 ptr: 19443
+R1 Word:execution
+ R1 ptr: 16710
+R1 Word:executioner
+ R1 ptr: 17613
+R1 Word:executions
+ R1 ptr: 19283
+R1 Word:existence
+ R1 ptr: 3264
+R1 Word:expected
+ R1 ptr: 6501
+R1 Word:expecting
+ R1 ptr: 2125
+R1 Word:experiment
+ R1 ptr: 18568
+R1 Word:explain
+ R1 ptr: 4856
+R1 Word:explained
+ R1 ptr: 21941
+R1 Word:explanation
+ R1 ptr: 12742
+R1 Word:explanations
+ R1 ptr: 21568
+R1 Word:expressing
+ R1 ptr: 12305
+R1 Word:expression
+ R1 ptr: 16936
+R1 Word:extraordinary
+ R1 ptr: 11053
+R1 Word:extras
+ R1 ptr: 19925
+R1 Word:extremely
+ R1 ptr: 12353
+R1 Word:eye
+ R1 ptr: 1982
+R1 Word:eyelids
+ R1 ptr: 21820
+R1 Word:eyes
+ R1 ptr: 126
+R1 Word:face
+ R1 ptr: 1663
+R1 Word:faces
+ R1 ptr: 15948
+R1 Word:fact
+ R1 ptr: 1612
+R1 Word:fading
+ R1 ptr: 18072
+R1 Word:failure
+ R1 ptr: 7022
+R1 Word:faint
+ R1 ptr: 8355
+R1 Word:fainting
+ R1 ptr: 20176
+R1 Word:faintly
+ R1 ptr: 22403
+R1 Word:fair
+ R1 ptr: 18979
+R1 Word:fairly
+ R1 ptr: 17313
+R1 Word:fairy
+ R1 ptr: 6765
+R1 Word:fall
+ R1 ptr: 481
+R1 Word:fallen
+ R1 ptr: 539
+R1 Word:falling
+ R1 ptr: 327
+R1 Word:familiarly
+ R1 ptr: 4331
+R1 Word:family
+ R1 ptr: 3962
+R1 Word:fan
+ R1 ptr: 2544
+R1 Word:fancied
+ R1 ptr: 6767
+R1 Word:fancy
+ R1 ptr: 1741
+R1 Word:fancying
+ R1 ptr: 6293
+R1 Word:fanned
+ R1 ptr: 8380
+R1 Word:fanning
+ R1 ptr: 2649
+R1 Word:far
+ R1 ptr: 2221
+R1 Word:farm
+ R1 ptr: 26289
+R1 Word:farmer
+ R1 ptr: 4067
+R1 Word:farther
+ R1 ptr: 13245
+R1 Word:fashion
+ R1 ptr: 23478
+R1 Word:fast
+ R1 ptr: 13381
+R1 Word:faster
+ R1 ptr: 11813
+R1 Word:fat
+ R1 ptr: 9148
+R1 Word:father
+ R1 ptr: 9057
+R1 Word:favoured
+ R1 ptr: 4504
+R1 Word:favourite
+ R1 ptr: 18928
+R1 Word:fear
+ R1 ptr: 454
+R1 Word:feared
+ R1 ptr: 9111
+R1 Word:feather
+ R1 ptr: 18603
+R1 Word:feathers
+ R1 ptr: 4282
+R1 Word:feeble
+ R1 ptr: 7616
+R1 Word:feebly
+ R1 ptr: 8081
+R1 Word:feel
+ R1 ptr: 95
+R1 Word:feeling
+ R1 ptr: 1638
+R1 Word:feelings
+ R1 ptr: 3781
+R1 Word:feet
+ R1 ptr: 218
+R1 Word:fell
+ R1 ptr: 341
+R1 Word:fellow
+ R1 ptr: 7602
+R1 Word:fellows
+ R1 ptr: 14715
+R1 Word:felt
+ R1 ptr: 910
+R1 Word:fender
+ R1 ptr: 2348
+R1 Word:ferrets
+ R1 ptr: 6021
+R1 Word:fetch
+ R1 ptr: 4038
+R1 Word:few
+ R1 ptr: 1372
+R1 Word:fidgeted
+ R1 ptr: 23291
+R1 Word:field
+ R1 ptr: 253
+R1 Word:fifteen
+ R1 ptr: 1224
+R1 Word:fifteenth
+ R1 ptr: 23180
+R1 Word:fifth
+ R1 ptr: 5522
+R1 Word:fig
+ R1 ptr: 13152
+R1 Word:fight
+ R1 ptr: 17712
+R1 Word:fighting
+ R1 ptr: 17047
+R1 Word:figure
+ R1 ptr: 20686
+R1 Word:figures
+ R1 ptr: 11932
+R1 Word:filled
+ R1 ptr: 403
+R1 Word:fills
+ R1 ptr: 7193
+R1 Word:find
+ R1 ptr: 1401
+R1 Word:finding
+ R1 ptr: 1605
+R1 Word:finds
+ R1 ptr: 6183
+R1 Word:fine
+ R1 ptr: 16643
+R1 Word:finger
+ R1 ptr: 1556
+R1 Word:finish
+ R1 ptr: 5605
+R1 Word:finished
+ R1 ptr: 1632
+R1 Word:finishing
+ R1 ptr: 17445
+R1 Word:fire
+ R1 ptr: 3876
+R1 Word:fireplace
+ R1 ptr: 7490
+R1 Word:first
+ R1 ptr: 367
+R1 Word:fish
+ R1 ptr: 10805
+R1 Word:fishes
+ R1 ptr: 2973
+R1 Word:fit
+ R1 ptr: 25303
+R1 Word:fits
+ R1 ptr: 25615
+R1 Word:fitted
+ R1 ptr: 1242
+R1 Word:five
+ R1 ptr: 2832
+R1 Word:fix
+ R1 ptr: 11678
+R1 Word:fixed
+ R1 ptr: 4452
+R1 Word:flame
+ R1 ptr: 1744
+R1 Word:flamingo
+ R1 ptr: 16878
+R1 Word:flamingoes
+ R1 ptr: 16846
+R1 Word:flapper
+ R1 ptr: 20408
+R1 Word:flappers
+ R1 ptr: 20149
+R1 Word:flashed
+ R1 ptr: 221
+R1 Word:flat
+ R1 ptr: 15945
+R1 Word:flavour
+ R1 ptr: 1617
+R1 Word:flew
+ R1 ptr: 11783
+R1 Word:flinging
+ R1 ptr: 12074
+R1 Word:flock
+ R1 ptr: 18604
+R1 Word:floor
+ R1 ptr: 6586
+R1 Word:flower
+ R1 ptr: 15627
+R1 Word:flowers
+ R1 ptr: 1295
+R1 Word:flown
+ R1 ptr: 10036
+R1 Word:flung
+ R1 ptr: 15791
+R1 Word:flurry
+ R1 ptr: 24312
+R1 Word:flustered
+ R1 ptr: 7637
+R1 Word:fluttered
+ R1 ptr: 25861
+R1 Word:fly
+ R1 ptr: 14468
+R1 Word:flying
+ R1 ptr: 25813
+R1 Word:folded
+ R1 ptr: 8563
+R1 Word:folding
+ R1 ptr: 24118
+R1 Word:follow
+ R1 ptr: 9930
+R1 Word:followed
+ R1 ptr: 1901
+R1 Word:follows
+ R1 ptr: 21841
+R1 Word:fond
+ R1 ptr: 1947
+R1 Word:foolish
+ R1 ptr: 6864
+R1 Word:foot
+ R1 ptr: 2343
+R1 Word:footman
+ R1 ptr: 10773
+R1 Word:footmen
+ R1 ptr: 10834
+R1 Word:footsteps
+ R1 ptr: 5937
+R1 Word:for
+ R1 ptr: 89
+R1 Word:forehead
+ R1 ptr: 5013
+R1 Word:forepaws
+ R1 ptr: 20807
+R1 Word:forget
+ R1 ptr: 18311
+R1 Word:forgetting
+ R1 ptr: 6968
+R1 Word:forgot
+ R1 ptr: 2182
+R1 Word:forgotten
+ R1 ptr: 1569
+R1 Word:fork
+ R1 ptr: 22110
+R1 Word:form
+ R1 ptr: 20544
+R1 Word:fortunately
+ R1 ptr: 257
+R1 Word:forty
+ R1 ptr: 24782
+R1 Word:forwards
+ R1 ptr: 8281
+R1 Word:found
+ R1 ptr: 325
+R1 Word:fountains
+ R1 ptr: 1299
+R1 Word:four
+ R1 ptr: 563
+R1 Word:fourteenth
+ R1 ptr: 23171
+R1 Word:fourth
+ R1 ptr: 13878
+R1 Word:france
+ R1 ptr: 21001
+R1 Word:free
+ R1 ptr: 9828
+R1 Word:french
+ R1 ptr: 3703
+R1 Word:friend
+ R1 ptr: 17477
+R1 Word:friends
+ R1 ptr: 1531
+R1 Word:fright
+ R1 ptr: 3764
+R1 Word:frighten
+ R1 ptr: 10714
+R1 Word:frightened
+ R1 ptr: 3251
+R1 Word:frog
+ R1 ptr: 4634
+R1 Word:from
+ R1 ptr: 424
+R1 Word:front
+ R1 ptr: 13359
+R1 Word:frontispiece
+ R1 ptr: 22635
+R1 Word:frowning
+ R1 ptr: 4552
+R1 Word:frying
+ R1 ptr: 12105
+R1 Word:fulcrum
+ R1 ptr: 12
+R1 Word:full
+ R1 ptr: 6671
+R1 Word:fumbled
+ R1 ptr: 24254
+R1 Word:fun
+ R1 ptr: 13624
+R1 Word:funny
+ R1 ptr: 668
+R1 Word:fur
+ R1 ptr: 4287
+R1 Word:furious
+ R1 ptr: 17062
+R1 Word:furiously
+ R1 ptr: 25629
+R1 Word:furrow
+ R1 ptr: 16988
+R1 Word:furrows
+ R1 ptr: 16837
+R1 Word:further
+ R1 ptr: 1703
+R1 Word:fury
+ R1 ptr: 5414
+R1 Word:gained
+ R1 ptr: 21624
+R1 Word:gallons
+ R1 ptr: 2477
+R1 Word:game
+ R1 ptr: 1933
+R1 Word:games
+ R1 ptr: 20390
+R1 Word:garden
+ R1 ptr: 1273
+R1 Word:gardeners
+ R1 ptr: 15658
+R1 Word:gather
+ R1 ptr: 26351
+R1 Word:gave
+ R1 ptr: 1892
+R1 Word:gay
+ R1 ptr: 21850
+R1 Word:gazing
+ R1 ptr: 24612
+R1 Word:general
+ R1 ptr: 3394
+R1 Word:generally
+ R1 ptr: 1891
+R1 Word:gently
+ R1 ptr: 2976
+R1 Word:geography
+ R1 ptr: 2864
+R1 Word:get
+ R1 ptr: 23
+R1 Word:getting
+ R1 ptr: 113
+R1 Word:giddy
+ R1 ptr: 13176
+R1 Word:girl
+ R1 ptr: 758
+R1 Word:girls
+ R1 ptr: 10318
+R1 Word:give
+ R1 ptr: 2294
+R1 Word:given
+ R1 ptr: 14419
+R1 Word:giving
+ R1 ptr: 7930
+R1 Word:glad
+ R1 ptr: 690
+R1 Word:glanced
+ R1 ptr: 11878
+R1 Word:glaring
+ R1 ptr: 16347
+R1 Word:glass
+ R1 ptr: 1146
+R1 Word:globe
+ R1 ptr: 24370
+R1 Word:gloomily
+ R1 ptr: 13943
+R1 Word:gloves
+ R1 ptr: 2537
+R1 Word:go
+ R1 ptr: 1317
+R1 Word:goes
+ R1 ptr: 2766
+R1 Word:going
+ R1 ptr: 363
+R1 Word:golden
+ R1 ptr: 1155
+R1 Word:goldfish
+ R1 ptr: 24372
+R1 Word:gone
+ R1 ptr: 6737
+R1 Word:good
+ R1 ptr: 593
+R1 Word:goose
+ R1 ptr: 7184
+R1 Word:got
+ R1 ptr: 632
+R1 Word:graceful
+ R1 ptr: 9992
+R1 Word:grammar
+ R1 ptr: 3660
+R1 Word:grand
+ R1 ptr: 649
+R1 Word:grant
+ R1 ptr: 12889
+R1 Word:grass
+ R1 ptr: 8461
+R1 Word:grave
+ R1 ptr: 5228
+R1 Word:gravely
+ R1 ptr: 5153
+R1 Word:gravy
+ R1 ptr: 22071
+R1 Word:grazed
+ R1 ptr: 11220
+R1 Word:great
+ R1 ptr: 440
+R1 Word:green
+ R1 ptr: 9882
+R1 Word:grew
+ R1 ptr: 6675
+R1 Word:grey
+ R1 ptr: 9175
+R1 Word:grief
+ R1 ptr: 20240
+R1 Word:grin
+ R1 ptr: 2964
+R1 Word:grinned
+ R1 ptr: 11596
+R1 Word:grinning
+ R1 ptr: 11503
+R1 Word:grins
+ R1 ptr: 11537
+R1 Word:ground
+ R1 ptr: 10986
+R1 Word:grow
+ R1 ptr: 2028
+R1 Word:growing
+ R1 ptr: 2091
+R1 Word:growl
+ R1 ptr: 11805
+R1 Word:growled
+ R1 ptr: 5598
+R1 Word:growling
+ R1 ptr: 12938
+R1 Word:growls
+ R1 ptr: 12906
+R1 Word:grown
+ R1 ptr: 6805
+R1 Word:grumbled
+ R1 ptr: 13923
+R1 Word:grunt
+ R1 ptr: 12294
+R1 Word:grunted
+ R1 ptr: 12282
+R1 Word:gryphon
+ R1 ptr: 19294
+R1 Word:guard
+ R1 ptr: 22478
+R1 Word:guess
+ R1 ptr: 3199
+R1 Word:guessed
+ R1 ptr: 6033
+R1 Word:guests
+ R1 ptr: 16043
+R1 Word:guilt
+ R1 ptr: 25123
+R1 Word:guinea
+ R1 ptr: 7927
+R1 Word:had
+ R1 ptr: 44
+R1 Word:hadn
+ R1 ptr: 3462
+R1 Word:hair
+ R1 ptr: 2765
+R1 Word:half
+ R1 ptr: 1397
+R1 Word:hall
+ R1 ptr: 1075
+R1 Word:hand
+ R1 ptr: 926
+R1 Word:handed
+ R1 ptr: 5123
+R1 Word:hands
+ R1 ptr: 2904
+R1 Word:handsome
+ R1 ptr: 12555
+R1 Word:handwriting
+ R1 ptr: 25003
+R1 Word:hanging
+ R1 ptr: 1085
+R1 Word:happen
+ R1 ptr: 365
+R1 Word:happened
+ R1 ptr: 1362
+R1 Word:happening
+ R1 ptr: 12995
+R1 Word:happens
+ R1 ptr: 2061
+R1 Word:happy
+ R1 ptr: 26404
+R1 Word:hard
+ R1 ptr: 2628
+R1 Word:hardly
+ R1 ptr: 1970
+R1 Word:hare
+ R1 ptr: 12803
+R1 Word:harm
+ R1 ptr: 3603
+R1 Word:has
+ R1 ptr: 4985
+R1 Word:hasn
+ R1 ptr: 18336
+R1 Word:haste
+ R1 ptr: 24486
+R1 Word:hastily
+ R1 ptr: 2514
+R1 Word:hat
+ R1 ptr: 23226
+R1 Word:hatching
+ R1 ptr: 10160
+R1 Word:hate
+ R1 ptr: 4204
+R1 Word:hated
+ R1 ptr: 3964
+R1 Word:hatter
+ R1 ptr: 12791
+R1 Word:hatters
+ R1 ptr: 13092
+R1 Word:have
+ R1 ptr: 180
+R1 Word:haven
+ R1 ptr: 8744
+R1 Word:having
+ R1 ptr: 36
+R1 Word:he
+ R1 ptr: 2548
+R1 Word:head
+ R1 ptr: 1307
+R1 Word:heads
+ R1 ptr: 681
+R1 Word:heap
+ R1 ptr: 958
+R1 Word:hear
+ R1 ptr: 152
+R1 Word:heard
+ R1 ptr: 2503
+R1 Word:hearing
+ R1 ptr: 7334
+R1 Word:heart
+ R1 ptr: 19510
+R1 Word:hearth
+ R1 ptr: 11501
+R1 Word:hearthrug
+ R1 ptr: 2345
+R1 Word:hearts
+ R1 ptr: 14424
+R1 Word:heavy
+ R1 ptr: 19683
+R1 Word:hedge
+ R1 ptr: 272
+R1 Word:hedgehog
+ R1 ptr: 16915
+R1 Word:hedgehogs
+ R1 ptr: 16842
+R1 Word:hedges
+ R1 ptr: 10116
+R1 Word:heels
+ R1 ptr: 8225
+R1 Word:height
+ R1 ptr: 8492
+R1 Word:held
+ R1 ptr: 7923
+R1 Word:help
+ R1 ptr: 2587
+R1 Word:helped
+ R1 ptr: 14942
+R1 Word:helpless
+ R1 ptr: 17756
+R1 Word:her
+ R1 ptr: 29
+R1 Word:herald
+ R1 ptr: 22994
+R1 Word:here
+ R1 ptr: 408
+R1 Word:hers
+ R1 ptr: 18938
+R1 Word:herself
+ R1 ptr: 322
+R1 Word:hid
+ R1 ptr: 20261
+R1 Word:hide
+ R1 ptr: 4776
+R1 Word:high
+ R1 ptr: 1226
+R1 Word:highest
+ R1 ptr: 10210
+R1 Word:him
+ R1 ptr: 4585
+R1 Word:himself
+ R1 ptr: 2558
+R1 Word:hint
+ R1 ptr: 11892
+R1 Word:hippopotamus
+ R1 ptr: 3542
+R1 Word:his
+ R1 ptr: 2945
+R1 Word:hiss
+ R1 ptr: 10024
+R1 Word:histories
+ R1 ptr: 1504
+R1 Word:history
+ R1 ptr: 3717
+R1 Word:hit
+ R1 ptr: 7776
+R1 Word:hjckrrh
+ R1 ptr: 19676
+R1 Word:hm
+ R1 ptr: 22219
+R1 Word:hoarse
+ R1 ptr: 2923
+R1 Word:hoarsely
+ R1 ptr: 8291
+R1 Word:hold
+ R1 ptr: 1546
+R1 Word:holding
+ R1 ptr: 2076
+R1 Word:holiday
+ R1 ptr: 20352
+R1 Word:hollow
+ R1 ptr: 19599
+R1 Word:home
+ R1 ptr: 499
+R1 Word:honest
+ R1 ptr: 25096
+R1 Word:honour
+ R1 ptr: 7140
+R1 Word:hookah
+ R1 ptr: 8568
+R1 Word:hope
+ R1 ptr: 807
+R1 Word:hoped
+ R1 ptr: 6376
+R1 Word:hopeful
+ R1 ptr: 18203
+R1 Word:hopeless
+ R1 ptr: 2426
+R1 Word:hoping
+ R1 ptr: 1398
+R1 Word:hot
+ R1 ptr: 91
+R1 Word:hour
+ R1 ptr: 4957
+R1 Word:hours
+ R1 ptr: 11860
+R1 Word:house
+ R1 ptr: 516
+R1 Word:housemaid
+ R1 ptr: 6169
+R1 Word:houses
+ R1 ptr: 3429
+R1 Word:how
+ R1 ptr: 284
+R1 Word:however
+ R1 ptr: 1199
+R1 Word:howled
+ R1 ptr: 12024
+R1 Word:howling
+ R1 ptr: 11059
+R1 Word:humble
+ R1 ptr: 16484
+R1 Word:humbly
+ R1 ptr: 5516
+R1 Word:hundred
+ R1 ptr: 4079
+R1 Word:hung
+ R1 ptr: 416
+R1 Word:hungry
+ R1 ptr: 8122
+R1 Word:hunting
+ R1 ptr: 6056
+R1 Word:hurried
+ R1 ptr: 212
+R1 Word:hurriedly
+ R1 ptr: 4654
+R1 Word:hurry
+ R1 ptr: 1482
+R1 Word:hurrying
+ R1 ptr: 1009
+R1 Word:hurt
+ R1 ptr: 974
+R1 Word:hush
+ R1 ptr: 16672
+R1 Word:i
+ R1 ptr: 15
+R1 Word:idea
+ R1 ptr: 637
+R1 Word:idiot
+ R1 ptr: 16211
+R1 Word:idiotic
+ R1 ptr: 11370
+R1 Word:if
+ R1 ptr: 508
+R1 Word:ignorant
+ R1 ptr: 756
+R1 Word:ii
+ R1 ptr: 2161
+R1 Word:iii
+ R1 ptr: 4261
+R1 Word:ill
+ R1 ptr: 14825
+R1 Word:imagine
+ R1 ptr: 18726
+R1 Word:imitated
+ R1 ptr: 25031
+R1 Word:immediate
+ R1 ptr: 4738
+R1 Word:immediately
+ R1 ptr: 8547
+R1 Word:immense
+ R1 ptr: 9866
+R1 Word:impatient
+ R1 ptr: 21566
+R1 Word:impatiently
+ R1 ptr: 5629
+R1 Word:impertinent
+ R1 ptr: 17518
+R1 Word:important
+ R1 ptr: 4479
+R1 Word:impossible
+ R1 ptr: 1377
+R1 Word:improve
+ R1 ptr: 2944
+R1 Word:in
+ R1 ptr: 2
+R1 Word:incessantly
+ R1 ptr: 9087
+R1 Word:inches
+ R1 ptr: 1225
+R1 Word:inclined
+ R1 ptr: 4844
+R1 Word:indeed
+ R1 ptr: 1374
+R1 Word:indignant
+ R1 ptr: 22798
+R1 Word:indignantly
+ R1 ptr: 10058
+R1 Word:injure
+ R1 ptr: 9114
+R1 Word:ink
+ R1 ptr: 25668
+R1 Word:inkstand
+ R1 ptr: 25632
+R1 Word:inquired
+ R1 ptr: 20022
+R1 Word:inquisitively
+ R1 ptr: 3675
+R1 Word:inside
+ R1 ptr: 11040
+R1 Word:insolence
+ R1 ptr: 4681
+R1 Word:instance
+ R1 ptr: 11115
+R1 Word:instantly
+ R1 ptr: 7698
+R1 Word:instead
+ R1 ptr: 13343
+R1 Word:insult
+ R1 ptr: 5575
+R1 Word:interest
+ R1 ptr: 14792
+R1 Word:interesting
+ R1 ptr: 6447
+R1 Word:interrupt
+ R1 ptr: 15034
+R1 Word:interrupted
+ R1 ptr: 14646
+R1 Word:interrupting
+ R1 ptr: 15259
+R1 Word:into
+ R1 ptr: 46
+R1 Word:introduce
+ R1 ptr: 11667
+R1 Word:introduced
+ R1 ptr: 20494
+R1 Word:invent
+ R1 ptr: 10275
+R1 Word:invented
+ R1 ptr: 24833
+R1 Word:invitation
+ R1 ptr: 10902
+R1 Word:invited
+ R1 ptr: 12969
+R1 Word:involved
+ R1 ptr: 25276
+R1 Word:inwards
+ R1 ptr: 7009
+R1 Word:irritated
+ R1 ptr: 8831
+R1 Word:is
+ R1 ptr: 64
+R1 Word:isn
+ R1 ptr: 8737
+R1 Word:it
+ R1 ptr: 54
+R1 Word:its
+ R1 ptr: 203
+R1 Word:itself
+ R1 ptr: 157
+R1 Word:iv
+ R1 ptr: 5964
+R1 Word:ix
+ R1 ptr: 18120
+R1 Word:jack
+ R1 ptr: 7650
+R1 Word:jar
+ R1 ptr: 423
+R1 Word:jaw
+ R1 ptr: 9263
+R1 Word:jaws
+ R1 ptr: 2978
+R1 Word:jelly
+ R1 ptr: 20569
+R1 Word:jogged
+ R1 ptr: 15716
+R1 Word:join
+ R1 ptr: 20865
+R1 Word:joined
+ R1 ptr: 5616
+R1 Word:journey
+ R1 ptr: 21483
+R1 Word:joys
+ R1 ptr: 26397
+R1 Word:judge
+ R1 ptr: 5468
+R1 Word:judging
+ R1 ptr: 10794
+R1 Word:jumped
+ R1 ptr: 977
+R1 Word:jumping
+ R1 ptr: 11763
+R1 Word:juror
+ R1 ptr: 22941
+R1 Word:jurors
+ R1 ptr: 22691
+R1 Word:jury
+ R1 ptr: 5466
+R1 Word:jurymen
+ R1 ptr: 24349
+R1 Word:just
+ R1 ptr: 259
+R1 Word:justice
+ R1 ptr: 22577
+R1 Word:keep
+ R1 ptr: 8198
+R1 Word:keeping
+ R1 ptr: 18375
+R1 Word:kept
+ R1 ptr: 2574
+R1 Word:kettle
+ R1 ptr: 11075
+R1 Word:key
+ R1 ptr: 1156
+R1 Word:kick
+ R1 ptr: 7501
+R1 Word:kid
+ R1 ptr: 2536
+R1 Word:kill
+ R1 ptr: 12256
+R1 Word:killing
+ R1 ptr: 456
+R1 Word:kills
+ R1 ptr: 4084
+R1 Word:kind
+ R1 ptr: 2274
+R1 Word:kindly
+ R1 ptr: 20937
+R1 Word:king
+ R1 ptr: 16084
+R1 Word:kings
+ R1 ptr: 16045
+R1 Word:kiss
+ R1 ptr: 17504
+R1 Word:kissed
+ R1 ptr: 25924
+R1 Word:kitchen
+ R1 ptr: 11386
+R1 Word:knave
+ R1 ptr: 16079
+R1 Word:knee
+ R1 ptr: 16490
+R1 Word:kneel
+ R1 ptr: 6582
+R1 Word:knelt
+ R1 ptr: 1263
+R1 Word:knew
+ R1 ptr: 2735
+R1 Word:knife
+ R1 ptr: 1561
+R1 Word:knock
+ R1 ptr: 11122
+R1 Word:knocked
+ R1 ptr: 11004
+R1 Word:knocking
+ R1 ptr: 6236
+R1 Word:knot
+ R1 ptr: 5537
+R1 Word:know
+ R1 ptr: 722
+R1 Word:knowing
+ R1 ptr: 4378
+R1 Word:knowledge
+ R1 ptr: 599
+R1 Word:known
+ R1 ptr: 4338
+R1 Word:knows
+ R1 ptr: 2797
+R1 Word:knuckles
+ R1 ptr: 10813
+R1 Word:label
+ R1 ptr: 1447
+R1 Word:labelled
+ R1 ptr: 434
+R1 Word:lacie
+ R1 ptr: 14768
+R1 Word:lad
+ R1 ptr: 7378
+R1 Word:ladder
+ R1 ptr: 7364
+R1 Word:lady
+ R1 ptr: 14657
+R1 Word:laid
+ R1 ptr: 13548
+R1 Word:lamps
+ R1 ptr: 1084
+R1 Word:land
+ R1 ptr: 20679
+R1 Word:languid
+ R1 ptr: 8616
+R1 Word:lap
+ R1 ptr: 2907
+R1 Word:large
+ R1 ptr: 268
+R1 Word:larger
+ R1 ptr: 1258
+R1 Word:largest
+ R1 ptr: 2194
+R1 Word:lark
+ R1 ptr: 21853
+R1 Word:last
+ R1 ptr: 4355
+R1 Word:lasted
+ R1 ptr: 9265
+R1 Word:lastly
+ R1 ptr: 26308
+R1 Word:late
+ R1 ptr: 165
+R1 Word:lately
+ R1 ptr: 1363
+R1 Word:later
+ R1 ptr: 1590
+R1 Word:latin
+ R1 ptr: 3659
+R1 Word:latitude
+ R1 ptr: 628
+R1 Word:laugh
+ R1 ptr: 5235
+R1 Word:laughed
+ R1 ptr: 10949
+R1 Word:laughing
+ R1 ptr: 16944
+R1 Word:laughter
+ R1 ptr: 16755
+R1 Word:law
+ R1 ptr: 5430
+R1 Word:lay
+ R1 ptr: 7821
+R1 Word:lazily
+ R1 ptr: 3863
+R1 Word:lazy
+ R1 ptr: 19314
+R1 Word:leaders
+ R1 ptr: 4517
+R1 Word:leading
+ R1 ptr: 15511
+R1 Word:leaning
+ R1 ptr: 11415
+R1 Word:leant
+ R1 ptr: 8372
+R1 Word:leap
+ R1 ptr: 3752
+R1 Word:learn
+ R1 ptr: 3036
+R1 Word:learned
+ R1 ptr: 19937
+R1 Word:learning
+ R1 ptr: 15062
+R1 Word:learnt
+ R1 ptr: 574
+R1 Word:least
+ R1 ptr: 6815
+R1 Word:leave
+ R1 ptr: 1886
+R1 Word:leaves
+ R1 ptr: 963
+R1 Word:leaving
+ R1 ptr: 19350
+R1 Word:led
+ R1 ptr: 1251
+R1 Word:ledge
+ R1 ptr: 19494
+R1 Word:left
+ R1 ptr: 1974
+R1 Word:lefthand
+ R1 ptr: 9823
+R1 Word:legs
+ R1 ptr: 1842
+R1 Word:length
+ R1 ptr: 9867
+R1 Word:less
+ R1 ptr: 12494
+R1 Word:lessen
+ R1 ptr: 20318
+R1 Word:lesson
+ R1 ptr: 3746
+R1 Word:lessons
+ R1 ptr: 582
+R1 Word:lest
+ R1 ptr: 6243
+R1 Word:let
+ R1 ptr: 557
+R1 Word:letter
+ R1 ptr: 10879
+R1 Word:letters
+ R1 ptr: 1459
+R1 Word:lewis
+ R1 ptr: 8
+R1 Word:licking
+ R1 ptr: 3877
+R1 Word:lie
+ R1 ptr: 16114
+R1 Word:life
+ R1 ptr: 2140
+R1 Word:lifted
+ R1 ptr: 20062
+R1 Word:like
+ R1 ptr: 299
+R1 Word:liked
+ R1 ptr: 4929
+R1 Word:likely
+ R1 ptr: 520
+R1 Word:likes
+ R1 ptr: 17509
+R1 Word:limbs
+ R1 ptr: 9181
+R1 Word:line
+ R1 ptr: 11964
+R1 Word:lines
+ R1 ptr: 20552
+R1 Word:linked
+ R1 ptr: 18936
+R1 Word:lips
+ R1 ptr: 6443
+R1 Word:list
+ R1 ptr: 23529
+R1 Word:listen
+ R1 ptr: 606
+R1 Word:listened
+ R1 ptr: 26071
+R1 Word:listeners
+ R1 ptr: 21631
+R1 Word:listening
+ R1 ptr: 695
+R1 Word:lit
+ R1 ptr: 1078
+R1 Word:little
+ R1 ptr: 757
+R1 Word:live
+ R1 ptr: 3014
+R1 Word:lived
+ R1 ptr: 14773
+R1 Word:livery
+ R1 ptr: 10775
+R1 Word:lives
+ R1 ptr: 10698
+R1 Word:living
+ R1 ptr: 14846
+R1 Word:lizard
+ R1 ptr: 7916
+R1 Word:lobster
+ R1 ptr: 20395
+R1 Word:lobsters
+ R1 ptr: 20607
+R1 Word:lock
+ R1 ptr: 1235
+R1 Word:locked
+ R1 ptr: 1100
+R1 Word:locks
+ R1 ptr: 1178
+R1 Word:lodging
+ R1 ptr: 3428
+R1 Word:london
+ R1 ptr: 2865
+R1 Word:lonely
+ R1 ptr: 5922
+R1 Word:long
+ R1 ptr: 999
+R1 Word:longed
+ R1 ptr: 1279
+R1 Word:longer
+ R1 ptr: 1064
+R1 Word:longitude
+ R1 ptr: 630
+R1 Word:look
+ R1 ptr: 355
+R1 Word:looked
+ R1 ptr: 207
+R1 Word:looking
+ R1 ptr: 5253
+R1 Word:loose
+ R1 ptr: 7413
+R1 Word:lory
+ R1 ptr: 4239
+R1 Word:lose
+ R1 ptr: 5677
+R1 Word:losing
+ R1 ptr: 9443
+R1 Word:lost
+ R1 ptr: 1019
+R1 Word:loud
+ R1 ptr: 7421
+R1 Word:louder
+ R1 ptr: 11262
+R1 Word:loudly
+ R1 ptr: 10807
+R1 Word:love
+ R1 ptr: 2351
+R1 Word:loveliest
+ R1 ptr: 1272
+R1 Word:lovely
+ R1 ptr: 1684
+R1 Word:loving
+ R1 ptr: 26342
+R1 Word:low
+ R1 ptr: 1074
+R1 Word:lower
+ R1 ptr: 23913
+R1 Word:lowing
+ R1 ptr: 26291
+R1 Word:luckily
+ R1 ptr: 5113
+R1 Word:lullaby
+ R1 ptr: 11946
+R1 Word:lying
+ R1 ptr: 1991
+R1 Word:m
+ R1 ptr: 15292
+R1 Word:ma
+ R1 ptr: 724
+R1 Word:mabel
+ R1 ptr: 2785
+R1 Word:machines
+ R1 ptr: 3411
+R1 Word:mad
+ R1 ptr: 12810
+R1 Word:made
+ R1 ptr: 93
+R1 Word:magic
+ R1 ptr: 6665
+R1 Word:magpie
+ R1 ptr: 5808
+R1 Word:majesty
+ R1 ptr: 16237
+R1 Word:make
+ R1 ptr: 374
+R1 Word:makes
+ R1 ptr: 2026
+R1 Word:making
+ R1 ptr: 104
+R1 Word:mallets
+ R1 ptr: 16844
+R1 Word:man
+ R1 ptr: 9075
+R1 Word:manage
+ R1 ptr: 751
+R1 Word:managed
+ R1 ptr: 459
+R1 Word:managing
+ R1 ptr: 16876
+R1 Word:manner
+ R1 ptr: 15285
+R1 Word:manners
+ R1 ptr: 11528
+R1 Word:many
+ R1 ptr: 536
+R1 Word:maps
+ R1 ptr: 413
+R1 Word:march
+ R1 ptr: 12802
+R1 Word:marched
+ R1 ptr: 16568
+R1 Word:mark
+ R1 ptr: 20809
+R1 Word:marked
+ R1 ptr: 1493
+R1 Word:marmalade
+ R1 ptr: 436
+R1 Word:mary
+ R1 ptr: 6113
+R1 Word:master
+ R1 ptr: 7448
+R1 Word:matter
+ R1 ptr: 903
+R1 Word:matters
+ R1 ptr: 10455
+R1 Word:may
+ R1 ptr: 8792
+R1 Word:maybe
+ R1 ptr: 11237
+R1 Word:mayn
+ R1 ptr: 19863
+R1 Word:me
+ R1 ptr: 497
+R1 Word:meal
+ R1 ptr: 26130
+R1 Word:mean
+ R1 ptr: 5583
+R1 Word:meaning
+ R1 ptr: 4753
+R1 Word:means
+ R1 ptr: 4615
+R1 Word:meant
+ R1 ptr: 11888
+R1 Word:meanwhile
+ R1 ptr: 16504
+R1 Word:measure
+ R1 ptr: 3187
+R1 Word:meat
+ R1 ptr: 22073
+R1 Word:meekly
+ R1 ptr: 13909
+R1 Word:meet
+ R1 ptr: 4666
+R1 Word:meeting
+ R1 ptr: 4734
+R1 Word:melancholy
+ R1 ptr: 4709
+R1 Word:memorandum
+ R1 ptr: 23251
+R1 Word:memory
+ R1 ptr: 15354
+R1 Word:mentioned
+ R1 ptr: 5869
+R1 Word:mercia
+ R1 ptr: 4535
+R1 Word:merely
+ R1 ptr: 9596
+R1 Word:merrily
+ R1 ptr: 16027
+R1 Word:messages
+ R1 ptr: 6277
+R1 Word:met
+ R1 ptr: 5421
+R1 Word:mice
+ R1 ptr: 830
+R1 Word:middle
+ R1 ptr: 1124
+R1 Word:might
+ R1 ptr: 838
+R1 Word:mile
+ R1 ptr: 24788
+R1 Word:miles
+ R1 ptr: 537
+R1 Word:milk
+ R1 ptr: 813
+R1 Word:millennium
+ R1 ptr: 11
+R1 Word:mind
+ R1 ptr: 83
+R1 Word:minded
+ R1 ptr: 11795
+R1 Word:minding
+ R1 ptr: 18475
+R1 Word:mine
+ R1 ptr: 2772
+R1 Word:mineral
+ R1 ptr: 18630
+R1 Word:minute
+ R1 ptr: 1889
+R1 Word:minutes
+ R1 ptr: 1693
+R1 Word:mischief
+ R1 ptr: 25086
+R1 Word:miserable
+ R1 ptr: 23761
+R1 Word:miss
+ R1 ptr: 794
+R1 Word:missed
+ R1 ptr: 12115
+R1 Word:mistake
+ R1 ptr: 6160
+R1 Word:mixed
+ R1 ptr: 1616
+R1 Word:mock
+ R1 ptr: 18122
+R1 Word:moderate
+ R1 ptr: 4678
+R1 Word:modern
+ R1 ptr: 20153
+R1 Word:moment
+ R1 ptr: 275
+R1 Word:month
+ R1 ptr: 13835
+R1 Word:moon
+ R1 ptr: 15352
+R1 Word:moral
+ R1 ptr: 18322
+R1 Word:morals
+ R1 ptr: 18525
+R1 Word:morcar
+ R1 ptr: 4531
+R1 Word:more
+ R1 ptr: 1773
+R1 Word:morning
+ R1 ptr: 2694
+R1 Word:morsel
+ R1 ptr: 9820
+R1 Word:most
+ R1 ptr: 9146
+R1 Word:mostly
+ R1 ptr: 16044
+R1 Word:mournful
+ R1 ptr: 14548
+R1 Word:mournfully
+ R1 ptr: 14389
+R1 Word:mouse
+ R1 ptr: 847
+R1 Word:mouth
+ R1 ptr: 8313
+R1 Word:mouths
+ R1 ptr: 21135
+R1 Word:move
+ R1 ptr: 4731
+R1 Word:moved
+ R1 ptr: 5857
+R1 Word:moving
+ R1 ptr: 7728
+R1 Word:much
+ R1 ptr: 146
+R1 Word:muchness
+ R1 ptr: 15356
+R1 Word:muddle
+ R1 ptr: 22885
+R1 Word:multiplication
+ R1 ptr: 2858
+R1 Word:murder
+ R1 ptr: 12266
+R1 Word:murdering
+ R1 ptr: 14526
+R1 Word:muscular
+ R1 ptr: 9256
+R1 Word:mushroom
+ R1 ptr: 8485
+R1 Word:music
+ R1 ptr: 14256
+R1 Word:must
+ R1 ptr: 547
+R1 Word:mustard
+ R1 ptr: 18592
+R1 Word:muttered
+ R1 ptr: 11297
+R1 Word:muttering
+ R1 ptr: 2556
+R1 Word:my
+ R1 ptr: 817
+R1 Word:myself
+ R1 ptr: 2259
+R1 Word:mystery
+ R1 ptr: 20138
+R1 Word:name
+ R1 ptr: 716
+R1 Word:names
+ R1 ptr: 14765
+R1 Word:narrow
+ R1 ptr: 3244
+R1 Word:nasty
+ R1 ptr: 3966
+R1 Word:natural
+ R1 ptr: 192
+R1 Word:natured
+ R1 ptr: 12624
+R1 Word:near
+ R1 ptr: 551
+R1 Word:nearer
+ R1 ptr: 3525
+R1 Word:nearly
+ R1 ptr: 3195
+R1 Word:neat
+ R1 ptr: 6211
+R1 Word:neatly
+ R1 ptr: 2966
+R1 Word:neck
+ R1 ptr: 1440
+R1 Word:needn
+ R1 ptr: 16257
+R1 Word:needs
+ R1 ptr: 10240
+R1 Word:neighbour
+ R1 ptr: 22879
+R1 Word:neighbouring
+ R1 ptr: 26111
+R1 Word:neither
+ R1 ptr: 12491
+R1 Word:nervous
+ R1 ptr: 1708
+R1 Word:nest
+ R1 ptr: 10504
+R1 Word:never
+ R1 ptr: 228
+R1 Word:nevertheless
+ R1 ptr: 6434
+R1 Word:new
+ R1 ptr: 727
+R1 Word:newspapers
+ R1 ptr: 23864
+R1 Word:next
+ R1 ptr: 366
+R1 Word:nibbled
+ R1 ptr: 9723
+R1 Word:nibbling
+ R1 ptr: 10560
+R1 Word:nice
+ R1 ptr: 648
+R1 Word:nicely
+ R1 ptr: 3873
+R1 Word:night
+ R1 ptr: 2681
+R1 Word:nile
+ R1 ptr: 2954
+R1 Word:nine
+ R1 ptr: 2376
+R1 Word:no
+ R1 ptr: 56
+R1 Word:nobody
+ R1 ptr: 5715
+R1 Word:nodded
+ R1 ptr: 17235
+R1 Word:noise
+ R1 ptr: 5270
+R1 Word:noises
+ R1 ptr: 26277
+R1 Word:none
+ R1 ptr: 9125
+R1 Word:nonsense
+ R1 ptr: 2355
+R1 Word:nor
+ R1 ptr: 139
+R1 Word:normans
+ R1 ptr: 4684
+R1 Word:northumbria
+ R1 ptr: 4537
+R1 Word:nose
+ R1 ptr: 9299
+R1 Word:not
+ R1 ptr: 315
+R1 Word:note
+ R1 ptr: 24771
+R1 Word:nothing
+ R1 ptr: 37
+R1 Word:notice
+ R1 ptr: 4650
+R1 Word:noticed
+ R1 ptr: 399
+R1 Word:noticing
+ R1 ptr: 16074
+R1 Word:notion
+ R1 ptr: 3723
+R1 Word:now
+ R1 ptr: 937
+R1 Word:nowhere
+ R1 ptr: 6063
+R1 Word:number
+ R1 ptr: 3408
+R1 Word:nurse
+ R1 ptr: 3892
+R1 Word:nursing
+ R1 ptr: 11409
+R1 Word:o
+ R1 ptr: 3609
+R1 Word:obliged
+ R1 ptr: 21432
+R1 Word:oblong
+ R1 ptr: 15979
+R1 Word:obstacle
+ R1 ptr: 25305
+R1 Word:occasional
+ R1 ptr: 19673
+R1 Word:occasionally
+ R1 ptr: 11463
+R1 Word:occurred
+ R1 ptr: 173
+R1 Word:odd
+ R1 ptr: 2336
+R1 Word:of
+ R1 ptr: 26
+R1 Word:off
+ R1 ptr: 511
+R1 Word:offend
+ R1 ptr: 15171
+R1 Word:offended
+ R1 ptr: 3925
+R1 Word:offer
+ R1 ptr: 4669
+R1 Word:officer
+ R1 ptr: 24020
+R1 Word:officers
+ R1 ptr: 23522
+R1 Word:often
+ R1 ptr: 9414
+R1 Word:oh
+ R1 ptr: 158
+R1 Word:ointment
+ R1 ptr: 9189
+R1 Word:old
+ R1 ptr: 4380
+R1 Word:older
+ R1 ptr: 4364
+R1 Word:oldest
+ R1 ptr: 24839
+R1 Word:on
+ R1 ptr: 31
+R1 Word:once
+ R1 ptr: 40
+R1 Word:one
+ R1 ptr: 425
+R1 Word:ones
+ R1 ptr: 5287
+R1 Word:oneself
+ R1 ptr: 17330
+R1 Word:onions
+ R1 ptr: 15789
+R1 Word:only
+ R1 ptr: 1349
+R1 Word:open
+ R1 ptr: 1195
+R1 Word:opened
+ R1 ptr: 1244
+R1 Word:opening
+ R1 ptr: 2190
+R1 Word:opinion
+ R1 ptr: 14918
+R1 Word:opportunity
+ R1 ptr: 594
+R1 Word:opposite
+ R1 ptr: 16178
+R1 Word:or
+ R1 ptr: 41
+R1 Word:orange
+ R1 ptr: 435
+R1 Word:order
+ R1 ptr: 10920
+R1 Word:ordered
+ R1 ptr: 6726
+R1 Word:ordering
+ R1 ptr: 6346
+R1 Word:ornamented
+ R1 ptr: 15996
+R1 Word:other
+ R1 ptr: 1115
+R1 Word:others
+ R1 ptr: 5614
+R1 Word:otherwise
+ R1 ptr: 10793
+R1 Word:ou
+ R1 ptr: 3734
+R1 Word:ought
+ R1 ptr: 178
+R1 Word:our
+ R1 ptr: 3830
+R1 Word:ours
+ R1 ptr: 19972
+R1 Word:ourselves
+ R1 ptr: 25311
+R1 Word:out
+ R1 ptr: 147
+R1 Word:outside
+ R1 ptr: 6920
+R1 Word:over
+ R1 ptr: 170
+R1 Word:overcome
+ R1 ptr: 24602
+R1 Word:overhead
+ R1 ptr: 994
+R1 Word:owl
+ R1 ptr: 22053
+R1 Word:own
+ R1 ptr: 82
+R1 Word:oyster
+ R1 ptr: 5699
+R1 Word:pace
+ R1 ptr: 23470
+R1 Word:pack
+ R1 ptr: 16251
+R1 Word:paint
+ R1 ptr: 15700
+R1 Word:painting
+ R1 ptr: 15662
+R1 Word:pair
+ R1 ptr: 2298
+R1 Word:pairs
+ R1 ptr: 6383
+R1 Word:pale
+ R1 ptr: 4171
+R1 Word:panted
+ R1 ptr: 22384
+R1 Word:panther
+ R1 ptr: 22056
+R1 Word:panting
+ R1 ptr: 4980
+R1 Word:paper
+ R1 ptr: 1446
+R1 Word:parchment
+ R1 ptr: 22498
+R1 Word:pardon
+ R1 ptr: 3769
+R1 Word:pardoned
+ R1 ptr: 19263
+R1 Word:paris
+ R1 ptr: 2870
+R1 Word:part
+ R1 ptr: 21640
+R1 Word:particular
+ R1 ptr: 5717
 R1 Word:partner
  R1 ptr: 20591
 R1 Word:partners
  R1 ptr: 20605
-R1 Word:lobsters
- R1 ptr: 20607
-R1 Word:retire
- R1 ptr: 20609
-R1 Word:bound
- R1 ptr: 20634
-R1 Word:somersault
- R1 ptr: 20654
-R1 Word:capering
- R1 ptr: 20662
-R1 Word:yelled
- R1 ptr: 20668
-R1 Word:land
- R1 ptr: 20679
-R1 Word:figure
- R1 ptr: 20686
-R1 Word:dropping
- R1 ptr: 20692
-R1 Word:pretty
- R1 ptr: 20726
-R1 Word:dancing
- R1 ptr: 20786
-R1 Word:treading
- R1 ptr: 20795
-R1 Word:toes
- R1 ptr: 20798
-R1 Word:forepaws
- R1 ptr: 20807
-R1 Word:mark
- R1 ptr: 20809
-R1 Word:whiting
- R1 ptr: 20830
-R1 Word:snail
- R1 ptr: 20833
-R1 Word:porpoise
- R1 ptr: 20836
-R1 Word:shingle
- R1 ptr: 20861
-R1 Word:join
- R1 ptr: 20865
-R1 Word:askance
- R1 ptr: 20931
-R1 Word:thanked
- R1 ptr: 20934
-R1 Word:kindly
- R1 ptr: 20937
-R1 Word:scaly
- R1 ptr: 20979
-R1 Word:england
- R1 ptr: 20996
-R1 Word:france
- R1 ptr: 21001
-R1 Word:beloved
- R1 ptr: 21006
-R1 Word:dinn
- R1 ptr: 21093
-R1 Word:tails
- R1 ptr: 21132
-R1 Word:mouths
- R1 ptr: 21135
-R1 Word:thrown
- R1 ptr: 21209
-R1 Word:shiny
- R1 ptr: 21326
-R1 Word:blacking
- R1 ptr: 21344
-R1 Word:soles
- R1 ptr: 21383
-R1 Word:eels
- R1 ptr: 21385
-R1 Word:shrimp
- R1 ptr: 21394
-R1 Word:thoughts
- R1 ptr: 21408
-R1 Word:obliged
- R1 ptr: 21432
-R1 Word:anywhere
- R1 ptr: 21447
-R1 Word:journey
- R1 ptr: 21483
-R1 Word:purpose
- R1 ptr: 21493
-R1 Word:impatient
- R1 ptr: 21566
-R1 Word:explanations
- R1 ptr: 21568
-R1 Word:gained
- R1 ptr: 21624
-R1 Word:listeners
- R1 ptr: 21631
-R1 Word:part
- R1 ptr: 21640
-R1 Word:sluggard
- R1 ptr: 21734
-R1 Word:baked
- R1 ptr: 21806
-R1 Word:sugar
- R1 ptr: 21812
-R1 Word:eyelids
- R1 ptr: 21820
-R1 Word:trims
- R1 ptr: 21826
-R1 Word:belt
- R1 ptr: 21828
-R1 Word:buttons
- R1 ptr: 21831
-R1 Word:editions
- R1 ptr: 21838
-R1 Word:follows
- R1 ptr: 21841
-R1 Word:sands
- R1 ptr: 21844
-R1 Word:gay
- R1 ptr: 21850
-R1 Word:lark
- R1 ptr: 21853
-R1 Word:contemptuous
- R1 ptr: 21858
-R1 Word:tones
- R1 ptr: 21859
-R1 Word:shark
- R1 ptr: 21862
-R1 Word:tide
- R1 ptr: 21866
-R1 Word:rises
- R1 ptr: 21867
-R1 Word:sharks
- R1 ptr: 21869
-R1 Word:around
- R1 ptr: 21871
-R1 Word:tremulous
- R1 ptr: 21878
-R1 Word:uncommon
- R1 ptr: 21909
-R1 Word:explained
- R1 ptr: 21941
-R1 Word:persisted
- R1 ptr: 21967
-R1 Word:disobey
- R1 ptr: 22023
-R1 Word:owl
- R1 ptr: 22053
-R1 Word:panther
- R1 ptr: 22056
-R1 Word:sharing
- R1 ptr: 22058
-R1 Word:pie
- R1 ptr: 22060
-R1 Word:gravy
- R1 ptr: 22071
-R1 Word:meat
- R1 ptr: 22073
-R1 Word:share
- R1 ptr: 22082
-R1 Word:treat
- R1 ptr: 22085
-R1 Word:boon
- R1 ptr: 22096
-R1 Word:permitted
- R1 ptr: 22099
-R1 Word:received
- R1 ptr: 22107
-R1 Word:fork
- R1 ptr: 22110
-R1 Word:banquet
- R1 ptr: 22117
-R1 Word:hm
- R1 ptr: 22219
-R1 Word:accounting
- R1 ptr: 22221
-R1 Word:tastes
- R1 ptr: 22223
-R1 Word:rich
- R1 ptr: 22252
-R1 Word:tureen
- R1 ptr: 22259
-R1 Word:dainties
- R1 ptr: 22263
-R1 Word:evening
- R1 ptr: 22270
-R1 Word:beau
- R1 ptr: 22279
-R1 Word:soo
- R1 ptr: 22280
-R1 Word:e
- R1 ptr: 22286
-R1 Word:cares
- R1 ptr: 22293
-R1 Word:pennyworth
- R1 ptr: 22309
-R1 Word:beauti
- R1 ptr: 22328
-R1 Word:panted
- R1 ptr: 22384
-R1 Word:faintly
- R1 ptr: 22403
-R1 Word:breeze
- R1 ptr: 22408
-R1 Word:xi
- R1 ptr: 22423
-R1 Word:stole
- R1 ptr: 22425
-R1 Word:tarts
- R1 ptr: 22427
-R1 Word:seated
- R1 ptr: 22435
-R1 Word:throne
- R1 ptr: 22438
-R1 Word:arrived
- R1 ptr: 22441
-R1 Word:standing
- R1 ptr: 22466
-R1 Word:chains
- R1 ptr: 22470
-R1 Word:soldier
- R1 ptr: 22473
-R1 Word:guard
- R1 ptr: 22478
-R1 Word:trumpet
- R1 ptr: 22490
-R1 Word:scroll
- R1 ptr: 22496
-R1 Word:parchment
- R1 ptr: 22498
-R1 Word:court
- R1 ptr: 22508
-R1 Word:refreshments
- R1 ptr: 22546
+R1 Word:parts
+ R1 ptr: 17014
+R1 Word:party
+ R1 ptr: 4255
 R1 Word:pass
  R1 ptr: 22565
-R1 Word:justice
- R1 ptr: 22577
-R1 Word:books
- R1 ptr: 22586
-R1 Word:wig
- R1 ptr: 22614
-R1 Word:wore
- R1 ptr: 22626
-R1 Word:frontispiece
- R1 ptr: 22635
-R1 Word:comfortable
- R1 ptr: 22651
-R1 Word:becoming
- R1 ptr: 22657
-R1 Word:jurors
- R1 ptr: 22691
-R1 Word:rightly
- R1 ptr: 22713
-R1 Word:slates
- R1 ptr: 22747
-R1 Word:indignant
- R1 ptr: 22798
-R1 Word:spectacles
- R1 ptr: 22820
-R1 Word:spell
- R1 ptr: 22870
-R1 Word:neighbour
- R1 ptr: 22879
-R1 Word:muddle
- R1 ptr: 22885
-R1 Word:pencil
- R1 ptr: 22902
-R1 Word:squeaked
- R1 ptr: 22904
-R1 Word:quickly
- R1 ptr: 22936
-R1 Word:juror
- R1 ptr: 22941
-R1 Word:herald
- R1 ptr: 22994
-R1 Word:accusation
- R1 ptr: 22997
-R1 Word:blew
- R1 ptr: 23006
-R1 Word:blasts
- R1 ptr: 23008
-R1 Word:summer
- R1 ptr: 23033
-R1 Word:verdict
- R1 ptr: 23050
-R1 Word:witness
- R1 ptr: 23076
-R1 Word:teacup
- R1 ptr: 23106
-R1 Word:sent
- R1 ptr: 23139
-R1 Word:fourteenth
- R1 ptr: 23171
-R1 Word:fifteenth
- R1 ptr: 23180
-R1 Word:sixteenth
- R1 ptr: 23185
-R1 Word:wrote
- R1 ptr: 23202
-R1 Word:dates
- R1 ptr: 23206
-R1 Word:reduced
- R1 ptr: 23216
-R1 Word:shillings
- R1 ptr: 23220
+R1 Word:passage
+ R1 ptr: 1000
+R1 Word:passed
+ R1 ptr: 431
+R1 Word:passing
+ R1 ptr: 17573
+R1 Word:passion
+ R1 ptr: 4173
+R1 Word:passionate
+ R1 ptr: 3798
+R1 Word:past
+ R1 ptr: 471
+R1 Word:pat
+ R1 ptr: 7119
+R1 Word:patience
+ R1 ptr: 5696
+R1 Word:patiently
+ R1 ptr: 9554
+R1 Word:patriotic
+ R1 ptr: 4590
+R1 Word:patted
+ R1 ptr: 5293
+R1 Word:pattering
+ R1 ptr: 2506
+R1 Word:pattern
+ R1 ptr: 16292
+R1 Word:pause
+ R1 ptr: 11478
+R1 Word:paused
+ R1 ptr: 4829
+R1 Word:paw
+ R1 ptr: 8085
+R1 Word:paws
+ R1 ptr: 3879
+R1 Word:pebbles
+ R1 ptr: 7765
+R1 Word:peeped
+ R1 ptr: 45
+R1 Word:peeping
+ R1 ptr: 16661
+R1 Word:peering
+ R1 ptr: 8046
+R1 Word:pegs
+ R1 ptr: 418
 R1 Word:pence
  R1 ptr: 23222
-R1 Word:hat
- R1 ptr: 23226
-R1 Word:stolen
- R1 ptr: 23239
-R1 Word:memorandum
- R1 ptr: 23251
-R1 Word:fidgeted
- R1 ptr: 23291
-R1 Word:evidence
- R1 ptr: 23294
-R1 Word:spot
- R1 ptr: 23309
-R1 Word:encourage
- R1 ptr: 23315
-R1 Word:shifting
- R1 ptr: 23322
-R1 Word:remain
- R1 ptr: 23401
-R1 Word:squeeze
- R1 ptr: 23417
-R1 Word:boldly
- R1 ptr: 23457
-R1 Word:reasonable
- R1 ptr: 23469
-R1 Word:pace
- R1 ptr: 23470
-R1 Word:ridiculous
- R1 ptr: 23477
-R1 Word:fashion
- R1 ptr: 23478
-R1 Word:officers
- R1 ptr: 23522
-R1 Word:list
- R1 ptr: 23529
-R1 Word:singers
- R1 ptr: 23532
-R1 Word:thin
- R1 ptr: 23598
-R1 Word:t
- R1 ptr: 23626
-R1 Word:dunce
- R1 ptr: 23637
-R1 Word:twinkled
- R1 ptr: 23651
-R1 Word:deny
- R1 ptr: 23674
-R1 Word:denies
- R1 ptr: 23681
-R1 Word:miserable
- R1 ptr: 23761
-R1 Word:speaker
- R1 ptr: 23786
-R1 Word:suppressed
- R1 ptr: 23799
-R1 Word:canvas
- R1 ptr: 23827
-R1 Word:bag
- R1 ptr: 23828
-R1 Word:tied
- R1 ptr: 23830
-R1 Word:strings
- R1 ptr: 23836
-R1 Word:newspapers
- R1 ptr: 23864
-R1 Word:trials
- R1 ptr: 23869
-R1 Word:attempts
- R1 ptr: 23873
-R1 Word:applause
- R1 ptr: 23875
-R1 Word:understood
- R1 ptr: 23889
-R1 Word:lower
- R1 ptr: 23913
-R1 Word:officer
- R1 ptr: 24020
-R1 Word:folding
- R1 ptr: 24118
-R1 Word:collar
- R1 ptr: 24157
-R1 Word:shrieked
- R1 ptr: 24162
-R1 Word:behead
- R1 ptr: 24164
-R1 Word:suppress
- R1 ptr: 24173
-R1 Word:undertone
- R1 ptr: 24228
-R1 Word:ache
- R1 ptr: 24246
-R1 Word:fumbled
- R1 ptr: 24254
-R1 Word:xii
- R1 ptr: 24302
-R1 Word:flurry
- R1 ptr: 24312
-R1 Word:tipped
- R1 ptr: 24336
-R1 Word:skirt
- R1 ptr: 24345
-R1 Word:upsetting
- R1 ptr: 24346
-R1 Word:jurymen
- R1 ptr: 24349
-R1 Word:sprawling
- R1 ptr: 24362
-R1 Word:reminding
- R1 ptr: 24364
-R1 Word:globe
- R1 ptr: 24370
-R1 Word:goldfish
- R1 ptr: 24372
-R1 Word:accidentally
- R1 ptr: 24375
-R1 Word:dismay
- R1 ptr: 24392
-R1 Word:accident
- R1 ptr: 24406
-R1 Word:vague
- R1 ptr: 24419
-R1 Word:die
- R1 ptr: 24439
-R1 Word:cannot
- R1 ptr: 24442
-R1 Word:emphasis
- R1 ptr: 24467
-R1 Word:haste
- R1 ptr: 24486
-R1 Word:downwards
- R1 ptr: 24494
-R1 Word:unable
- R1 ptr: 24511
-R1 Word:signifies
- R1 ptr: 24527
-R1 Word:shock
- R1 ptr: 24563
+R1 Word:pencil
+ R1 ptr: 22902
 R1 Word:pencils
  R1 ptr: 24571
-R1 Word:diligently
- R1 ptr: 24585
-R1 Word:overcome
- R1 ptr: 24602
-R1 Word:gazing
- R1 ptr: 24612
-R1 Word:unimportant
- R1 ptr: 24670
-R1 Word:respectful
- R1 ptr: 24681
-R1 Word:note
- R1 ptr: 24771
-R1 Word:cackled
- R1 ptr: 24772
-R1 Word:forty
- R1 ptr: 24782
+R1 Word:pennyworth
+ R1 ptr: 22309
+R1 Word:people
+ R1 ptr: 676
+R1 Word:pepper
+ R1 ptr: 10752
+R1 Word:perfectly
+ R1 ptr: 9121
+R1 Word:perhaps
+ R1 ptr: 770
+R1 Word:permitted
+ R1 ptr: 22099
+R1 Word:persisted
+ R1 ptr: 21967
+R1 Word:person
+ R1 ptr: 1979
+R1 Word:personal
+ R1 ptr: 13587
 R1 Word:persons
  R1 ptr: 24784
-R1 Word:mile
- R1 ptr: 24788
-R1 Word:invented
- R1 ptr: 24833
-R1 Word:oldest
- R1 ptr: 24839
-R1 Word:prisoner
- R1 ptr: 24929
-R1 Word:directed
- R1 ptr: 24954
-R1 Word:verses
- R1 ptr: 24997
-R1 Word:handwriting
- R1 ptr: 25003
-R1 Word:queerest
- R1 ptr: 25019
-R1 Word:imitated
- R1 ptr: 25031
-R1 Word:prove
- R1 ptr: 25057
-R1 Word:signed
- R1 ptr: 25063
-R1 Word:sign
- R1 ptr: 25070
-R1 Word:mischief
- R1 ptr: 25086
-R1 Word:honest
- R1 ptr: 25096
-R1 Word:clapping
- R1 ptr: 25102
-R1 Word:proves
- R1 ptr: 25121
-R1 Word:guilt
- R1 ptr: 25123
-R1 Word:character
- R1 ptr: 25209
-R1 Word:push
- R1 ptr: 25233
-R1 Word:returned
- R1 ptr: 25258
-R1 Word:involved
- R1 ptr: 25276
-R1 Word:affair
- R1 ptr: 25279
-R1 Word:trusts
- R1 ptr: 25281
-R1 Word:fit
- R1 ptr: 25303
-R1 Word:obstacle
- R1 ptr: 25305
-R1 Word:ourselves
- R1 ptr: 25311
-R1 Word:secret
- R1 ptr: 25328
-R1 Word:sixpence
- R1 ptr: 25391
-R1 Word:atom
- R1 ptr: 25397
-R1 Word:attempted
- R1 ptr: 25424
-R1 Word:saves
- R1 ptr: 25439
-R1 Word:spreading
- R1 ptr: 25461
-R1 Word:cardboard
- R1 ptr: 25523
-R1 Word:clearer
- R1 ptr: 25603
-R1 Word:fits
- R1 ptr: 25615
-R1 Word:furiously
- R1 ptr: 25629
-R1 Word:inkstand
- R1 ptr: 25632
-R1 Word:ink
- R1 ptr: 25668
-R1 Word:trickling
- R1 ptr: 25671
-R1 Word:pun
- R1 ptr: 25703
-R1 Word:twentieth
- R1 ptr: 25726
-R1 Word:purple
- R1 ptr: 25758
-R1 Word:flying
- R1 ptr: 25813
-R1 Word:brushing
- R1 ptr: 25854
-R1 Word:fluttered
- R1 ptr: 25861
-R1 Word:kissed
- R1 ptr: 25924
-R1 Word:wonderful
- R1 ptr: 25962
-R1 Word:setting
- R1 ptr: 25985
-R1 Word:dreaming
- R1 ptr: 26001
-R1 Word:dreamed
- R1 ptr: 26012
-R1 Word:clasped
- R1 ptr: 26024
-R1 Word:toss
- R1 ptr: 26051
-R1 Word:listened
- R1 ptr: 26071
-R1 Word:rustled
- R1 ptr: 26094
-R1 Word:splashed
- R1 ptr: 26106
-R1 Word:neighbouring
- R1 ptr: 26111
-R1 Word:rattle
- R1 ptr: 26116
-R1 Word:teacups
- R1 ptr: 26119
-R1 Word:shared
- R1 ptr: 26127
-R1 Word:meal
- R1 ptr: 26130
-R1 Word:crashed
- R1 ptr: 26158
-R1 Word:choking
- R1 ptr: 26175
-R1 Word:believed
- R1 ptr: 26203
-R1 Word:reality
- R1 ptr: 26223
-R1 Word:rustling
- R1 ptr: 26228
-R1 Word:rippling
- R1 ptr: 26235
-R1 Word:reeds
- R1 ptr: 26241
-R1 Word:tinkling
- R1 ptr: 26247
-R1 Word:sheep
- R1 ptr: 26248
-R1 Word:bells
- R1 ptr: 26249
-R1 Word:cries
- R1 ptr: 26254
-R1 Word:shepherd
- R1 ptr: 26260
-R1 Word:noises
- R1 ptr: 26277
-R1 Word:clamour
- R1 ptr: 26285
-R1 Word:farm
- R1 ptr: 26289
-R1 Word:lowing
- R1 ptr: 26291
-R1 Word:cattle
- R1 ptr: 26294
-R1 Word:lastly
- R1 ptr: 26308
+R1 Word:pet
+ R1 ptr: 5750
+R1 Word:picked
+ R1 ptr: 8147
+R1 Word:picking
+ R1 ptr: 116
+R1 Word:picture
+ R1 ptr: 19312
 R1 Word:pictured
  R1 ptr: 26310
-R1 Word:riper
- R1 ptr: 26337
-R1 Word:years
- R1 ptr: 26338
-R1 Word:loving
- R1 ptr: 26342
-R1 Word:childhood
- R1 ptr: 26346
-R1 Word:gather
- R1 ptr: 26351
-R1 Word:sorrows
- R1 ptr: 26388
-R1 Word:joys
- R1 ptr: 26397
+R1 Word:pictures
+ R1 ptr: 57
+R1 Word:pie
+ R1 ptr: 22060
+R1 Word:piece
+ R1 ptr: 15400
+R1 Word:pieces
+ R1 ptr: 10547
+R1 Word:pig
+ R1 ptr: 10750
+R1 Word:pigeon
+ R1 ptr: 10034
+R1 Word:pigs
+ R1 ptr: 12574
+R1 Word:pinch
+ R1 ptr: 14501
+R1 Word:pinched
+ R1 ptr: 14687
+R1 Word:pine
+ R1 ptr: 1621
+R1 Word:pink
+ R1 ptr: 125
+R1 Word:piteous
+ R1 ptr: 9512
+R1 Word:pitied
+ R1 ptr: 19514
+R1 Word:pity
+ R1 ptr: 5637
+R1 Word:place
+ R1 ptr: 7484
+R1 Word:placed
+ R1 ptr: 4908
+R1 Word:places
+ R1 ptr: 16783
+R1 Word:plainly
+ R1 ptr: 1827
+R1 Word:plan
+ R1 ptr: 8012
+R1 Word:planning
+ R1 ptr: 2307
+R1 Word:plate
+ R1 ptr: 6223
+R1 Word:plates
+ R1 ptr: 11718
+R1 Word:play
+ R1 ptr: 3027
+R1 Word:played
+ R1 ptr: 17035
+R1 Word:players
+ R1 ptr: 17033
+R1 Word:playing
+ R1 ptr: 1938
+R1 Word:pleaded
+ R1 ptr: 5585
+R1 Word:pleasant
+ R1 ptr: 18166
+R1 Word:pleasanter
+ R1 ptr: 6710
+R1 Word:please
+ R1 ptr: 723
+R1 Word:pleased
+ R1 ptr: 11630
+R1 Word:pleases
+ R1 ptr: 12054
+R1 Word:pleasing
+ R1 ptr: 10130
+R1 Word:pleasure
+ R1 ptr: 102
+R1 Word:plenty
+ R1 ptr: 347
+R1 Word:pocket
+ R1 ptr: 205
+R1 Word:pointed
+ R1 ptr: 6153
+R1 Word:pointing
+ R1 ptr: 5066
+R1 Word:poison
+ R1 ptr: 1494
+R1 Word:poker
+ R1 ptr: 1540
+R1 Word:poky
+ R1 ptr: 3017
+R1 Word:politely
+ R1 ptr: 4555
+R1 Word:pool
+ R1 ptr: 2163
+R1 Word:poor
+ R1 ptr: 1320
+R1 Word:pop
+ R1 ptr: 265
+R1 Word:pope
+ R1 ptr: 4507
+R1 Word:porpoise
+ R1 ptr: 20836
+R1 Word:position
+ R1 ptr: 5015
+R1 Word:positively
+ R1 ptr: 4387
+R1 Word:possible
+ R1 ptr: 7101
+R1 Word:possibly
+ R1 ptr: 1819
+R1 Word:pounds
+ R1 ptr: 4080
+R1 Word:pour
+ R1 ptr: 2949
+R1 Word:poured
+ R1 ptr: 14098
+R1 Word:powdered
+ R1 ptr: 10838
+R1 Word:practice
+ R1 ptr: 613
+R1 Word:pray
+ R1 ptr: 9158
+R1 Word:precious
+ R1 ptr: 11776
+R1 Word:present
+ R1 ptr: 8644
+R1 Word:presented
+ R1 ptr: 5193
+R1 Word:presently
+ R1 ptr: 653
+R1 Word:presents
+ R1 ptr: 2329
+R1 Word:pressed
+ R1 ptr: 5010
+R1 Word:pressing
+ R1 ptr: 6513
+R1 Word:pretend
+ R1 ptr: 1963
+R1 Word:pretending
+ R1 ptr: 1949
+R1 Word:pretexts
+ R1 ptr: 5854
+R1 Word:pretty
+ R1 ptr: 20726
+R1 Word:prevent
+ R1 ptr: 12230
+R1 Word:printed
+ R1 ptr: 1454
+R1 Word:prison
+ R1 ptr: 18050
+R1 Word:prisoner
+ R1 ptr: 24929
+R1 Word:prize
+ R1 ptr: 5140
+R1 Word:prizes
+ R1 ptr: 5045
+R1 Word:proceed
+ R1 ptr: 4573
+R1 Word:procession
+ R1 ptr: 16097
+R1 Word:processions
+ R1 ptr: 16136
+R1 Word:produced
+ R1 ptr: 7801
+R1 Word:producing
+ R1 ptr: 10872
+R1 Word:promise
+ R1 ptr: 15076
+R1 Word:promised
+ R1 ptr: 5321
+R1 Word:promising
+ R1 ptr: 8910
+R1 Word:pronounced
+ R1 ptr: 7178
+R1 Word:proper
+ R1 ptr: 12199
+R1 Word:proposal
+ R1 ptr: 14674
+R1 Word:prosecute
+ R1 ptr: 5433
+R1 Word:protection
+ R1 ptr: 16534
+R1 Word:proud
+ R1 ptr: 19920
+R1 Word:prove
+ R1 ptr: 25057
+R1 Word:proved
+ R1 ptr: 7020
+R1 Word:proves
+ R1 ptr: 25121
+R1 Word:provoking
+ R1 ptr: 16962
+R1 Word:puffed
+ R1 ptr: 8971
+R1 Word:pulled
+ R1 ptr: 5107
+R1 Word:pulling
+ R1 ptr: 7306
+R1 Word:pun
+ R1 ptr: 25703
+R1 Word:punching
+ R1 ptr: 20451
+R1 Word:punished
+ R1 ptr: 3481
+R1 Word:puppy
+ R1 ptr: 8070
+R1 Word:purple
+ R1 ptr: 25758
+R1 Word:purpose
+ R1 ptr: 21493
+R1 Word:purring
+ R1 ptr: 3871
+R1 Word:push
+ R1 ptr: 25233
+R1 Word:puss
+ R1 ptr: 12650
+R1 Word:put
+ R1 ptr: 461
+R1 Word:putting
+ R1 ptr: 3057
+R1 Word:puzzle
+ R1 ptr: 2725
+R1 Word:puzzled
+ R1 ptr: 10137
+R1 Word:puzzling
+ R1 ptr: 2811
+R1 Word:quadrille
+ R1 ptr: 20396
+R1 Word:quarrel
+ R1 ptr: 17324
+R1 Word:quarrelled
+ R1 ptr: 14395
+R1 Word:quarrelling
+ R1 ptr: 17042
+R1 Word:queen
+ R1 ptr: 10905
+R1 Word:queens
+ R1 ptr: 16047
+R1 Word:queer
+ R1 ptr: 2661
+R1 Word:queerest
+ R1 ptr: 25019
+R1 Word:question
+ R1 ptr: 899
+R1 Word:questions
+ R1 ptr: 9310
+R1 Word:quick
+ R1 ptr: 6135
+R1 Word:quicker
+ R1 ptr: 5634
+R1 Word:quickly
+ R1 ptr: 22936
+R1 Word:quiet
+ R1 ptr: 3852
+R1 Word:quietly
+ R1 ptr: 8564
+R1 Word:quite
+ R1 ptr: 191
+R1 Word:quiver
+ R1 ptr: 3760
+R1 Word:rabbit
+ R1 ptr: 18
+R1 Word:rabbits
+ R1 ptr: 6731
+R1 Word:race
+ R1 ptr: 4889
+R1 Word:railway
+ R1 ptr: 3374
+R1 Word:raised
+ R1 ptr: 13307
+R1 Word:raising
+ R1 ptr: 10218
+R1 Word:ran
+ R1 ptr: 127
+R1 Word:rapidly
+ R1 ptr: 3212
+R1 Word:rapped
+ R1 ptr: 10806
+R1 Word:rat
+ R1 ptr: 1261
+R1 Word:rate
+ R1 ptr: 1191
+R1 Word:rather
+ R1 ptr: 689
+R1 Word:rats
+ R1 ptr: 4087
+R1 Word:rattle
+ R1 ptr: 26116
+R1 Word:rattling
+ R1 ptr: 7767
+R1 Word:raven
+ R1 ptr: 13615
+R1 Word:ravens
+ R1 ptr: 13816
+R1 Word:raving
+ R1 ptr: 13116
+R1 Word:raw
+ R1 ptr: 10485
+R1 Word:reach
+ R1 ptr: 1820
+R1 Word:reaching
+ R1 ptr: 2494
+R1 Word:read
+ R1 ptr: 1500
+R1 Word:readily
+ R1 ptr: 14029
+R1 Word:reading
+ R1 ptr: 52
+R1 Word:ready
+ R1 ptr: 2584
+R1 Word:real
+ R1 ptr: 6248
+R1 Word:reality
+ R1 ptr: 26223
+R1 Word:really
+ R1 ptr: 1376
+R1 Word:rearing
+ R1 ptr: 9489
+R1 Word:reason
+ R1 ptr: 6985
+R1 Word:reasonable
+ R1 ptr: 23469
+R1 Word:reasons
+ R1 ptr: 11019
+R1 Word:received
+ R1 ptr: 22107
+R1 Word:recognised
+ R1 ptr: 16052
+R1 Word:recovered
+ R1 ptr: 20461
+R1 Word:red
+ R1 ptr: 1539
+R1 Word:reduced
+ R1 ptr: 23216
+R1 Word:reeds
+ R1 ptr: 26241
+R1 Word:reeling
+ R1 ptr: 20024
+R1 Word:refreshments
+ R1 ptr: 22546
+R1 Word:refused
+ R1 ptr: 4388
+R1 Word:regular
+ R1 ptr: 20017
+R1 Word:relief
+ R1 ptr: 19969
+R1 Word:relieved
+ R1 ptr: 12523
+R1 Word:remain
+ R1 ptr: 23401
+R1 Word:remained
+ R1 ptr: 2101
+R1 Word:remaining
+ R1 ptr: 16522
+R1 Word:remark
+ R1 ptr: 11324
+R1 Word:remarkable
+ R1 ptr: 136
+R1 Word:remarked
+ R1 ptr: 11194
+R1 Word:remarking
+ R1 ptr: 5815
+R1 Word:remarks
+ R1 ptr: 8839
+R1 Word:remedies
+ R1 ptr: 4743
+R1 Word:remember
+ R1 ptr: 809
+R1 Word:remembered
+ R1 ptr: 1920
 R1 Word:remembering
  R1 ptr: 26398
-R1 Word:happy
- R1 ptr: 26404
+R1 Word:reminding
+ R1 ptr: 24364
+R1 Word:removed
+ R1 ptr: 17560
+R1 Word:repeat
+ R1 ptr: 2917
+R1 Word:repeated
+ R1 ptr: 10066
+R1 Word:repeating
+ R1 ptr: 11322
+R1 Word:replied
+ R1 ptr: 4606
+R1 Word:reply
+ R1 ptr: 5600
+R1 Word:resource
+ R1 ptr: 6628
+R1 Word:respect
+ R1 ptr: 12648
+R1 Word:respectable
+ R1 ptr: 1978
+R1 Word:respectful
+ R1 ptr: 24681
+R1 Word:rest
+ R1 ptr: 5029
+R1 Word:resting
+ R1 ptr: 13393
+R1 Word:result
+ R1 ptr: 9927
+R1 Word:retire
+ R1 ptr: 20609
+R1 Word:returned
+ R1 ptr: 25258
+R1 Word:returning
+ R1 ptr: 2528
+R1 Word:rich
+ R1 ptr: 22252
+R1 Word:riddle
+ R1 ptr: 14134
+R1 Word:riddles
+ R1 ptr: 13633
+R1 Word:ridge
+ R1 ptr: 16986
+R1 Word:ridges
+ R1 ptr: 16835
+R1 Word:ridiculous
+ R1 ptr: 23477
+R1 Word:right
+ R1 ptr: 622
+R1 Word:righthand
+ R1 ptr: 10726
+R1 Word:rightly
+ R1 ptr: 22713
+R1 Word:ring
+ R1 ptr: 4440
+R1 Word:ringlets
+ R1 ptr: 2770
+R1 Word:riper
+ R1 ptr: 26337
+R1 Word:rippling
+ R1 ptr: 26235
+R1 Word:rise
+ R1 ptr: 9873
+R1 Word:rises
+ R1 ptr: 21867
+R1 Word:rising
+ R1 ptr: 4726
+R1 Word:roared
+ R1 ptr: 16625
+R1 Word:roast
+ R1 ptr: 1622
+R1 Word:rock
+ R1 ptr: 19496
+R1 Word:rome
+ R1 ptr: 2877
+R1 Word:roof
+ R1 ptr: 1088
+R1 Word:room
+ R1 ptr: 6363
+R1 Word:roots
+ R1 ptr: 10106
+R1 Word:rope
+ R1 ptr: 7408
+R1 Word:rose
+ R1 ptr: 15639
+R1 Word:roses
+ R1 ptr: 15648
+R1 Word:rosetree
+ R1 ptr: 16279
+R1 Word:roughly
+ R1 ptr: 11966
+R1 Word:round
+ R1 ptr: 1093
+R1 Word:row
+ R1 ptr: 1082
+R1 Word:royal
+ R1 ptr: 16014
+R1 Word:rubbed
+ R1 ptr: 19397
+R1 Word:rubbing
+ R1 ptr: 15272
+R1 Word:rude
+ R1 ptr: 13596
+R1 Word:rudeness
+ R1 ptr: 15402
+R1 Word:rule
+ R1 ptr: 16134
+R1 Word:rules
+ R1 ptr: 1413
+R1 Word:rumbling
+ R1 ptr: 7341
+R1 Word:run
+ R1 ptr: 6121
+R1 Word:running
+ R1 ptr: 4926
+R1 Word:rush
+ R1 ptr: 7941
+R1 Word:rushed
+ R1 ptr: 8180
+R1 Word:rustled
+ R1 ptr: 26094
+R1 Word:rustling
+ R1 ptr: 26228
+R1 Word:sad
+ R1 ptr: 5358
+R1 Word:sadly
+ R1 ptr: 1121
+R1 Word:safe
+ R1 ptr: 7961
+R1 Word:sage
+ R1 ptr: 9170
+R1 Word:said
+ R1 ptr: 544
+R1 Word:salmon
+ R1 ptr: 20559
+R1 Word:salt
+ R1 ptr: 3351
+R1 Word:same
+ R1 ptr: 2103
+R1 Word:sand
+ R1 ptr: 3420
+R1 Word:sands
+ R1 ptr: 21844
+R1 Word:sang
+ R1 ptr: 12003
+R1 Word:sat
+ R1 ptr: 1864
+R1 Word:saucepan
+ R1 ptr: 11782
+R1 Word:saucepans
+ R1 ptr: 11717
+R1 Word:saucer
+ R1 ptr: 811
+R1 Word:savage
+ R1 ptr: 2571
+R1 Word:save
+ R1 ptr: 6522
+R1 Word:saves
+ R1 ptr: 25439
+R1 Word:saw
+ R1 ptr: 412
+R1 Word:say
+ R1 ptr: 155
+R1 Word:saying
+ R1 ptr: 868
+R1 Word:says
+ R1 ptr: 4072
+R1 Word:scale
+ R1 ptr: 2958
+R1 Word:scaly
+ R1 ptr: 20979
+R1 Word:school
+ R1 ptr: 19747
+R1 Word:schoolroom
+ R1 ptr: 585
+R1 Word:scolded
+ R1 ptr: 1906
+R1 Word:scrambling
+ R1 ptr: 7534
+R1 Word:scratching
+ R1 ptr: 7532
+R1 Word:scream
+ R1 ptr: 16753
+R1 Word:screamed
+ R1 ptr: 10049
+R1 Word:screaming
+ R1 ptr: 17648
+R1 Word:scroll
+ R1 ptr: 22496
+R1 Word:sea
+ R1 ptr: 3364
+R1 Word:seals
+ R1 ptr: 20557
+R1 Word:seaography
+ R1 ptr: 20155
+R1 Word:search
+ R1 ptr: 17702
+R1 Word:seaside
+ R1 ptr: 3384
+R1 Word:seated
+ R1 ptr: 22435
+R1 Word:second
+ R1 ptr: 1202
+R1 Word:secondly
+ R1 ptr: 11033
+R1 Word:secret
+ R1 ptr: 25328
+R1 Word:see
+ R1 ptr: 263
+R1 Word:seeing
+ R1 ptr: 12598
+R1 Word:seem
+ R1 ptr: 670
+R1 Word:seemed
+ R1 ptr: 190
+R1 Word:seems
+ R1 ptr: 2962
+R1 Word:seen
+ R1 ptr: 230
+R1 Word:seldom
+ R1 ptr: 1900
+R1 Word:sell
+ R1 ptr: 9196
+R1 Word:send
+ R1 ptr: 16996
+R1 Word:sending
+ R1 ptr: 2328
+R1 Word:sends
+ R1 ptr: 5967
+R1 Word:sensation
+ R1 ptr: 5794
+R1 Word:sense
+ R1 ptr: 7715
+R1 Word:sent
+ R1 ptr: 23139
+R1 Word:sentence
+ R1 ptr: 3742
+R1 Word:sentenced
+ R1 ptr: 19120
+R1 Word:series
+ R1 ptr: 8269
+R1 Word:seriously
+ R1 ptr: 12408
+R1 Word:serpent
+ R1 ptr: 9981
+R1 Word:serpents
+ R1 ptr: 10127
+R1 Word:set
+ R1 ptr: 2150
+R1 Word:setting
+ R1 ptr: 25985
+R1 Word:settle
+ R1 ptr: 17897
+R1 Word:settled
+ R1 ptr: 10499
+R1 Word:settling
+ R1 ptr: 17594
+R1 Word:seven
+ R1 ptr: 2844
+R1 Word:several
+ R1 ptr: 575
+R1 Word:severely
+ R1 ptr: 1909
+R1 Word:severity
+ R1 ptr: 13593
+R1 Word:sh
+ R1 ptr: 15005
+R1 Word:shade
+ R1 ptr: 19064
+R1 Word:shake
+ R1 ptr: 11958
+R1 Word:shakespeare
+ R1 ptr: 5021
+R1 Word:shaking
+ R1 ptr: 9934
+R1 Word:shall
+ R1 ptr: 163
+R1 Word:shan
+ R1 ptr: 2245
+R1 Word:shape
+ R1 ptr: 4897
+R1 Word:shaped
+ R1 ptr: 12129
+R1 Word:share
+ R1 ptr: 22082
+R1 Word:shared
+ R1 ptr: 26127
+R1 Word:sharing
+ R1 ptr: 22058
+R1 Word:shark
+ R1 ptr: 21862
+R1 Word:sharks
+ R1 ptr: 21869
+R1 Word:sharp
+ R1 ptr: 7552
+R1 Word:sharply
+ R1 ptr: 1881
+R1 Word:she
+ R1 ptr: 43
+R1 Word:shedding
+ R1 ptr: 2476
+R1 Word:sheep
+ R1 ptr: 26248
+R1 Word:shelves
+ R1 ptr: 428
+R1 Word:shepherd
+ R1 ptr: 26260
+R1 Word:shifting
+ R1 ptr: 23322
+R1 Word:shilling
+ R1 ptr: 9190
+R1 Word:shillings
+ R1 ptr: 23220
+R1 Word:shingle
+ R1 ptr: 20861
+R1 Word:shining
+ R1 ptr: 2946
+R1 Word:shiny
+ R1 ptr: 21326
+R1 Word:shiver
+ R1 ptr: 4544
+R1 Word:shock
+ R1 ptr: 24563
+R1 Word:shoes
+ R1 ptr: 2235
+R1 Word:shook
+ R1 ptr: 5626
+R1 Word:shore
+ R1 ptr: 4189
+R1 Word:short
+ R1 ptr: 5211
+R1 Word:shorter
+ R1 ptr: 9616
+R1 Word:should
+ R1 ptr: 800
+R1 Word:shoulder
+ R1 ptr: 13984
+R1 Word:shoulders
+ R1 ptr: 1331
+R1 Word:shouldn
+ R1 ptr: 6859
+R1 Word:shouted
+ R1 ptr: 7792
+R1 Word:shouting
+ R1 ptr: 17069
+R1 Word:show
+ R1 ptr: 3828
+R1 Word:shower
+ R1 ptr: 7762
+R1 Word:showing
+ R1 ptr: 596
+R1 Word:shriek
+ R1 ptr: 7083
+R1 Word:shrieked
+ R1 ptr: 24162
+R1 Word:shrieks
+ R1 ptr: 7281
+R1 Word:shrill
+ R1 ptr: 3797
+R1 Word:shrimp
+ R1 ptr: 21394
+R1 Word:shrink
+ R1 ptr: 1701
+R1 Word:shrinking
+ R1 ptr: 3211
+R1 Word:shut
+ R1 ptr: 1338
+R1 Word:shutting
+ R1 ptr: 1415
+R1 Word:shy
+ R1 ptr: 7471
+R1 Word:shyly
+ R1 ptr: 8637
+R1 Word:side
+ R1 ptr: 1111
+R1 Word:sides
+ R1 ptr: 394
+R1 Word:sigh
+ R1 ptr: 14590
+R1 Word:sighed
+ R1 ptr: 5641
+R1 Word:sighing
+ R1 ptr: 5367
+R1 Word:sight
+ R1 ptr: 1008
+R1 Word:sign
+ R1 ptr: 25070
+R1 Word:signed
+ R1 ptr: 25063
+R1 Word:signifies
+ R1 ptr: 24527
+R1 Word:signify
+ R1 ptr: 2861
+R1 Word:silence
+ R1 ptr: 4492
+R1 Word:silent
+ R1 ptr: 10416
+R1 Word:simple
+ R1 ptr: 1528
+R1 Word:simpleton
+ R1 ptr: 20107
+R1 Word:simply
+ R1 ptr: 5247
+R1 Word:since
+ R1 ptr: 6071
+R1 Word:sing
+ R1 ptr: 14429
+R1 Word:singers
+ R1 ptr: 23532
+R1 Word:singing
+ R1 ptr: 11942
+R1 Word:sink
+ R1 ptr: 19823
+R1 Word:sir
+ R1 ptr: 2608
+R1 Word:sister
+ R1 ptr: 30
+R1 Word:sisters
+ R1 ptr: 14755
+R1 Word:sit
+ R1 ptr: 4046
+R1 Word:sits
+ R1 ptr: 3870
+R1 Word:sitting
+ R1 ptr: 27
+R1 Word:six
+ R1 ptr: 2838
+R1 Word:sixpence
+ R1 ptr: 25391
+R1 Word:sixteenth
+ R1 ptr: 23185
+R1 Word:size
+ R1 ptr: 1675
+R1 Word:sizes
+ R1 ptr: 8729
+R1 Word:skimming
+ R1 ptr: 11211
+R1 Word:skirt
+ R1 ptr: 24345
+R1 Word:skurried
+ R1 ptr: 2622
+R1 Word:sky
+ R1 ptr: 7657
+R1 Word:slate
+ R1 ptr: 7414
+R1 Word:slates
+ R1 ptr: 22747
+R1 Word:sleep
+ R1 ptr: 10185
+R1 Word:sleepy
+ R1 ptr: 97
+R1 Word:slightest
+ R1 ptr: 14156
+R1 Word:slipped
+ R1 ptr: 3338
+R1 Word:slippery
+ R1 ptr: 1850
+R1 Word:slowly
+ R1 ptr: 343
+R1 Word:sluggard
+ R1 ptr: 21734
+R1 Word:small
+ R1 ptr: 1187
+R1 Word:smaller
+ R1 ptr: 2041
+R1 Word:smallest
+ R1 ptr: 8035
+R1 Word:smile
+ R1 ptr: 4778
+R1 Word:smiled
+ R1 ptr: 16208
+R1 Word:smiling
+ R1 ptr: 2977
+R1 Word:smoke
+ R1 ptr: 11391
+R1 Word:smoking
+ R1 ptr: 8565
+R1 Word:snail
+ R1 ptr: 20833
+R1 Word:snappishly
+ R1 ptr: 5690
+R1 Word:snatch
+ R1 ptr: 7067
+R1 Word:sneeze
+ R1 ptr: 11488
+R1 Word:sneezed
+ R1 ptr: 11462
+R1 Word:sneezes
+ R1 ptr: 11976
+R1 Word:sneezing
+ R1 ptr: 11061
+R1 Word:snorting
+ R1 ptr: 12153
+R1 Word:snout
+ R1 ptr: 12343
+R1 Word:so
+ R1 ptr: 76
+R1 Word:sob
+ R1 ptr: 10081
+R1 Word:sobbed
+ R1 ptr: 12423
+R1 Word:sobbing
+ R1 ptr: 12375
+R1 Word:sobs
+ R1 ptr: 20426
+R1 Word:soft
+ R1 ptr: 3889
+R1 Word:softly
+ R1 ptr: 4130
+R1 Word:soldier
+ R1 ptr: 22473
+R1 Word:soldiers
+ R1 ptr: 15968
+R1 Word:solemn
+ R1 ptr: 5255
+R1 Word:solemnly
+ R1 ptr: 4725
+R1 Word:soles
+ R1 ptr: 21383
+R1 Word:solid
+ R1 ptr: 1145
+R1 Word:some
+ R1 ptr: 303
+R1 Word:somebody
+ R1 ptr: 457
+R1 Word:somehow
+ R1 ptr: 3360
+R1 Word:someone
+ R1 ptr: 17281
+R1 Word:somersault
+ R1 ptr: 20654
+R1 Word:something
+ R1 ptr: 3512
+R1 Word:sometimes
+ R1 ptr: 886
+R1 Word:somewhere
+ R1 ptr: 550
+R1 Word:son
+ R1 ptr: 9109
+R1 Word:song
+ R1 ptr: 12009
+R1 Word:soo
+ R1 ptr: 22280
+R1 Word:soon
+ R1 ptr: 789
+R1 Word:sooner
+ R1 ptr: 1588
+R1 Word:soothing
+ R1 ptr: 3815
+R1 Word:sorrow
+ R1 ptr: 19520
+R1 Word:sorrowful
+ R1 ptr: 4094
+R1 Word:sorrows
+ R1 ptr: 26388
+R1 Word:sorry
+ R1 ptr: 10191
+R1 Word:sort
+ R1 ptr: 579
+R1 Word:sorts
+ R1 ptr: 2790
+R1 Word:sound
+ R1 ptr: 701
+R1 Word:sounded
+ R1 ptr: 2922
+R1 Word:sounds
+ R1 ptr: 7157
+R1 Word:soup
+ R1 ptr: 11429
+R1 Word:sour
+ R1 ptr: 18248
+R1 Word:spades
+ R1 ptr: 3423
+R1 Word:speak
+ R1 ptr: 2185
+R1 Word:speaker
+ R1 ptr: 23786
+R1 Word:speaking
+ R1 ptr: 3639
+R1 Word:spectacles
+ R1 ptr: 22820
+R1 Word:speech
+ R1 ptr: 5212
+R1 Word:speed
+ R1 ptr: 3275
+R1 Word:spell
+ R1 ptr: 22870
+R1 Word:spite
+ R1 ptr: 8136
+R1 Word:splash
+ R1 ptr: 3343
+R1 Word:splashed
+ R1 ptr: 26106
+R1 Word:splashing
+ R1 ptr: 3513
+R1 Word:splendidly
+ R1 ptr: 2529
+R1 Word:spoke
+ R1 ptr: 738
+R1 Word:spoken
+ R1 ptr: 15760
+R1 Word:spoon
+ R1 ptr: 14408
+R1 Word:spot
+ R1 ptr: 23309
+R1 Word:sprawling
+ R1 ptr: 24362
+R1 Word:spread
+ R1 ptr: 2967
+R1 Word:spreading
+ R1 ptr: 25461
+R1 Word:squeaked
+ R1 ptr: 22904
+R1 Word:squeaking
+ R1 ptr: 7617
+R1 Word:squeeze
+ R1 ptr: 23417
+R1 Word:squeezed
+ R1 ptr: 18360
+R1 Word:stairs
+ R1 ptr: 491
+R1 Word:stalk
+ R1 ptr: 9876
+R1 Word:stamping
+ R1 ptr: 17066
+R1 Word:stand
+ R1 ptr: 9088
+R1 Word:standing
+ R1 ptr: 22466
+R1 Word:star
+ R1 ptr: 12145
+R1 Word:staring
+ R1 ptr: 10990
+R1 Word:started
+ R1 ptr: 215
+R1 Word:startled
+ R1 ptr: 12596
+R1 Word:state
+ R1 ptr: 8890
+R1 Word:station
+ R1 ptr: 3435
+R1 Word:stay
+ R1 ptr: 3049
+R1 Word:stays
+ R1 ptr: 14034
+R1 Word:steady
+ R1 ptr: 9286
+R1 Word:steam
+ R1 ptr: 12156
+R1 Word:sternly
+ R1 ptr: 8679
+R1 Word:stick
+ R1 ptr: 8153
+R1 Word:sticks
+ R1 ptr: 960
+R1 Word:stiff
+ R1 ptr: 20198
+R1 Word:stigand
+ R1 ptr: 4588
+R1 Word:still
+ R1 ptr: 609
+R1 Word:stingy
+ R1 ptr: 18273
+R1 Word:stirring
+ R1 ptr: 11419
+R1 Word:stockings
+ R1 ptr: 2237
+R1 Word:stole
+ R1 ptr: 22425
+R1 Word:stolen
+ R1 ptr: 23239
+R1 Word:stood
+ R1 ptr: 6417
+R1 Word:stool
+ R1 ptr: 11405
+R1 Word:stoop
+ R1 ptr: 6520
+R1 Word:stop
+ R1 ptr: 2463
+R1 Word:stopped
+ R1 ptr: 6922
+R1 Word:stopping
+ R1 ptr: 321
+R1 Word:story
+ R1 ptr: 5607
+R1 Word:straight
+ R1 ptr: 297
+R1 Word:straightened
+ R1 ptr: 16907
+R1 Word:straightening
+ R1 ptr: 12167
+R1 Word:strange
+ R1 ptr: 2925
+R1 Word:strength
+ R1 ptr: 9257
+R1 Word:stretched
+ R1 ptr: 8531
+R1 Word:stretching
+ R1 ptr: 8082
+R1 Word:strings
+ R1 ptr: 23836
+R1 Word:struck
+ R1 ptr: 2362
+R1 Word:stuff
+ R1 ptr: 9332
+R1 Word:stupid
+ R1 ptr: 99
+R1 Word:stupidest
+ R1 ptr: 15486
+R1 Word:stupidly
+ R1 ptr: 10991
+R1 Word:subdued
+ R1 ptr: 10073
+R1 Word:subject
+ R1 ptr: 3960
+R1 Word:subjects
+ R1 ptr: 20146
+R1 Word:submitted
+ R1 ptr: 4510
+R1 Word:succeeded
+ R1 ptr: 9985
+R1 Word:such
+ R1 ptr: 479
+R1 Word:sudden
+ R1 ptr: 3109
+R1 Word:suddenly
+ R1 ptr: 120
+R1 Word:suet
+ R1 ptr: 9216
+R1 Word:sugar
+ R1 ptr: 21812
+R1 Word:suit
+ R1 ptr: 5825
+R1 Word:sulkily
+ R1 ptr: 15010
+R1 Word:sulky
+ R1 ptr: 4357
+R1 Word:summer
+ R1 ptr: 23033
+R1 Word:sun
+ R1 ptr: 19300
+R1 Word:supple
+ R1 ptr: 9183
+R1 Word:suppose
+ R1 ptr: 3486
+R1 Word:suppress
+ R1 ptr: 24173
+R1 Word:suppressed
+ R1 ptr: 23799
+R1 Word:sure
+ R1 ptr: 2107
+R1 Word:surprise
+ R1 ptr: 7809
+R1 Word:surprised
+ R1 ptr: 2096
+R1 Word:swallow
+ R1 ptr: 9818
+R1 Word:swallowed
+ R1 ptr: 7868
+R1 Word:swallowing
+ R1 ptr: 8929
+R1 Word:swam
+ R1 ptr: 3470
+R1 Word:sweet
+ R1 ptr: 18261
+R1 Word:swim
+ R1 ptr: 6073
+R1 Word:swimming
+ R1 ptr: 3625
+R1 Word:t
+ R1 ptr: 23626
+R1 Word:table
+ R1 ptr: 1141
+R1 Word:tail
+ R1 ptr: 2947
+R1 Word:tails
+ R1 ptr: 21132
+R1 Word:take
+ R1 ptr: 241
+R1 Word:taken
+ R1 ptr: 10208
+R1 Word:takes
+ R1 ptr: 11858
+R1 Word:taking
+ R1 ptr: 6895
+R1 Word:tale
+ R1 ptr: 4267
+R1 Word:talk
+ R1 ptr: 3597
+R1 Word:talking
+ R1 ptr: 791
+R1 Word:taller
+ R1 ptr: 9607
+R1 Word:tarts
+ R1 ptr: 22427
+R1 Word:taste
+ R1 ptr: 1602
+R1 Word:tasted
+ R1 ptr: 10352
+R1 Word:tastes
+ R1 ptr: 22223
+R1 Word:taught
+ R1 ptr: 1533
+R1 Word:tea
+ R1 ptr: 815
+R1 Word:teaching
+ R1 ptr: 8391
+R1 Word:teacup
+ R1 ptr: 23106
+R1 Word:teacups
+ R1 ptr: 26119
+R1 Word:teapot
+ R1 ptr: 15465
+R1 Word:tears
+ R1 ptr: 1913
+R1 Word:teases
+ R1 ptr: 11987
+R1 Word:teeth
+ R1 ptr: 12637
+R1 Word:telescope
+ R1 ptr: 1342
+R1 Word:telescopes
+ R1 ptr: 1419
+R1 Word:tell
+ R1 ptr: 939
+R1 Word:telling
+ R1 ptr: 10346
+R1 Word:tells
+ R1 ptr: 13995
+R1 Word:temper
+ R1 ptr: 5679
+R1 Word:ten
+ R1 ptr: 1658
+R1 Word:terms
+ R1 ptr: 14276
+R1 Word:terribly
+ R1 ptr: 8110
+R1 Word:terrier
+ R1 ptr: 4026
+R1 Word:terror
+ R1 ptr: 11771
+R1 Word:than
+ R1 ptr: 1259
+R1 Word:thank
+ R1 ptr: 7628
+R1 Word:thanked
+ R1 ptr: 20934
+R1 Word:that
+ R1 ptr: 138
+R1 Word:thatched
+ R1 ptr: 13277
+R1 Word:the
+ R1 ptr: 10
+R1 Word:their
+ R1 ptr: 680
+R1 Word:theirs
+ R1 ptr: 5283
+R1 Word:them
+ R1 ptr: 713
+R1 Word:themselves
+ R1 ptr: 15944
+R1 Word:then
+ R1 ptr: 211
+R1 Word:there
+ R1 ptr: 131
+R1 Word:therefore
+ R1 ptr: 12930
+R1 Word:these
+ R1 ptr: 3334
+R1 Word:they
+ R1 ptr: 401
+R1 Word:thick
+ R1 ptr: 7964
+R1 Word:thimble
+ R1 ptr: 5170
+R1 Word:thin
+ R1 ptr: 23598
+R1 Word:thing
+ R1 ptr: 1766
+R1 Word:things
+ R1 ptr: 576
+R1 Word:think
+ R1 ptr: 142
+R1 Word:thinking
+ R1 ptr: 2729
+R1 Word:thirteen
+ R1 ptr: 2840
+R1 Word:this
+ R1 ptr: 183
+R1 Word:thistle
+ R1 ptr: 8196
+R1 Word:thoroughly
+ R1 ptr: 12048
+R1 Word:those
+ R1 ptr: 1291
+R1 Word:though
+ R1 ptr: 587
+R1 Word:thought
+ R1 ptr: 70
+R1 Word:thoughtfully
+ R1 ptr: 9656
+R1 Word:thoughts
+ R1 ptr: 21408
+R1 Word:thousand
+ R1 ptr: 564
+R1 Word:three
+ R1 ptr: 1140
+R1 Word:threw
+ R1 ptr: 12103
+R1 Word:throat
+ R1 ptr: 5827
+R1 Word:throne
+ R1 ptr: 22438
+R1 Word:through
+ R1 ptr: 664
+R1 Word:throw
+ R1 ptr: 4042
+R1 Word:throwing
+ R1 ptr: 11697
+R1 Word:thrown
+ R1 ptr: 21209
+R1 Word:thump
+ R1 ptr: 951
+R1 Word:thunder
+ R1 ptr: 16791
+R1 Word:thunderstorm
+ R1 ptr: 18961
+R1 Word:tide
+ R1 ptr: 21866
+R1 Word:tidy
+ R1 ptr: 6361
+R1 Word:tie
+ R1 ptr: 7385
+R1 Word:tied
+ R1 ptr: 23830
+R1 Word:tight
+ R1 ptr: 12218
+R1 Word:till
+ R1 ptr: 3099
+R1 Word:tillie
+ R1 ptr: 14770
+R1 Word:time
+ R1 ptr: 187
+R1 Word:times
+ R1 ptr: 2831
+R1 Word:timid
+ R1 ptr: 2603
+R1 Word:timidly
+ R1 ptr: 9356
+R1 Word:tinkling
+ R1 ptr: 26247
+R1 Word:tiny
+ R1 ptr: 1154
+R1 Word:tipped
+ R1 ptr: 24336
+R1 Word:tiptoe
+ R1 ptr: 8535
+R1 Word:tired
+ R1 ptr: 25
+R1 Word:tis
+ R1 ptr: 18445
+R1 Word:tittered
+ R1 ptr: 4784
+R1 Word:to
+ R1 ptr: 22
+R1 Word:toast
+ R1 ptr: 1628
+R1 Word:today
+ R1 ptr: 15523
+R1 Word:toes
+ R1 ptr: 20798
+R1 Word:toffee
+ R1 ptr: 1624
+R1 Word:together
+ R1 ptr: 7355
+R1 Word:told
+ R1 ptr: 11291
+R1 Word:tomorrow
+ R1 ptr: 11196
+R1 Word:tone
+ R1 ptr: 3816
+R1 Word:tones
+ R1 ptr: 21859
+R1 Word:tongue
+ R1 ptr: 5682
+R1 Word:too
+ R1 ptr: 384
+R1 Word:took
+ R1 ptr: 198
+R1 Word:top
+ R1 ptr: 513
+R1 Word:tops
+ R1 ptr: 10011
+R1 Word:tortoise
+ R1 ptr: 19761
+R1 Word:toss
+ R1 ptr: 26051
+R1 Word:tossing
+ R1 ptr: 12012
+R1 Word:touch
+ R1 ptr: 8088
+R1 Word:tougher
+ R1 ptr: 9214
+R1 Word:towards
+ R1 ptr: 13319
+R1 Word:toys
+ R1 ptr: 3025
+R1 Word:trampled
+ R1 ptr: 8255
+R1 Word:treacle
+ R1 ptr: 14802
+R1 Word:treading
+ R1 ptr: 20795
+R1 Word:treat
+ R1 ptr: 22085
+R1 Word:treated
+ R1 ptr: 12646
+R1 Word:tree
+ R1 ptr: 10211
+R1 Word:trees
+ R1 ptr: 8051
+R1 Word:tremble
+ R1 ptr: 18941
+R1 Word:trembled
+ R1 ptr: 6961
+R1 Word:trembling
+ R1 ptr: 3944
+R1 Word:tremulous
+ R1 ptr: 21878
+R1 Word:trial
+ R1 ptr: 5444
+R1 Word:trials
+ R1 ptr: 23869
+R1 Word:trickling
+ R1 ptr: 25671
+R1 Word:tricks
+ R1 ptr: 8393
+R1 Word:tried
+ R1 ptr: 369
+R1 Word:trims
+ R1 ptr: 21826
+R1 Word:triumphantly
+ R1 ptr: 14929
+R1 Word:trot
+ R1 ptr: 12527
+R1 Word:trotting
+ R1 ptr: 2550
+R1 Word:trouble
+ R1 ptr: 111
+R1 Word:true
+ R1 ptr: 521
+R1 Word:trumpet
+ R1 ptr: 22490
+R1 Word:trusts
+ R1 ptr: 25281
+R1 Word:truth
+ R1 ptr: 942
+R1 Word:truthful
+ R1 ptr: 10366
+R1 Word:try
+ R1 ptr: 2816
+R1 Word:trying
+ R1 ptr: 1116
+R1 Word:tucked
+ R1 ptr: 16885
+R1 Word:tulip
+ R1 ptr: 15786
+R1 Word:tumbled
+ R1 ptr: 8222
+R1 Word:tumbling
+ R1 ptr: 489
+R1 Word:tunnel
+ R1 ptr: 301
+R1 Word:tureen
+ R1 ptr: 22259
+R1 Word:turkey
+ R1 ptr: 1623
+R1 Word:turn
+ R1 ptr: 8756
+R1 Word:turned
+ R1 ptr: 1037
+R1 Word:turning
+ R1 ptr: 4695
+R1 Word:turns
+ R1 ptr: 17041
+R1 Word:turtle
+ R1 ptr: 18123
+R1 Word:turtles
+ R1 ptr: 20558
+R1 Word:tut
+ R1 ptr: 18342
+R1 Word:twelfth
+ R1 ptr: 20368
+R1 Word:twelve
+ R1 ptr: 2834
+R1 Word:twentieth
+ R1 ptr: 25726
+R1 Word:twenty
+ R1 ptr: 2852
+R1 Word:twice
+ R1 ptr: 42
+R1 Word:twinkle
+ R1 ptr: 14430
+R1 Word:twinkled
+ R1 ptr: 23651
+R1 Word:twinkling
+ R1 ptr: 14319
+R1 Word:twist
+ R1 ptr: 12207
+R1 Word:two
+ R1 ptr: 1952
+R1 Word:ugh
+ R1 ptr: 4538
+R1 Word:uglification
+ R1 ptr: 20045
+R1 Word:uglify
+ R1 ptr: 20102
+R1 Word:uglifying
+ R1 ptr: 20073
+R1 Word:ugly
+ R1 ptr: 12548
+R1 Word:unable
+ R1 ptr: 24511
+R1 Word:uncivil
+ R1 ptr: 11149
+R1 Word:uncomfortable
+ R1 ptr: 4298
+R1 Word:uncomfortably
+ R1 ptr: 18407
+R1 Word:uncommon
+ R1 ptr: 21909
+R1 Word:uncommonly
+ R1 ptr: 9147
+R1 Word:uncorked
+ R1 ptr: 6436
+R1 Word:under
+ R1 ptr: 270
+R1 Word:underneath
+ R1 ptr: 9742
+R1 Word:understand
+ R1 ptr: 3695
+R1 Word:understood
+ R1 ptr: 23889
+R1 Word:undertone
+ R1 ptr: 24228
+R1 Word:undo
+ R1 ptr: 5557
+R1 Word:undoing
+ R1 ptr: 12232
+R1 Word:uneasily
+ R1 ptr: 13857
+R1 Word:uneasy
+ R1 ptr: 17089
+R1 Word:unfolded
+ R1 ptr: 8979
+R1 Word:unfortunate
+ R1 ptr: 16527
+R1 Word:unhappy
+ R1 ptr: 6706
+R1 Word:unimportant
+ R1 ptr: 24670
+R1 Word:unjust
+ R1 ptr: 15803
+R1 Word:unless
+ R1 ptr: 17938
+R1 Word:unlocking
+ R1 ptr: 15573
+R1 Word:unpleasant
+ R1 ptr: 1519
+R1 Word:unrolled
+ R1 ptr: 16969
+R1 Word:until
+ R1 ptr: 2480
+R1 Word:untwist
+ R1 ptr: 10535
+R1 Word:unusually
+ R1 ptr: 11780
+R1 Word:unwillingly
+ R1 ptr: 15123
+R1 Word:up
+ R1 ptr: 114
+R1 Word:upon
+ R1 ptr: 417
+R1 Word:upright
+ R1 ptr: 9491
+R1 Word:upset
+ R1 ptr: 15160
+R1 Word:upsetting
+ R1 ptr: 24346
+R1 Word:upstairs
+ R1 ptr: 6239
+R1 Word:us
+ R1 ptr: 4185
+R1 Word:use
+ R1 ptr: 66
+R1 Word:used
+ R1 ptr: 2824
+R1 Word:useful
+ R1 ptr: 4075
+R1 Word:using
+ R1 ptr: 13388
+R1 Word:usual
+ R1 ptr: 2672
+R1 Word:usually
+ R1 ptr: 1563
+R1 Word:usurpation
+ R1 ptr: 4526
+R1 Word:v
+ R1 ptr: 8582
+R1 Word:vague
+ R1 ptr: 24419
+R1 Word:vanished
+ R1 ptr: 6090
+R1 Word:vanishing
+ R1 ptr: 13169
+R1 Word:variations
+ R1 ptr: 11326
+R1 Word:various
+ R1 ptr: 5853
+R1 Word:vegetable
+ R1 ptr: 18690
+R1 Word:velvet
+ R1 ptr: 16089
+R1 Word:venture
+ R1 ptr: 5730
+R1 Word:ventured
+ R1 ptr: 1600
+R1 Word:verdict
+ R1 ptr: 23050
+R1 Word:verse
+ R1 ptr: 12006
+R1 Word:verses
+ R1 ptr: 24997
+R1 Word:very
+ R1 ptr: 24
+R1 Word:vi
+ R1 ptr: 10749
+R1 Word:vii
+ R1 ptr: 13345
+R1 Word:viii
+ R1 ptr: 15633
+R1 Word:vinegar
+ R1 ptr: 18244
+R1 Word:violence
+ R1 ptr: 11559
+R1 Word:violent
+ R1 ptr: 9740
+R1 Word:violently
+ R1 ptr: 2612
+R1 Word:visit
+ R1 ptr: 12804
+R1 Word:voice
+ R1 ptr: 2604
+R1 Word:voices
+ R1 ptr: 5057
+R1 Word:vote
+ R1 ptr: 14654
+R1 Word:vulgar
+ R1 ptr: 3968
+R1 Word:w
+ R1 ptr: 6227
+R1 Word:wag
+ R1 ptr: 12924
+R1 Word:wags
+ R1 ptr: 12911
+R1 Word:waist
+ R1 ptr: 18545
+R1 Word:waistcoat
+ R1 ptr: 204
+R1 Word:wait
+ R1 ptr: 8948
+R1 Word:waited
+ R1 ptr: 1689
+R1 Word:waiting
+ R1 ptr: 1385
+R1 Word:wake
+ R1 ptr: 14682
+R1 Word:walk
+ R1 ptr: 678
+R1 Word:walked
+ R1 ptr: 1120
+R1 Word:walking
+ R1 ptr: 925
+R1 Word:walrus
+ R1 ptr: 3540
+R1 Word:wander
+ R1 ptr: 1288
+R1 Word:wandered
+ R1 ptr: 7979
+R1 Word:wandering
+ R1 ptr: 10020
+R1 Word:want
+ R1 ptr: 2287
+R1 Word:wanted
+ R1 ptr: 4516
+R1 Word:wants
+ R1 ptr: 13558
+R1 Word:warning
+ R1 ptr: 18980
+R1 Word:was
+ R1 ptr: 20
+R1 Word:wash
+ R1 ptr: 14599
+R1 Word:washing
+ R1 ptr: 3881
+R1 Word:wasn
+ R1 ptr: 6718
+R1 Word:waste
+ R1 ptr: 14183
+R1 Word:wasting
+ R1 ptr: 5471
+R1 Word:watch
+ R1 ptr: 200
+R1 Word:watched
+ R1 ptr: 19402
+R1 Word:watching
+ R1 ptr: 15816
+R1 Word:water
+ R1 ptr: 3352
+R1 Word:waters
+ R1 ptr: 2951
+R1 Word:waving
+ R1 ptr: 12784
+R1 Word:way
+ R1 ptr: 150
+R1 Word:ways
+ R1 ptr: 14844
+R1 Word:we
+ R1 ptr: 3926
+R1 Word:weak
+ R1 ptr: 9211
+R1 Word:wearily
+ R1 ptr: 14169
+R1 Word:week
+ R1 ptr: 20169
+R1 Word:weeks
+ R1 ptr: 10188
+R1 Word:welcome
+ R1 ptr: 2971
+R1 Word:well
+ R1 ptr: 85
+R1 Word:went
+ R1 ptr: 277
+R1 Word:wept
+ R1 ptr: 3452
+R1 Word:were
+ R1 ptr: 402
+R1 Word:weren
+ R1 ptr: 17986
+R1 Word:wet
+ R1 ptr: 4295
+R1 Word:what
+ R1 ptr: 63
+R1 Word:whatever
+ R1 ptr: 6653
+R1 Word:when
+ R1 ptr: 119
+R1 Word:whenever
+ R1 ptr: 6456
+R1 Word:where
+ R1 ptr: 6024
+R1 Word:whereupon
+ R1 ptr: 8161
+R1 Word:wherever
+ R1 ptr: 3397
+R1 Word:whether
+ R1 ptr: 100
+R1 Word:which
+ R1 ptr: 517
+R1 Word:while
+ R1 ptr: 1769
+R1 Word:whiles
+ R1 ptr: 14603
+R1 Word:whiskers
+ R1 ptr: 1044
+R1 Word:whisper
+ R1 ptr: 5343
+R1 Word:whispered
+ R1 ptr: 16705
+R1 Word:whispers
+ R1 ptr: 7235
+R1 Word:whistle
+ R1 ptr: 8104
+R1 Word:whistling
+ R1 ptr: 11356
+R1 Word:white
+ R1 ptr: 122
+R1 Word:whiting
+ R1 ptr: 20830
+R1 Word:who
+ R1 ptr: 1507
+R1 Word:whoever
+ R1 ptr: 10697
+R1 Word:whole
+ R1 ptr: 4254
+R1 Word:whom
+ R1 ptr: 19118
+R1 Word:whose
+ R1 ptr: 4501
+R1 Word:why
+ R1 ptr: 500
+R1 Word:wide
+ R1 ptr: 13603
+R1 Word:wider
+ R1 ptr: 12674
+R1 Word:wife
+ R1 ptr: 9253
+R1 Word:wig
+ R1 ptr: 22614
+R1 Word:wild
+ R1 ptr: 1515
+R1 Word:wildly
+ R1 ptr: 18101
+R1 Word:will
+ R1 ptr: 1541
+R1 Word:william
+ R1 ptr: 3708
+R1 Word:win
+ R1 ptr: 17439
+R1 Word:wind
+ R1 ptr: 1025
+R1 Word:window
+ R1 ptr: 6369
+R1 Word:wine
+ R1 ptr: 13472
+R1 Word:wings
+ R1 ptr: 10047
+R1 Word:wink
+ R1 ptr: 3681
+R1 Word:winter
+ R1 ptr: 4873
+R1 Word:wise
+ R1 ptr: 1471
+R1 Word:wish
+ R1 ptr: 820
+R1 Word:with
+ R1 ptr: 124
+R1 Word:within
+ R1 ptr: 11057
+R1 Word:without
+ R1 ptr: 72
+R1 Word:witness
+ R1 ptr: 23076
+R1 Word:wits
+ R1 ptr: 10719
+R1 Word:woke
+ R1 ptr: 15332
+R1 Word:woman
+ R1 ptr: 6849
+R1 Word:won
+ R1 ptr: 2282
+R1 Word:wonder
+ R1 ptr: 360
+R1 Word:wondered
+ R1 ptr: 181
+R1 Word:wonderful
+ R1 ptr: 25962
+R1 Word:wondering
+ R1 ptr: 1125
+R1 Word:wonderland
+ R1 ptr: 3
+R1 Word:wood
+ R1 ptr: 7965
+R1 Word:wooden
+ R1 ptr: 3422
+R1 Word:word
+ R1 ptr: 706
+R1 Word:words
+ R1 ptr: 650
+R1 Word:wore
+ R1 ptr: 22626
+R1 Word:work
+ R1 ptr: 2152
+R1 Word:works
+ R1 ptr: 13892
+R1 Word:world
+ R1 ptr: 287
+R1 Word:worm
+ R1 ptr: 4637
+R1 Word:worried
+ R1 ptr: 18894
+R1 Word:worry
+ R1 ptr: 8188
+R1 Word:worse
+ R1 ptr: 3305
+R1 Word:worth
+ R1 ptr: 109
+R1 Word:would
+ R1 ptr: 107
+R1 Word:wouldn
+ R1 ptr: 502
+R1 Word:wow
+ R1 ptr: 11997
+R1 Word:wrapping
+ R1 ptr: 5810
+R1 Word:wretched
+ R1 ptr: 9474
+R1 Word:wriggling
+ R1 ptr: 10242
+R1 Word:write
+ R1 ptr: 6802
+R1 Word:writhing
+ R1 ptr: 20026
+R1 Word:writing
+ R1 ptr: 13618
+R1 Word:written
+ R1 ptr: 775
+R1 Word:wrong
+ R1 ptr: 2882
+R1 Word:wrote
+ R1 ptr: 23202
+R1 Word:x
+ R1 ptr: 20393
+R1 Word:xi
+ R1 ptr: 22423
+R1 Word:xii
+ R1 ptr: 24302
+R1 Word:yards
+ R1 ptr: 12611
+R1 Word:yawned
+ R1 ptr: 9576
+R1 Word:yawning
+ R1 ptr: 14647
+R1 Word:ye
+ R1 ptr: 7629
+R1 Word:year
+ R1 ptr: 14020
+R1 Word:years
+ R1 ptr: 26338
+R1 Word:yelled
+ R1 ptr: 20668
+R1 Word:yelp
+ R1 ptr: 8176
+R1 Word:yer
+ R1 ptr: 7139
+R1 Word:yes
+ R1 ptr: 618
+R1 Word:yesterday
+ R1 ptr: 2666
+R1 Word:yet
+ R1 ptr: 3823
+R1 Word:you
+ R1 ptr: 570
+R1 Word:young
+ R1 ptr: 5686
+R1 Word:your
+ R1 ptr: 1555
+R1 Word:yours
+ R1 ptr: 10480
+R1 Word:yourself
+ R1 ptr: 2443
+R1 Word:youth
+ R1 ptr: 9103
+R1 Word:zealand
+ R1 ptr: 728
+R1 Word:zigzag
+ R1 ptr: 9993
 ===============
+===============Imprimiendo Archivo 2
 R2 0	 Line occurence: 1
  R2 next: 4
 R2 1	 Line occurence: 1
@@ -57877,7 +57879,4 @@ R2 26407	 Line occurence: 3600
  R2 next: -1
 R2 26408	 Line occurence: 3600
  R2 next: -1
-
-Before SORT
-alice	adventures	in	wonderland	lewis	carroll	the	millennium	fulcrum	edition	chapter	i	down	rabbit	was	beginning	to	get	very	tired	of	sitting	by	her	sister	on	bank	and	having	nothing	do	once	or	twice	she	had	peeped	into	book	reading	but	it	no	pictures	conversations	what	is	use	a	thought	without	conversation	so	considering	own	mind	as	well	could	for	hot	day	made	feel	sleepy	stupid	whether	pleasure	making	daisy	would	be	worth	trouble	getting	up	picking	daisies	when	suddenly	white	with	pink	eyes	ran	close	there	remarkable	that	nor	did	think	much	out	way	hear	say	itself	oh	dear	shall	late	over	afterwards	occurred	ought	have	wondered	at	this	time	all	seemed	quite	natural	actually	took	watch	its	waistcoat	pocket	looked	then	hurried	started	feet	flashed	across	never	before	seen	either	take	burning	curiosity	field	after	fortunately	just	see	pop	large	under	hedge	another	moment	went	how	world	again	straight	like	tunnel	some	dipped	not	about	stopping	herself	found	falling	deep	fell	slowly	plenty	look	wonder	going	happen	next	first	tried	make	coming	too	dark	anything	sides	noticed	they	were	filled	cupboards	here	saw	maps	hung	upon	pegs	jar	from	one	shelves	passed	labelled	orange	marmalade	great	disappointment	empty	drop	fear	killing	somebody	managed	put	past	such	fall	tumbling	stairs	brave	me	home	why	wouldn	even	if	off	top	house	which	likely	true	come	an	end	many	miles	fallen	said	aloud	must	somewhere	near	centre	earth	let	four	thousand	you	learnt	several	things	sort	lessons	schoolroom	though	good	opportunity	showing	knowledge	listen	still	practice	yes	right	distance	latitude	longitude	got	idea	nice	grand	words	presently	began	through	funny	seem	among	people	walk	their	heads	downward	antipathies	rather	glad	listening	didn	sound	word	ask	them	name	country	know	please	ma	new	zealand	australia	curtsey	spoke	curtseying	air	manage	ignorant	little	girl	asking	perhaps	written	else	soon	talking	dinah	miss	should	cat	hope	remember	saucer	milk	tea	my	wish	are	mice	afraid	might	catch	bat	mouse	cats	eat	bats	saying	dreamy	sometimes	couldn	answer	question	matter	felt	dozing	begun	dream	walking	hand	earnestly	now	tell	truth	ever	thump	came	heap	sticks	dry	leaves	bit	hurt	jumped	overhead	long	passage	sight	hurrying	lost	away	wind	turned	corner	ears	whiskers	behind	longer	low	hall	lit	row	lamps	hanging	roof	doors	round	locked	been	side	other	trying	every	door	walked	sadly	middle	wondering	three	table	solid	glass	except	tiny	golden	key	belong	alas	locks	small	any	rate	open	however	second	curtain	fifteen	inches	high	lock	delight	fitted	opened	led	larger	than	rat	knelt	along	loveliest	garden	longed	wander	those	beds	bright	flowers	cool	fountains	head	doorway	go	poor	shoulders	shut	telescope	only	begin	happened	lately	few	indeed	really	impossible	waiting	back	half	hoping	find	rules	shutting	telescopes	bottle	certainly	neck	paper	label	drink	beautifully	printed	letters	wise	hurry	marked	poison	read	histories	children	who	burnt	eaten	wild	beasts	unpleasant	because	simple	friends	taught	red	poker	will	burn	hold	cut	your	finger	deeply	knife	usually	bleeds	forgotten	almost	certain	disagree	sooner	later	ventured	taste	finding	fact	mixed	flavour	cherry	custard	pine	roast	turkey	toffee	buttered	toast	finished	curious	feeling	ten	face	brightened	size	lovely	waited	minutes	shrink	further	nervous	altogether	candle	fancy	flame	blown	thing	while	more	decided	possibly	reach	plainly	best	climb	legs	slippery	sat	cried	crying	sharply	advise	leave	minute	generally	gave	advice	seldom	followed	scolded	severely	bring	tears	remembered	box	cheated	game	croquet	playing	against	child	fond	pretending	two	pretend	hardly	enough	left	respectable	person	eye	lying	cake	currants	makes	grow	can	smaller	creep	don	care	happens	ate	anxiously	holding	growing	surprised	remained	same	sure	eats	expecting	dull	life	common	set	work	ii	pool	curiouser	forgot	speak	english	opening	largest	far	shoes	stockings	dears	shan	able	deal	myself	kind	won	want	give	pair	boots	christmas	planning	carrier	sending	presents	odd	directions	foot	esq	hearthrug	fender	love	nonsense	struck	nine	hopeless	cry	ashamed	yourself	stop	shedding	gallons	until	reaching	heard	pattering	hastily	dried	returning	splendidly	dressed	kid	gloves	fan	he	trotting	muttering	himself	duchess	savage	kept	desperate	ready	help	timid	voice	sir	violently	dropped	skurried	darkness	hard	fanning	queer	everything	yesterday	usual	changed	night	morning	different	am	ah	puzzle	thinking	knew	age	ada	hair	goes	ringlets	mine	doesn	mabel	sorts	knows	besides	puzzling	try	used	times	five	twelve	six	thirteen	seven	twenty	multiplication	signify	geography	london	capital	paris	rome	wrong	doth	crossed	hands	lap	repeat	sounded	hoarse	strange	crocodile	improve	his	shining	tail	pour	waters	nile	scale	cheerfully	seems	grin	neatly	spread	claws	welcome	fishes	gently	smiling	jaws	live	poky	toys	play	learn	stay	putting	being	till	sudden	burst	alone	done	measure	nearly	guess	shrinking	rapidly	cause	avoid	narrow	escape	frightened	change	existence	speed	worse	declare	bad	these	slipped	splash	chin	salt	water	somehow	sea	case	railway	seaside	general	conclusion	wherever	coast	number	bathing	machines	digging	sand	wooden	spades	lodging	houses	station	wept	hadn	swam	punished	suppose	drowned	something	splashing	nearer	walrus	hippopotamus	talk	harm	o	swimming	speaking	brother	latin	grammar	inquisitively	wink	understand	daresay	french	william	conqueror	history	clear	notion	ago	ou	est	chatte	sentence	lesson	leap	quiver	fright	beg	pardon	animal	feelings	shrill	passionate	soothing	tone	angry	yet	show	our	quiet	lazily	sits	purring	nicely	fire	licking	paws	washing	soft	nurse	catching	bristling	offended	we	trembling	subject	family	always	hated	nasty	vulgar	dogs	eagerly	dog	terrier	curly	brown	fetch	throw	sit	dinner	belongs	farmer	says	useful	hundred	pounds	kills	rats	sorrowful	commotion	called	softly	pale	passion	us	shore	hate	crowded	birds	animals	duck	dodo	lory	eaglet	creatures	whole	party	iii	caucus	tale	assembled	draggled	feathers	fur	clinging	dripping	wet	cross	uncomfortable	course	consultation	familiarly	known	argument	last	sulky	older	better	allow	knowing	old	positively	refused	authority	ring	fixed	cold	ahem	important	driest	silence	whose	favoured	pope	submitted	wanted	leaders	accustomed	usurpation	conquest	edwin	morcar	earls	mercia	northumbria	ugh	shiver	frowning	politely	proceed	declared	him	stigand	patriotic	archbishop	canterbury	advisable	replied	crossly	means	frog	worm	notice	hurriedly	edgar	atheling	meet	offer	crown	conduct	moderate	insolence	normans	continued	turning	melancholy	solemnly	rising	move	meeting	adjourn	immediate	adoption	energetic	remedies	meaning	believe	bent	hide	smile	tittered	audibly	paused	inclined	explain	winter	race	circle	exact	shape	placed	running	liked	easy	hour	panting	has	pressed	forehead	position	shakespeare	rest	everybody	prizes	chorus	voices	asked	pointing	calling	confused	despair	pulled	comfits	luckily	handed	exactly	prize	gravely	thimble	presented	acceptance	elegant	short	speech	cheered	absurd	grave	dare	laugh	simply	bowed	looking	solemn	caused	noise	confusion	complained	theirs	ones	choked	patted	begged	promised	d	added	whisper	sad	sighing	call	fury	met	both	law	prosecute	denial	trial	cur	jury	judge	wasting	breath	cunning	condemn	death	attending	humbly	fifth	bend	angrily	knot	undo	insult	mean	pleaded	easily	growled	reply	finish	story	others	joined	shook	impatiently	quicker	pity	sighed	crab	daughter	lose	temper	tongue	young	snappishly	patience	oyster	addressing	nobody	particular	venture	pet	bird	sensation	magpie	wrapping	carefully	remarking	suit	throat	canary	bed	various	pretexts	moved	mentioned	lonely	footsteps	iv	sends	bill	executed	ferrets	where	guessed	hunting	nowhere	since	swim	vanished	completely	mary	ann	doing	run	quick	direction	pointed	mistake	housemaid	finds	neat	brass	plate	w	engraved	knocking	upstairs	lest	real	messages	fancying	directly	ordering	tidy	room	window	hoped	pairs	stood	nevertheless	uncorked	lips	interesting	whenever	does	expected	drunk	pressing	ceiling	stoop	save	broken	kneel	floor	effect	elbow	arm	curled	resource	chimney	whatever	become	magic	full	grew	chance	unhappy	pleasanter	wasn	ordered	rabbits	gone	fairy	fancied	write	grown	least	comfort	woman	shouldn	foolish	answered	taking	outside	stopped	trembled	forgetting	reason	inwards	attempt	proved	failure	snatch	shriek	crash	concluded	possible	cucumber	pat	apples	yer	honour	sounds	pronounced	arrum	goose	fills	business	whispers	coward	shrieks	pulling	hearing	rumbling	cartwheels	together	ladder	lad	em	tie	rope	bear	loose	slate	below	loud	master	shy	place	fireplace	kick	drew	scratching	scrambling	above	sharp	choke	fellow	feeble	squeaking	thank	ye	flustered	comes	jack	sky	dead	instantly	sense	moving	barrowful	doubt	shower	pebbles	rattling	hit	shouted	produced	surprise	cakes	lay	swallowed	delighted	crowd	lizard	held	guinea	giving	rush	appeared	safe	thick	wood	wandered	plan	excellent	arranged	difficulty	smallest	peering	trees	bark	enormous	puppy	feebly	stretching	paw	touch	coaxing	whistle	terribly	hungry	spite	picked	stick	whereupon	yelp	rushed	worry	dodged	thistle	keep	tumbled	heels	cart	trampled	series	charges	forwards	each	barking	hoarsely	mouth	faint	leant	buttercup	fanned	teaching	tricks	blades	grass	circumstances	mushroom	height	stretched	tiptoe	edge	immediately	caterpillar	arms	folded	quietly	smoking	hookah	v	addressed	languid	encouraging	shyly	present	sternly	clearly	sizes	confusing	isn	haven	turn	chrysalis	butterfly	may	contemptuously	brought	irritated	remarks	state	promising	swallowing	anger	wait	puffed	unfolded	busy	bee	father	man	incessantly	stand	youth	son	feared	injure	brain	perfectly	none	most	uncommonly	fat	pray	sage	grey	limbs	supple	ointment	shilling	sell	couple	weak	tougher	suet	bones	beak	argued	wife	muscular	strength	jaw	lasted	steady	balanced	eel	nose	awfully	clever	questions	airs	stuff	timidly	altered	decidedly	changing	often	contradicted	losing	content	wretched	rearing	upright	piteous	patiently	chose	yawned	crawled	merely	taller	shorter	thoughtfully	difficult	broke	nibbled	violent	blow	underneath	closely	swallow	morsel	lefthand	free	alarm	immense	length	rise	stalk	green	result	follow	shaking	distant	serpent	succeeded	curving	graceful	zigzag	dive	tops	wandering	hiss	draw	pigeon	flown	beating	wings	screamed	indignantly	repeated	subdued	sob	roots	banks	hedges	serpents	pleasing	puzzled	hatching	eggs	sleep	weeks	sorry	annoyed	taken	highest	tree	raising	needs	wriggling	invent	doubtfully	changes	deepest	contempt	girls	denying	telling	tasted	egg	truthful	silent	adding	matters	yours	raw	settled	nest	crouched	entangled	branches	untwist	pieces	nibbling	bringing	beautiful	whoever	lives	frighten	wits	righthand	vi	pig	pepper	footman	livery	considered	otherwise	judging	fish	rapped	loudly	knuckles	footmen	powdered	crept	producing	letter	invitation	queen	order	curls	laughed	ground	staring	stupidly	knocked	reasons	secondly	inside	extraordinary	within	constant	howling	sneezing	dish	kettle	between	instance	knock	uncivil	remarked	tomorrow	skimming	grazed	maybe	louder	told	dreadful	muttered	argue	drive	crazy	repeating	remark	variations	days	whistling	desperately	idiotic	kitchen	smoke	stool	nursing	baby	cook	leaning	stirring	cauldron	soup	sneezed	occasionally	alternately	pause	sneeze	hearth	grinning	ear	manners	grins	cheshire	violence	courage	grinned	pleased	introduce	fix	throwing	saucepans	plates	dishes	already	blows	jumping	agony	terror	precious	unusually	saucepan	flew	carried	minded	growl	faster	advantage	takes	hours	axis	axes	chop	glanced	meant	hint	busily	bother	abide	figures	singing	lullaby	shake	line	roughly	boy	beat	sneezes	annoy	teases	wow	sang	verse	song	tossing	howled	thoroughly	enjoy	pleases	flinging	threw	frying	missed	caught	shaped	creature	star	snorting	steam	doubling	straightening	proper	twist	tight	prevent	undoing	kill	murder	grunted	grunt	expressing	snout	also	extremely	sobbing	seriously	sobbed	neither	less	carry	relieved	trot	dreadfully	ugly	handsome	pigs	startled	seeing	bough	yards	natured	teeth	treated	respect	puss	wider	depends	explanation	denied	waving	hatter	march	hare	visit	mad	grant	growls	wags	wag	therefore	growling	invited	happening	became	appear	hatters	raving	branch	fig	appearing	vanishing	giddy	ending	farther	chimneys	thatched	raised	towards	instead	vii	front	dormouse	fast	asleep	using	cushion	resting	elbows	wine	civil	laid	wants	cutting	personal	severity	rude	wide	raven	writing	fun	riddles	breathe	ravens	break	month	uneasily	fourth	butter	works	meekly	crumbs	grumbled	bread	gloomily	cup	shoulder	tells	year	readily	stays	poured	riddle	slightest	wearily	waste	answers	cautiously	music	accounts	terms	clock	twinkling	mournfully	quarrelled	spoon	concert	given	hearts	sing	twinkle	fly	pinch	bawled	murdering	exclaimed	mournful	sigh	wash	whiles	interrupted	yawning	vote	lady	alarmed	proposal	wake	pinched	fellows	sisters	names	elsie	lacie	tillie	lived	bottom	interest	eating	drinking	treacle	ill	ways	living	opinion	triumphantly	helped	sh	sulkily	interrupt	consented	learning	promise	clean	unwillingly	upset	offend	choosing	interrupting	rubbing	manner	begins	m	closed	doze	woke	moon	memory	muchness	drawing	piece	rudeness	disgust	teapot	stupidest	leading	today	unlocking	flower	viii	rose	entrance	roses	gardeners	painting	paint	jogged	blame	deserved	beheaded	spoken	tulip	onions	flung	brush	unjust	chanced	watching	checked	afore	themselves	flat	faces	eager	soldiers	carrying	clubs	oblong	corners	courtiers	ornamented	diamonds	royal	merrily	couples	guests	mostly	kings	queens	recognised	noticing	knave	king	crimson	velvet	procession	doubtful	lie	rule	processions	opposite	smiled	idiot	majesty	pack	cards	needn	rosetree	pattern	backs	glaring	beast	consider	bowing	humble	knee	meanwhile	examining	remaining	execute	unfortunate	protection	marched	evidently	roared	fine	peeping	hush	whispered	execution	boxed	scream	laughter	places	thunder	ridges	furrows	balls	hedgehogs	mallets	flamingoes	double	arches	chief	managing	flamingo	body	tucked	comfortably	straightened	hedgehog	expression	bursting	laughing	provoking	unrolled	act	crawling	ridge	furrow	send	doubled	parts	players	played	turns	quarrelling	fighting	furious	stamping	shouting	uneasy	dispute	beheading	alive	appearance	nodded	account	someone	fairly	complaining	quarrel	oneself	attends	arch	croqueted	win	finishing	friend	kiss	likes	impertinent	removed	passing	settling	difficulties	executioner	screaming	search	engaged	fight	croqueting	helpless	collected	appealed	settle	arguments	unless	weren	anxious	prison	arrow	fading	entirely	disappeared	wildly	ix	mock	turtle	affectionately	pleasant	hopeful	vinegar	sour	camomile	bitter	barley	sweet	stingy	forget	moral	hasn	tut	squeezed	closer	keeping	uncomfortably	bore	tis	minding	morals	waist	experiment	bite	mustard	feather	flock	mineral	agree	attended	vegetable	imagine	cheap	birthday	dig	worried	died	favourite	linked	hers	tremble	thunderstorm	fair	warning	choice	absence	shade	delay	cost	whom	sentenced	custody	company	pardoned	executions	gryphon	sun	picture	lazy	leaving	rubbed	watched	chuckled	executes	ledge	rock	heart	pitied	sorrow	hollow	occasional	exclamation	hjckrrh	heavy	calmly	school	tortoise	sink	mayn	educations	proud	extras	learned	relief	ours	afford	regular	inquired	reeling	writhing	arithmetic	ambition	distraction	uglification	derision	lifted	uglifying	beautify	uglify	simpleton	encouraged	mystery	counting	subjects	flappers	ancient	modern	seaography	drawling	conger	week	fainting	coils	stiff	classics	grief	hid	lessen	eleventh	holiday	twelfth	games	x	lobster	quadrille	flapper	sobs	bone	punching	recovered	cheeks	introduced	delightful	dance	form	lines	seals	turtles	salmon	cleared	jelly	advance	partner	partners	lobsters	retire	bound	somersault	capering	yelled	land	figure	dropping	pretty	dancing	treading	toes	forepaws	mark	whiting	snail	porpoise	shingle	join	askance	thanked	kindly	scaly	england	france	beloved	dinn	tails	mouths	thrown	shiny	blacking	soles	eels	shrimp	thoughts	obliged	anywhere	journey	purpose	impatient	explanations	gained	listeners	part	sluggard	baked	sugar	eyelids	trims	belt	buttons	editions	follows	sands	gay	lark	contemptuous	tones	shark	tide	rises	sharks	around	tremulous	uncommon	explained	persisted	disobey	owl	panther	sharing	pie	gravy	meat	share	treat	boon	permitted	received	fork	banquet	hm	accounting	tastes	rich	tureen	dainties	evening	beau	soo	e	cares	pennyworth	beauti	panted	faintly	breeze	xi	stole	tarts	seated	throne	arrived	standing	chains	soldier	guard	trumpet	scroll	parchment	court	refreshments	pass	justice	books	wig	wore	frontispiece	comfortable	becoming	jurors	rightly	slates	indignant	spectacles	spell	neighbour	muddle	pencil	squeaked	quickly	juror	herald	accusation	blew	blasts	summer	verdict	witness	teacup	sent	fourteenth	fifteenth	sixteenth	wrote	dates	reduced	shillings	pence	hat	stolen	memorandum	fidgeted	evidence	spot	encourage	shifting	remain	squeeze	boldly	reasonable	pace	ridiculous	fashion	officers	list	singers	thin	t	dunce	twinkled	deny	denies	miserable	speaker	suppressed	canvas	bag	tied	strings	newspapers	trials	attempts	applause	understood	lower	officer	folding	collar	shrieked	behead	suppress	undertone	ache	fumbled	xii	flurry	tipped	skirt	upsetting	jurymen	sprawling	reminding	globe	goldfish	accidentally	dismay	accident	vague	die	cannot	emphasis	haste	downwards	unable	signifies	shock	pencils	diligently	overcome	gazing	unimportant	respectful	note	cackled	forty	persons	mile	invented	oldest	prisoner	directed	verses	handwriting	queerest	imitated	prove	signed	sign	mischief	honest	clapping	proves	guilt	character	push	returned	involved	affair	trusts	fit	obstacle	ourselves	secret	sixpence	atom	attempted	saves	spreading	cardboard	clearer	fits	furiously	inkstand	ink	trickling	pun	twentieth	purple	flying	brushing	fluttered	kissed	wonderful	setting	dreaming	dreamed	clasped	toss	listened	rustled	splashed	neighbouring	rattle	teacups	shared	meal	crashed	choking	believed	reality	rustling	rippling	reeds	tinkling	sheep	bells	cries	shepherd	noises	clamour	farm	lowing	cattle	lastly	pictured	riper	years	loving	childhood	gather	sorrows	joys	remembering	happy	AFTER SORT
-a	abide	able	about	above	absence	absurd	acceptance	accident	accidentally	account	accounting	accounts	accusation	accustomed	ache	across	act	actually	ada	added	adding	addressed	addressing	adjourn	adoption	advance	advantage	adventures	advice	advisable	advise	affair	affectionately	afford	afore	afraid	after	afterwards	again	against	age	ago	agony	agree	ah	ahem	air	airs	alarm	alarmed	alas	alice	alive	all	allow	almost	alone	along	aloud	already	also	altered	alternately	altogether	always	am	ambition	among	an	ancient	and	anger	angrily	angry	animal	animals	ann	annoy	annoyed	another	answer	answered	answers	antipathies	anxious	anxiously	any	anything	anywhere	appealed	appear	appearance	appeared	appearing	applause	apples	arch	archbishop	arches	are	argue	argued	argument	arguments	arithmetic	arm	arms	around	arranged	arrived	arrow	arrum	as	ashamed	ask	askance	asked	asking	asleep	assembled	at	ate	atheling	atom	attempt	attempted	attempts	attended	attending	attends	audibly	australia	authority	avoid	away	awfully	axes	axis	baby	back	backs	bad	bag	baked	balanced	balls	bank	banks	banquet	bark	barking	barley	barrowful	bat	bathing	bats	bawled	be	beak	bear	beast	beasts	beat	beating	beau	beauti	beautiful	beautifully	beautify	became	because	become	becoming	bed	beds	bee	been	before	beg	began	begged	begin	beginning	begins	begun	behead	beheaded	beheading	behind	being	believe	believed	bells	belong	belongs	beloved	below	belt	bend	bent	besides	best	better	between	bill	bird	birds	birthday	bit	bite	bitter	blacking	blades	blame	blasts	bleeds	blew	blow	blown	blows	body	boldly	bone	bones	book	books	boon	boots	bore	both	bother	bottle	bottom	bough	bound	bowed	bowing	box	boxed	boy	brain	branch	branches	brass	brave	bread	break	breath	breathe	breeze	bright	brightened	bring	bringing	bristling	broke	broken	brother	brought	brown	brush	brushing	burn	burning	burnt	burst	bursting	busily	business	busy	but	butter	buttercup	buttered	butterfly	buttons	by	cackled	cake	cakes	call	called	calling	calmly	came	camomile	can	canary	candle	cannot	canterbury	canvas	capering	capital	cardboard	cards	care	carefully	cares	carried	carrier	carroll	carry	carrying	cart	cartwheels	case	cat	catch	catching	caterpillar	cats	cattle	caucus	caught	cauldron	cause	caused	cautiously	ceiling	centre	certain	certainly	chains	chance	chanced	change	changed	changes	changing	chapter	character	charges	chatte	cheap	cheated	checked	cheeks	cheered	cheerfully	cherry	cheshire	chief	child	childhood	children	chimney	chimneys	chin	choice	choke	choked	choking	choosing	chop	chorus	chose	christmas	chrysalis	chuckled	circle	circumstances	civil	clamour	clapping	clasped	classics	claws	clean	clear	cleared	clearer	clearly	clever	climb	clinging	clock	close	closed	closely	closer	clubs	coast	coaxing	coils	cold	collar	collected	come	comes	comfits	comfort	comfortable	comfortably	coming	common	commotion	company	complained	complaining	completely	concert	concluded	conclusion	condemn	conduct	confused	confusing	confusion	conger	conqueror	conquest	consented	consider	considered	considering	constant	consultation	contempt	contemptuous	contemptuously	content	continued	contradicted	conversation	conversations	cook	cool	corner	corners	cost	could	couldn	counting	country	couple	couples	courage	course	court	courtiers	coward	crab	crash	crashed	crawled	crawling	crazy	creature	creatures	creep	crept	cried	cries	crimson	crocodile	croquet	croqueted	croqueting	cross	crossed	crossly	crouched	crowd	crowded	crown	crumbs	cry	crying	cucumber	cunning	cup	cupboards	cur	curiosity	curious	curiouser	curled	curls	curly	currants	curtain	curtsey	curtseying	curving	cushion	custard	custody	cut	cutting	d	dainties	daisies	daisy	dance	dancing	dare	daresay	dark	darkness	dates	daughter	day	days	dead	deal	dear	dears	death	decided	decidedly	declare	declared	deep	deepest	deeply	delay	delight	delighted	delightful	denial	denied	denies	deny	denying	depends	derision	deserved	despair	desperate	desperately	diamonds	did	didn	die	died	different	difficult	difficulties	difficulty	dig	digging	diligently	dinah	dinn	dinner	dipped	directed	direction	directions	directly	disagree	disappeared	disappointment	disgust	dish	dishes	dismay	disobey	dispute	distance	distant	distraction	dive	do	dodged	dodo	does	doesn	dog	dogs	doing	don	done	door	doors	doorway	dormouse	doth	double	doubled	doubling	doubt	doubtful	doubtfully	down	downward	downwards	doze	dozing	draggled	draw	drawing	drawling	dreadful	dreadfully	dream	dreamed	dreaming	dreamy	dressed	drew	dried	driest	drink	drinking	dripping	drive	drop	dropped	dropping	drowned	drunk	dry	duchess	duck	dull	dunce	e	each	eager	eagerly	eaglet	ear	earls	earnestly	ears	earth	easily	easy	eat	eaten	eating	eats	edgar	edge	edition	editions	educations	edwin	eel	eels	effect	egg	eggs	either	elbow	elbows	elegant	eleventh	else	elsie	em	emphasis	empty	encourage	encouraged	encouraging	end	ending	energetic	engaged	england	english	engraved	enjoy	enormous	enough	entangled	entirely	entrance	escape	esq	est	even	evening	ever	every	everybody	everything	evidence	evidently	exact	exactly	examining	excellent	except	exclaimed	exclamation	execute	executed	executes	execution	executioner	executions	existence	expected	expecting	experiment	explain	explained	explanation	explanations	expressing	expression	extraordinary	extras	extremely	eye	eyelids	eyes	face	faces	fact	fading	failure	faint	fainting	faintly	fair	fairly	fairy	fall	fallen	falling	familiarly	family	fan	fancied	fancy	fancying	fanned	fanning	far	farm	farmer	farther	fashion	fast	faster	fat	father	favoured	favourite	fear	feared	feather	feathers	feeble	feebly	feel	feeling	feelings	feet	fell	fellow	fellows	felt	fender	ferrets	fetch	few	fidgeted	field	fifteen	fifteenth	fifth	fig	fight	fighting	figure	figures	filled	fills	find	finding	finds	fine	finger	finish	finished	finishing	fire	fireplace	first	fish	fishes	fit	fits	fitted	five	fix	fixed	flame	flamingo	flamingoes	flapper	flappers	flashed	flat	flavour	flew	flinging	flock	floor	flower	flowers	flown	flung	flurry	flustered	fluttered	fly	flying	folded	folding	follow	followed	follows	fond	foolish	foot	footman	footmen	footsteps	for	forehead	forepaws	forget	forgetting	forgot	forgotten	fork	form	fortunately	forty	forwards	found	fountains	four	fourteenth	fourth	france	free	french	friend	friends	fright	frighten	frightened	frog	from	front	frontispiece	frowning	frying	fulcrum	full	fumbled	fun	funny	fur	furious	furiously	furrow	furrows	further	fury	gained	gallons	game	games	garden	gardeners	gather	gave	gay	gazing	general	generally	gently	geography	get	getting	giddy	girl	girls	give	given	giving	glad	glanced	glaring	glass	globe	gloomily	gloves	go	goes	going	golden	goldfish	gone	good	goose	got	graceful	grammar	grand	grant	grass	grave	gravely	gravy	grazed	great	green	grew	grey	grief	grin	grinned	grinning	grins	ground	grow	growing	growl	growled	growling	growls	grown	grumbled	grunt	grunted	gryphon	guard	guess	guessed	guests	guilt	guinea	had	hadn	hair	half	hall	hand	handed	hands	handsome	handwriting	hanging	happen	happened	happening	happens	happy	hard	hardly	hare	harm	has	hasn	haste	hastily	hat	hatching	hate	hated	hatter	hatters	have	haven	having	he	head	heads	heap	hear	heard	hearing	heart	hearth	hearthrug	hearts	heavy	hedge	hedgehog	hedgehogs	hedges	heels	height	held	help	helped	helpless	her	herald	here	hers	herself	hid	hide	high	highest	him	himself	hint	hippopotamus	his	hiss	histories	history	hit	hjckrrh	hm	hoarse	hoarsely	hold	holding	holiday	hollow	home	honest	honour	hookah	hope	hoped	hopeful	hopeless	hoping	hot	hour	hours	house	housemaid	houses	how	however	howled	howling	humble	humbly	hundred	hung	hungry	hunting	hurried	hurriedly	hurry	hurrying	hurt	hush	i	idea	idiot	idiotic	if	ignorant	ii	iii	ill	imagine	imitated	immediate	immediately	immense	impatient	impatiently	impertinent	important	impossible	improve	in	incessantly	inches	inclined	indeed	indignant	indignantly	injure	ink	inkstand	inquired	inquisitively	inside	insolence	instance	instantly	instead	insult	interest	interesting	interrupt	interrupted	interrupting	into	introduce	introduced	invent	invented	invitation	invited	involved	inwards	irritated	is	isn	it	its	itself	iv	ix	jack	jar	jaw	jaws	jelly	jogged	join	joined	journey	joys	judge	judging	jumped	jumping	juror	jurors	jury	jurymen	just	justice	keep	keeping	kept	kettle	key	kick	kid	kill	killing	kills	kind	kindly	king	kings	kiss	kissed	kitchen	knave	knee	kneel	knelt	knew	knife	knock	knocked	knocking	knot	know	knowing	knowledge	known	knows	knuckles	label	labelled	lacie	lad	ladder	lady	laid	lamps	land	languid	lap	large	larger	largest	lark	last	lasted	lastly	late	lately	later	latin	latitude	laugh	laughed	laughing	laughter	law	lay	lazily	lazy	leaders	leading	leaning	leant	leap	learn	learned	learning	learnt	least	leave	leaves	leaving	led	ledge	left	lefthand	legs	length	less	lessen	lesson	lessons	lest	let	letter	letters	lewis	licking	lie	life	lifted	like	liked	likely	likes	limbs	line	lines	linked	lips	list	listen	listened	listeners	listening	lit	little	live	lived	livery	lives	living	lizard	lobster	lobsters	lock	locked	locks	lodging	london	lonely	long	longed	longer	longitude	look	looked	looking	loose	lory	lose	losing	lost	loud	louder	loudly	love	loveliest	lovely	loving	low	lower	lowing	luckily	lullaby	lying	m	ma	mabel	machines	mad	made	magic	magpie	majesty	make	makes	making	mallets	man	manage	managed	managing	manner	manners	many	maps	march	marched	mark	marked	marmalade	mary	master	matter	matters	may	maybe	mayn	me	meal	mean	meaning	means	meant	meanwhile	measure	meat	meekly	meet	meeting	melancholy	memorandum	memory	mentioned	mercia	merely	merrily	messages	met	mice	middle	might	mile	miles	milk	millennium	mind	minded	minding	mine	mineral	minute	minutes	mischief	miserable	miss	missed	mistake	mixed	mock	moderate	modern	moment	month	moon	moral	morals	morcar	more	morning	morsel	most	mostly	mournful	mournfully	mouse	mouth	mouths	move	moved	moving	much	muchness	muddle	multiplication	murder	murdering	muscular	mushroom	music	must	mustard	muttered	muttering	my	myself	mystery	name	names	narrow	nasty	natural	natured	near	nearer	nearly	neat	neatly	neck	needn	needs	neighbour	neighbouring	neither	nervous	nest	never	nevertheless	new	newspapers	next	nibbled	nibbling	nice	nicely	night	nile	nine	no	nobody	nodded	noise	noises	none	nonsense	nor	normans	northumbria	nose	not	note	nothing	notice	noticed	noticing	notion	now	nowhere	number	nurse	nursing	o	obliged	oblong	obstacle	occasional	occasionally	occurred	odd	of	off	offend	offended	offer	officer	officers	often	oh	ointment	old	older	oldest	on	once	one	ones	oneself	onions	only	open	opened	opening	opinion	opportunity	opposite	or	orange	order	ordered	ordering	ornamented	other	others	otherwise	ou	ought	our	ours	ourselves	out	outside	over	overcome	overhead	owl	own	oyster	pace	pack	paint	painting	pair	pairs	pale	panted	panther	panting	paper	parchment	pardon	pardoned	paris	part	particular	partner	partners	parts	party	pass	passage	passed	passing	passion	passionate	past	pat	patience	patiently	patriotic	patted	pattering	pattern	pause	paused	paw	paws	pebbles	peeped	peeping	peering	pegs	pence	pencil	pencils	pennyworth	people	pepper	perfectly	perhaps	permitted	persisted	person	personal	persons	pet	picked	picking	picture	pictured	pictures	pie	piece	pieces	pig	pigeon	pigs	pinch	pinched	pine	pink	piteous	pitied	pity	place	placed	places	plainly	plan	planning	plate	plates	play	played	players	playing	pleaded	pleasant	pleasanter	please	pleased	pleases	pleasing	pleasure	plenty	pocket	pointed	pointing	poison	poker	poky	politely	pool	poor	pop	pope	porpoise	position	positively	possible	possibly	pounds	pour	poured	powdered	practice	pray	precious	present	presented	presently	presents	pressed	pressing	pretend	pretending	pretexts	pretty	prevent	printed	prison	prisoner	prize	prizes	proceed	procession	processions	produced	producing	promise	promised	promising	pronounced	proper	proposal	prosecute	protection	proud	prove	proved	proves	provoking	puffed	pulled	pulling	pun	punching	punished	puppy	purple	purpose	purring	push	puss	put	putting	puzzle	puzzled	puzzling	quadrille	quarrel	quarrelled	quarrelling	queen	queens	queer	queerest	question	questions	quick	quicker	quickly	quiet	quietly	quite	quiver	rabbit	rabbits	race	railway	raised	raising	ran	rapidly	rapped	rat	rate	rather	rats	rattle	rattling	raven	ravens	raving	raw	reach	reaching	read	readily	reading	ready	real	reality	really	rearing	reason	reasonable	reasons	received	recognised	recovered	red	reduced	reeds	reeling	refreshments	refused	regular	relief	relieved	remain	remained	remaining	remark	remarkable	remarked	remarking	remarks	remedies	remember	remembered	remembering	reminding	removed	repeat	repeated	repeating	replied	reply	resource	respect	respectable	respectful	rest	resting	result	retire	returned	returning	rich	riddle	riddles	ridge	ridges	ridiculous	right	righthand	rightly	ring	ringlets	riper	rippling	rise	rises	rising	roared	roast	rock	rome	roof	room	roots	rope	rose	roses	rosetree	roughly	round	row	royal	rubbed	rubbing	rude	rudeness	rule	rules	rumbling	run	running	rush	rushed	rustled	rustling	sad	sadly	safe	sage	said	salmon	salt	same	sand	sands	sang	sat	saucepan	saucepans	saucer	savage	save	saves	saw	say	saying	says	scale	scaly	school	schoolroom	scolded	scrambling	scratching	scream	screamed	screaming	scroll	sea	seals	seaography	search	seaside	seated	second	secondly	secret	see	seeing	seem	seemed	seems	seen	seldom	sell	send	sending	sends	sensation	sense	sent	sentence	sentenced	series	seriously	serpent	serpents	set	setting	settle	settled	settling	seven	several	severely	severity	sh	shade	shake	shakespeare	shaking	shall	shan	shape	shaped	share	shared	sharing	shark	sharks	sharp	sharply	she	shedding	sheep	shelves	shepherd	shifting	shilling	shillings	shingle	shining	shiny	shiver	shock	shoes	shook	shore	short	shorter	should	shoulder	shoulders	shouldn	shouted	shouting	show	shower	showing	shriek	shrieked	shrieks	shrill	shrimp	shrink	shrinking	shut	shutting	shy	shyly	side	sides	sigh	sighed	sighing	sight	sign	signed	signifies	signify	silence	silent	simple	simpleton	simply	since	sing	singers	singing	sink	sir	sister	sisters	sit	sits	sitting	six	sixpence	sixteenth	size	sizes	skimming	skirt	skurried	sky	slate	slates	sleep	sleepy	slightest	slipped	slippery	slowly	sluggard	small	smaller	smallest	smile	smiled	smiling	smoke	smoking	snail	snappishly	snatch	sneeze	sneezed	sneezes	sneezing	snorting	snout	so	sob	sobbed	sobbing	sobs	soft	softly	soldier	soldiers	solemn	solemnly	soles	solid	some	somebody	somehow	someone	somersault	something	sometimes	somewhere	son	song	soo	soon	sooner	soothing	sorrow	sorrowful	sorrows	sorry	sort	sorts	sound	sounded	sounds	soup	sour	spades	speak	speaker	speaking	spectacles	speech	speed	spell	spite	splash	splashed	splashing	splendidly	spoke	spoken	spoon	spot	sprawling	spread	spreading	squeaked	squeaking	squeeze	squeezed	stairs	stalk	stamping	stand	standing	star	staring	started	startled	state	station	stay	stays	steady	steam	sternly	stick	sticks	stiff	stigand	still	stingy	stirring	stockings	stole	stolen	stood	stool	stoop	stop	stopped	stopping	story	straight	straightened	straightening	strange	strength	stretched	stretching	strings	struck	stuff	stupid	stupidest	stupidly	subdued	subject	subjects	submitted	succeeded	such	sudden	suddenly	suet	sugar	suit	sulkily	sulky	summer	sun	supple	suppose	suppress	suppressed	sure	surprise	surprised	swallow	swallowed	swallowing	swam	sweet	swim	swimming	t	table	tail	tails	take	taken	takes	taking	tale	talk	talking	taller	tarts	taste	tasted	tastes	taught	tea	teaching	teacup	teacups	teapot	tears	teases	teeth	telescope	telescopes	tell	telling	tells	temper	ten	terms	terribly	terrier	terror	than	thank	thanked	that	thatched	the	their	theirs	them	themselves	then	there	therefore	these	they	thick	thimble	thin	thing	things	think	thinking	thirteen	this	thistle	thoroughly	those	though	thought	thoughtfully	thoughts	thousand	three	threw	throat	throne	through	throw	throwing	thrown	thump	thunder	thunderstorm	tide	tidy	tie	tied	tight	till	tillie	time	times	timid	timidly	tinkling	tiny	tipped	tiptoe	tired	tis	tittered	to	toast	today	toes	toffee	together	told	tomorrow	tone	tones	tongue	too	took	top	tops	tortoise	toss	tossing	touch	tougher	towards	toys	trampled	treacle	treading	treat	treated	tree	trees	tremble	trembled	trembling	tremulous	trial	trials	trickling	tricks	tried	trims	triumphantly	trot	trotting	trouble	true	trumpet	trusts	truth	truthful	try	trying	tucked	tulip	tumbled	tumbling	tunnel	tureen	turkey	turn	turned	turning	turns	turtle	turtles	tut	twelfth	twelve	twentieth	twenty	twice	twinkle	twinkled	twinkling	twist	two	ugh	uglification	uglify	uglifying	ugly	unable	uncivil	uncomfortable	uncomfortably	uncommon	uncommonly	uncorked	under	underneath	understand	understood	undertone	undo	undoing	uneasily	uneasy	unfolded	unfortunate	unhappy	unimportant	unjust	unless	unlocking	unpleasant	unrolled	until	untwist	unusually	unwillingly	up	upon	upright	upset	upsetting	upstairs	us	use	used	useful	using	usual	usually	usurpation	v	vague	vanished	vanishing	variations	various	vegetable	velvet	venture	ventured	verdict	verse	verses	very	vi	vii	viii	vinegar	violence	violent	violently	visit	voice	voices	vote	vulgar	w	wag	wags	waist	waistcoat	wait	waited	waiting	wake	walk	walked	walking	walrus	wander	wandered	wandering	want	wanted	wants	warning	was	wash	washing	wasn	waste	wasting	watch	watched	watching	water	waters	waving	way	ways	we	weak	wearily	week	weeks	welcome	well	went	wept	were	weren	wet	what	whatever	when	whenever	where	whereupon	wherever	whether	which	while	whiles	whiskers	whisper	whispered	whispers	whistle	whistling	white	whiting	who	whoever	whole	whom	whose	why	wide	wider	wife	wig	wild	wildly	will	william	win	wind	window	wine	wings	wink	winter	wise	wish	with	within	without	witness	wits	woke	woman	won	wonder	wondered	wonderful	wondering	wonderland	wood	wooden	word	words	wore	work	works	world	worm	worried	worry	worse	worth	would	wouldn	wow	wrapping	wretched	wriggling	write	writhing	writing	written	wrong	wrote	x	xi	xii	yards	yawned	yawning	ye	year	years	yelled	yelp	yer	yes	yesterday	yet	you	young	your	yours	yourself	youth	zealand	zigzag	
+===============

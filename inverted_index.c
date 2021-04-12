@@ -2,19 +2,20 @@
 #include <string.h>
 #include <sys/types.h>
 #include <stdlib.h>
+/* INVERTED INDEX GENERATOR*/
 
 typedef struct record1 {
-  char word[50];    // key
+  char word[50];    // palabra o llave
   int ptr;      // posicion de primer record2 en el archivo 2
 } record1;
 
 typedef struct record2 {
-  int line; // linea en el archivo Alice
+  int line; // linea en el archivo .txt
   int next; // sig posicion dentro de A2
 } record2;
 
 typedef struct {
-  record1* array;  // will store pointers to record1 structs
+  record1* array;  // guarda estructuras record1 
   size_t used;
   size_t size;
 } Array;
@@ -39,9 +40,10 @@ void testArray(){
 
 int compareUser(const void *v1, const void *v2)
 {
-    const struct record1* r1 = v1;
-    const struct record1* r2 = v2;
-    return strcmp(r1->word, r2->word);
+  // comparación para ordenamiento de registros 1
+  const struct record1* r1 = v1;
+  const struct record1* r2 = v2;
+  return strcmp(r1->word, r2->word);
 }
 
 record1 rec1Arr [4];
@@ -49,7 +51,7 @@ record1 rec1Arr [4];
 int traverseArchivo1(FILE* ar, char* target) {
   // busca secuencialmente el target string dentro de archivo 1
   // devuelve la posición donde se encontró, -1 si no está.
-  int i=0;
+  int i = 0;
   while (fseek(ar, sizeof(record1)*i, SEEK_SET) == 0){
     record1 r1;
     fread(&r1, sizeof(record1), 1, ar);
@@ -104,7 +106,7 @@ int pruebaSort() {
   printf("Creando elems\n");
   record1* r = (record1 *) malloc(sizeof(record1));
   r->ptr = 1;
-  strcpy(r->word, "wonderLand");
+  strcpy(r->word, "wonderland");
 
   record1* r1 = (record1 *) malloc(sizeof(record1));
   r->ptr = 1;
@@ -123,7 +125,7 @@ int pruebaSort() {
   strcpy(r4->word, "hat");
   
   printf("Insertando elems\n");
-  insertArray(&a, *r);  // automatically resizes as necessary
+  insertArray(&a, *r);
   insertArray(&a, *r1);
   insertArray(&a, *r2);
   insertArray(&a, *r3);
@@ -247,59 +249,29 @@ int main(void) {
     }
     line_index++;  // next line counter
   }
+
+  qsort(a.array, a.used, sizeof(record1), compareUser);
+  fseek(archivo1, 0, SEEK_SET);
+  
+  for(int i=0; i<a.used; i++) {
+    fwrite(&(a.array[i]), sizeof(record1), 1, archivo1);
+  }
+  
+  printf("===============Imprimiendo Archivo 1\n");
   imprimirArchivo1(archivo1);
   printf("===============\n");
+  printf("===============Imprimiendo Archivo 2\n");
   imprimirArchivo2(archivo2);
-  putchar('\n');
-  printf("Before SORT\n");
-   for(int i=0; i<a.used; i++){
-       printf("%s\t", a.array[i].word);
-  }
-  qsort(a.array, a.used, sizeof(record1), compareUser);
-  printf("AFTER SORT\n");
-  for(int i=0; i<a.used; i++) {
-    printf("%s\t", a.array[i].word);
-  }
+  printf("===============\n");
   fclose(archivo1);
-
-  // for(int i= 0; i<20; i++){
-  //   record2 r2;
-  //   r2.line = i*10;
-  //   r2.next =  50;
-  //   fwrite(&r2, sizeof(record2),1, archivo1);
-  // }
-/*
-  fseek(ar, sizeof(record2)*5, SEEK_SET);
-  record2 r2;
-  fread(&r2, sizeof(record2), 1, ar);
-  printf("line %d , next %d\n", r2.line, r2.next);
-  printf("Tamaño record2 %zu", sizeof(record2));
-  fclose(ar);
-*/
- 
-    //  strcpy(rec1Arr[0].word, "WonderLand");
-    //  rec1Arr[0].ptr=-1;
-    //  strcpy(rec1Arr[1].word, "Alice");
-    //  rec1Arr[1].ptr=-1;
-    //  strcpy(rec1Arr[0].word, "Hat");
-    //  rec1Arr[0].ptr=-1;
-    //  strcpy(rec1Arr[1].word, "Bunny");
-    //  rec1Arr[1].ptr=-1;
-    //  printf("Before sort: %s", rec1Arr[0].word);
-    //  printf("%s", rec1Arr[1].word);
-    //  printf("%s", rec1Arr[2].word);
-    //  printf("%s\n", rec1Arr[3].word);
-    //  qsort(rec1Arr, 2, sizeof(record1), compareUser);
-    //  printf("After sort: %s", rec1Arr[0].word);
-    //  printf("%s", rec1Arr[1].word);
-    //  printf("%s", rec1Arr[2].word);
-    //  printf("%s\n", rec1Arr[3].word);
-
-  return 0;
+  fclose(archivo2);
+  int len = a.used;
+  printf("\n\n\n%d", len);
+  freeArray(&a);
+  return len;
 }
 
 /* DYNAMIC ARRAY METHODS */
-
 // initialize an array of record1 pointers
 void initArray(Array* a, size_t initialSize) {
   a->array = malloc(initialSize * sizeof(record1));
