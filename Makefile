@@ -1,7 +1,10 @@
-def: files
+last: first
 	gcc -o wr word_retrieval.c
 	./wr
 
-files: 
-	gcc -o ex inverted_index.c
-	./ex
+first: 
+	gcc -o inv inverted_index.c
+	./inv
+
+clean:
+	rm archivo1 archivo2 inv wr

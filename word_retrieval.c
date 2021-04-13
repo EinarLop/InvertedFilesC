@@ -82,6 +82,13 @@ int main() {
   // Open our inverted index files.
   FILE * archivo1 = fopen("archivo1", "rb");
   FILE * archivo2 = fopen("archivo2", "rb");
+
+  // Cuenta palabras en archivo1
+  int byteSize;
+  fseek(archivo1, 0, SEEK_END);
+  byteSize = ftell(archivo1);
+  unsigned long int x = byteSize/sizeof(record1); // num of words
+
   char word[50];
   int user = 1;
   while (user == 1) {
@@ -89,7 +96,7 @@ int main() {
     scanf("%s", word);
     if (validateWord(word)==0){
       printf("Your word: >%s<\n", word);
-      int start = search(word, 2530, archivo1);
+      int start = search(word, x, archivo1);
       if (start != -1) {
         positions(start, archivo2);
       } else {
@@ -105,3 +112,4 @@ int main() {
   printf("\n BYE"); 
   return 0;
 }
+

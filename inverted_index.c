@@ -257,18 +257,18 @@ int main(void) {
     fwrite(&(a.array[i]), sizeof(record1), 1, archivo1);
   }
   
-  printf("===============Imprimiendo Archivo 1\n");
+/*   printf("===============Imprimiendo Archivo 1\n");
   imprimirArchivo1(archivo1);
   printf("===============\n");
   printf("===============Imprimiendo Archivo 2\n");
   imprimirArchivo2(archivo2);
-  printf("===============\n");
+  printf("===============\n"); */
+
   fclose(archivo1);
   fclose(archivo2);
-  int len = a.used;
-  printf("\n\n\n%d", len);
   freeArray(&a);
-  return len;
+
+  return 0;
 }
 
 /* DYNAMIC ARRAY METHODS */
